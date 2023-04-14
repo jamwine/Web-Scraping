@@ -45,8 +45,9 @@ class SpiderCrypto(scrapy.Spider):
             yield crypto_item
 
             self.df.loc[len(self.df)] = crypto_item
-            # Store as csv, json & xml
-            self.df.to_csv("crypto_report2.csv", sep=",")
-            self.df.to_json("crypto_report2.json")
-            self.df.to_xml("crypto_report2.xml")
+
+        # Store as csv, json & xml
+        self.df.to_csv("crypto_report2.csv", sep=",")
+        self.df.to_json("crypto_report2.json")
+        self.df.to_xml("crypto_report2.xml")
 
