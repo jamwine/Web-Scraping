@@ -1,0 +1,1003 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Stock>Bitcoin USD</Stock>
+    <Price>30,741.99</Price>
+    <Change>+636.06</Change>
+    <Percent>+2.11%</Percent>
+    <Market>594.726B</Market>
+    <Supply>19.346M</Supply>
+    <Volume>20.192B</Volume>
+  </row>
+  <row>
+    <index>1</index>
+    <Stock>Ethereum USD</Stock>
+    <Price>2,114.26</Price>
+    <Change>+197.69</Change>
+    <Percent>+10.32%</Percent>
+    <Market>254.68B</Market>
+    <Supply>120.458M</Supply>
+    <Volume>16.041B</Volume>
+  </row>
+  <row>
+    <index>2</index>
+    <Stock>Tether USD</Stock>
+    <Price>1.0009</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>80.838B</Market>
+    <Supply>80.765B</Supply>
+    <Volume>37.383B</Volume>
+  </row>
+  <row>
+    <index>3</index>
+    <Stock>BNB USD</Stock>
+    <Price>333.40</Price>
+    <Change>+13.17</Change>
+    <Percent>+4.11%</Percent>
+    <Market>52.635B</Market>
+    <Supply>157.871M</Supply>
+    <Volume>820.48M</Volume>
+  </row>
+  <row>
+    <index>4</index>
+    <Stock>USD Coin USD</Stock>
+    <Price>0.999741</Price>
+    <Change>-0.000252</Change>
+    <Percent>-0.03%</Percent>
+    <Market>31.939B</Market>
+    <Supply>31.947B</Supply>
+    <Volume>5.35B</Volume>
+  </row>
+  <row>
+    <index>5</index>
+    <Stock>XRP USD</Stock>
+    <Price>0.523294</Price>
+    <Change>+0.017444</Change>
+    <Percent>+3.45%</Percent>
+    <Market>27.081B</Market>
+    <Supply>51.751B</Supply>
+    <Volume>1.07B</Volume>
+  </row>
+  <row>
+    <index>6</index>
+    <Stock>Cardano USD</Stock>
+    <Price>0.441454</Price>
+    <Change>+0.033542</Change>
+    <Percent>+8.22%</Percent>
+    <Market>15.35B</Market>
+    <Supply>34.772B</Supply>
+    <Volume>673.107M</Volume>
+  </row>
+  <row>
+    <index>7</index>
+    <Stock>HEX USD</Stock>
+    <Price>0.077672</Price>
+    <Change>+0.004555</Change>
+    <Percent>+6.23%</Percent>
+    <Market>13.469B</Market>
+    <Supply>173.411B</Supply>
+    <Volume>7.444M</Volume>
+  </row>
+  <row>
+    <index>8</index>
+    <Stock>Dogecoin USD</Stock>
+    <Price>0.090414</Price>
+    <Change>+0.006922</Change>
+    <Percent>+8.29%</Percent>
+    <Market>12.561B</Market>
+    <Supply>138.93B</Supply>
+    <Volume>1.011B</Volume>
+  </row>
+  <row>
+    <index>9</index>
+    <Stock>Lido Staked ETH USD</Stock>
+    <Price>2,107.67</Price>
+    <Change>+210.93</Change>
+    <Percent>+11.12%</Percent>
+    <Market>12.543B</Market>
+    <Supply>5.951M</Supply>
+    <Volume>97.344M</Volume>
+  </row>
+  <row>
+    <index>10</index>
+    <Stock>Polygon USD</Stock>
+    <Price>1.1824</Price>
+    <Change>+0.0737</Change>
+    <Percent>+6.64%</Percent>
+    <Market>10.902B</Market>
+    <Supply>9.219B</Supply>
+    <Volume>445.53M</Volume>
+  </row>
+  <row>
+    <index>11</index>
+    <Stock>Solana USD</Stock>
+    <Price>25.13</Price>
+    <Change>+1.13</Change>
+    <Percent>+4.72%</Percent>
+    <Market>9.844B</Market>
+    <Supply>391.639M</Supply>
+    <Volume>926.983M</Volume>
+  </row>
+  <row>
+    <index>12</index>
+    <Stock>Polkadot USD</Stock>
+    <Price>6.8386</Price>
+    <Change>+0.4160</Change>
+    <Percent>+6.48%</Percent>
+    <Market>8.042B</Market>
+    <Supply>1.176B</Supply>
+    <Volume>251.66M</Volume>
+  </row>
+  <row>
+    <index>13</index>
+    <Stock>Litecoin USD</Stock>
+    <Price>98.56</Price>
+    <Change>+6.02</Change>
+    <Percent>+6.50%</Percent>
+    <Market>7.165B</Market>
+    <Supply>72.701M</Supply>
+    <Volume>730.095M</Volume>
+  </row>
+  <row>
+    <index>14</index>
+    <Stock>Binance USD USD</Stock>
+    <Price>1.0006</Price>
+    <Change>+0.0002</Change>
+    <Percent>+0.02%</Percent>
+    <Market>6.8B</Market>
+    <Supply>6.795B</Supply>
+    <Volume>3.838B</Volume>
+  </row>
+  <row>
+    <index>15</index>
+    <Stock>Wrapped TRON USD</Stock>
+    <Price>0.066711</Price>
+    <Change>+0.001687</Change>
+    <Percent>+2.59%</Percent>
+    <Market>6.783B</Market>
+    <Supply>101.676B</Supply>
+    <Volume>1.186M</Volume>
+  </row>
+  <row>
+    <index>16</index>
+    <Stock>Shiba Inu USD</Stock>
+    <Price>0.000011</Price>
+    <Change>+0.000000</Change>
+    <Percent>+3.87%</Percent>
+    <Market>6.703B</Market>
+    <Supply>589.539T</Supply>
+    <Volume>229.608M</Volume>
+  </row>
+  <row>
+    <index>17</index>
+    <Stock>Avalanche USD</Stock>
+    <Price>19.25</Price>
+    <Change>+0.71</Change>
+    <Percent>+3.85%</Percent>
+    <Market>6.279B</Market>
+    <Supply>326.191M</Supply>
+    <Volume>256.614M</Volume>
+  </row>
+  <row>
+    <index>18</index>
+    <Stock>TRON USD</Stock>
+    <Price>0.066550</Price>
+    <Change>+0.001485</Change>
+    <Percent>+2.28%</Percent>
+    <Market>6.045B</Market>
+    <Supply>90.837B</Supply>
+    <Volume>274.561M</Volume>
+  </row>
+  <row>
+    <index>19</index>
+    <Stock>Dai USD</Stock>
+    <Price>1.0001</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>5.205B</Market>
+    <Supply>5.204B</Supply>
+    <Volume>198.695M</Volume>
+  </row>
+  <row>
+    <index>20</index>
+    <Stock>Wrapped Bitcoin USD</Stock>
+    <Price>30,875.45</Price>
+    <Change>+762.17</Change>
+    <Percent>+2.53%</Percent>
+    <Market>4.648B</Market>
+    <Supply>150,550</Supply>
+    <Volume>325.842M</Volume>
+  </row>
+  <row>
+    <index>21</index>
+    <Stock>Chainlink USD</Stock>
+    <Price>7.7388</Price>
+    <Change>+0.4982</Change>
+    <Percent>+6.88%</Percent>
+    <Market>4.002B</Market>
+    <Supply>517.1M</Supply>
+    <Volume>295.503M</Volume>
+  </row>
+  <row>
+    <index>22</index>
+    <Stock>Uniswap USD</Stock>
+    <Price>6.4123</Price>
+    <Change>+0.4693</Change>
+    <Percent>+7.90%</Percent>
+    <Market>3.703B</Market>
+    <Supply>577.487M</Supply>
+    <Volume>119.974M</Volume>
+  </row>
+  <row>
+    <index>23</index>
+    <Stock>Cosmos USD</Stock>
+    <Price>12.06</Price>
+    <Change>+0.72</Change>
+    <Percent>+6.34%</Percent>
+    <Market>3.454B</Market>
+    <Supply>286.37M</Supply>
+    <Volume>181.658M</Volume>
+  </row>
+  <row>
+    <index>24</index>
+    <Stock>UNUS SED LEO USD</Stock>
+    <Price>3.3886</Price>
+    <Change>-0.0341</Change>
+    <Percent>-1.00%</Percent>
+    <Market>3.233B</Market>
+    <Supply>953.954M</Supply>
+    <Volume>523,481</Volume>
+  </row>
+  <row>
+    <index>25</index>
+    <Stock>Bitcoin USD</Stock>
+    <Price>30,741.99</Price>
+    <Change>+636.06</Change>
+    <Percent>+2.11%</Percent>
+    <Market>594.726B</Market>
+    <Supply>19.346M</Supply>
+    <Volume>20.192B</Volume>
+  </row>
+  <row>
+    <index>26</index>
+    <Stock>Ethereum USD</Stock>
+    <Price>2,114.26</Price>
+    <Change>+197.69</Change>
+    <Percent>+10.32%</Percent>
+    <Market>254.68B</Market>
+    <Supply>120.458M</Supply>
+    <Volume>16.041B</Volume>
+  </row>
+  <row>
+    <index>27</index>
+    <Stock>Tether USD</Stock>
+    <Price>1.0009</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>80.838B</Market>
+    <Supply>80.765B</Supply>
+    <Volume>37.383B</Volume>
+  </row>
+  <row>
+    <index>28</index>
+    <Stock>BNB USD</Stock>
+    <Price>333.40</Price>
+    <Change>+13.17</Change>
+    <Percent>+4.11%</Percent>
+    <Market>52.635B</Market>
+    <Supply>157.871M</Supply>
+    <Volume>820.48M</Volume>
+  </row>
+  <row>
+    <index>29</index>
+    <Stock>USD Coin USD</Stock>
+    <Price>0.999741</Price>
+    <Change>-0.000252</Change>
+    <Percent>-0.03%</Percent>
+    <Market>31.939B</Market>
+    <Supply>31.947B</Supply>
+    <Volume>5.35B</Volume>
+  </row>
+  <row>
+    <index>30</index>
+    <Stock>XRP USD</Stock>
+    <Price>0.523294</Price>
+    <Change>+0.017444</Change>
+    <Percent>+3.45%</Percent>
+    <Market>27.081B</Market>
+    <Supply>51.751B</Supply>
+    <Volume>1.07B</Volume>
+  </row>
+  <row>
+    <index>31</index>
+    <Stock>Cardano USD</Stock>
+    <Price>0.441454</Price>
+    <Change>+0.033542</Change>
+    <Percent>+8.22%</Percent>
+    <Market>15.35B</Market>
+    <Supply>34.772B</Supply>
+    <Volume>673.107M</Volume>
+  </row>
+  <row>
+    <index>32</index>
+    <Stock>HEX USD</Stock>
+    <Price>0.077672</Price>
+    <Change>+0.004555</Change>
+    <Percent>+6.23%</Percent>
+    <Market>13.469B</Market>
+    <Supply>173.411B</Supply>
+    <Volume>7.444M</Volume>
+  </row>
+  <row>
+    <index>33</index>
+    <Stock>Dogecoin USD</Stock>
+    <Price>0.090414</Price>
+    <Change>+0.006922</Change>
+    <Percent>+8.29%</Percent>
+    <Market>12.561B</Market>
+    <Supply>138.93B</Supply>
+    <Volume>1.011B</Volume>
+  </row>
+  <row>
+    <index>34</index>
+    <Stock>Lido Staked ETH USD</Stock>
+    <Price>2,107.67</Price>
+    <Change>+210.93</Change>
+    <Percent>+11.12%</Percent>
+    <Market>12.543B</Market>
+    <Supply>5.951M</Supply>
+    <Volume>97.344M</Volume>
+  </row>
+  <row>
+    <index>35</index>
+    <Stock>Polygon USD</Stock>
+    <Price>1.1824</Price>
+    <Change>+0.0737</Change>
+    <Percent>+6.64%</Percent>
+    <Market>10.902B</Market>
+    <Supply>9.219B</Supply>
+    <Volume>445.53M</Volume>
+  </row>
+  <row>
+    <index>36</index>
+    <Stock>Solana USD</Stock>
+    <Price>25.13</Price>
+    <Change>+1.13</Change>
+    <Percent>+4.72%</Percent>
+    <Market>9.844B</Market>
+    <Supply>391.639M</Supply>
+    <Volume>926.983M</Volume>
+  </row>
+  <row>
+    <index>37</index>
+    <Stock>Polkadot USD</Stock>
+    <Price>6.8386</Price>
+    <Change>+0.4160</Change>
+    <Percent>+6.48%</Percent>
+    <Market>8.042B</Market>
+    <Supply>1.176B</Supply>
+    <Volume>251.66M</Volume>
+  </row>
+  <row>
+    <index>38</index>
+    <Stock>Litecoin USD</Stock>
+    <Price>98.56</Price>
+    <Change>+6.02</Change>
+    <Percent>+6.50%</Percent>
+    <Market>7.165B</Market>
+    <Supply>72.701M</Supply>
+    <Volume>730.095M</Volume>
+  </row>
+  <row>
+    <index>39</index>
+    <Stock>Binance USD USD</Stock>
+    <Price>1.0006</Price>
+    <Change>+0.0002</Change>
+    <Percent>+0.02%</Percent>
+    <Market>6.8B</Market>
+    <Supply>6.795B</Supply>
+    <Volume>3.838B</Volume>
+  </row>
+  <row>
+    <index>40</index>
+    <Stock>Wrapped TRON USD</Stock>
+    <Price>0.066711</Price>
+    <Change>+0.001687</Change>
+    <Percent>+2.59%</Percent>
+    <Market>6.783B</Market>
+    <Supply>101.676B</Supply>
+    <Volume>1.186M</Volume>
+  </row>
+  <row>
+    <index>41</index>
+    <Stock>Shiba Inu USD</Stock>
+    <Price>0.000011</Price>
+    <Change>+0.000000</Change>
+    <Percent>+3.87%</Percent>
+    <Market>6.703B</Market>
+    <Supply>589.539T</Supply>
+    <Volume>229.608M</Volume>
+  </row>
+  <row>
+    <index>42</index>
+    <Stock>Avalanche USD</Stock>
+    <Price>19.25</Price>
+    <Change>+0.71</Change>
+    <Percent>+3.85%</Percent>
+    <Market>6.279B</Market>
+    <Supply>326.191M</Supply>
+    <Volume>256.614M</Volume>
+  </row>
+  <row>
+    <index>43</index>
+    <Stock>TRON USD</Stock>
+    <Price>0.066550</Price>
+    <Change>+0.001485</Change>
+    <Percent>+2.28%</Percent>
+    <Market>6.045B</Market>
+    <Supply>90.837B</Supply>
+    <Volume>274.561M</Volume>
+  </row>
+  <row>
+    <index>44</index>
+    <Stock>Dai USD</Stock>
+    <Price>1.0001</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>5.205B</Market>
+    <Supply>5.204B</Supply>
+    <Volume>198.695M</Volume>
+  </row>
+  <row>
+    <index>45</index>
+    <Stock>Wrapped Bitcoin USD</Stock>
+    <Price>30,875.45</Price>
+    <Change>+762.17</Change>
+    <Percent>+2.53%</Percent>
+    <Market>4.648B</Market>
+    <Supply>150,550</Supply>
+    <Volume>325.842M</Volume>
+  </row>
+  <row>
+    <index>46</index>
+    <Stock>Chainlink USD</Stock>
+    <Price>7.7388</Price>
+    <Change>+0.4982</Change>
+    <Percent>+6.88%</Percent>
+    <Market>4.002B</Market>
+    <Supply>517.1M</Supply>
+    <Volume>295.503M</Volume>
+  </row>
+  <row>
+    <index>47</index>
+    <Stock>Uniswap USD</Stock>
+    <Price>6.4123</Price>
+    <Change>+0.4693</Change>
+    <Percent>+7.90%</Percent>
+    <Market>3.703B</Market>
+    <Supply>577.487M</Supply>
+    <Volume>119.974M</Volume>
+  </row>
+  <row>
+    <index>48</index>
+    <Stock>Cosmos USD</Stock>
+    <Price>12.06</Price>
+    <Change>+0.72</Change>
+    <Percent>+6.34%</Percent>
+    <Market>3.454B</Market>
+    <Supply>286.37M</Supply>
+    <Volume>181.658M</Volume>
+  </row>
+  <row>
+    <index>49</index>
+    <Stock>UNUS SED LEO USD</Stock>
+    <Price>3.3886</Price>
+    <Change>-0.0341</Change>
+    <Percent>-1.00%</Percent>
+    <Market>3.233B</Market>
+    <Supply>953.954M</Supply>
+    <Volume>523,481</Volume>
+  </row>
+  <row>
+    <index>50</index>
+    <Stock>Bitcoin USD</Stock>
+    <Price>30,741.99</Price>
+    <Change>+636.06</Change>
+    <Percent>+2.11%</Percent>
+    <Market>594.726B</Market>
+    <Supply>19.346M</Supply>
+    <Volume>20.192B</Volume>
+  </row>
+  <row>
+    <index>51</index>
+    <Stock>Ethereum USD</Stock>
+    <Price>2,114.26</Price>
+    <Change>+197.69</Change>
+    <Percent>+10.32%</Percent>
+    <Market>254.68B</Market>
+    <Supply>120.458M</Supply>
+    <Volume>16.041B</Volume>
+  </row>
+  <row>
+    <index>52</index>
+    <Stock>Tether USD</Stock>
+    <Price>1.0009</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>80.838B</Market>
+    <Supply>80.765B</Supply>
+    <Volume>37.383B</Volume>
+  </row>
+  <row>
+    <index>53</index>
+    <Stock>BNB USD</Stock>
+    <Price>333.40</Price>
+    <Change>+13.17</Change>
+    <Percent>+4.11%</Percent>
+    <Market>52.635B</Market>
+    <Supply>157.871M</Supply>
+    <Volume>820.48M</Volume>
+  </row>
+  <row>
+    <index>54</index>
+    <Stock>USD Coin USD</Stock>
+    <Price>0.999741</Price>
+    <Change>-0.000252</Change>
+    <Percent>-0.03%</Percent>
+    <Market>31.939B</Market>
+    <Supply>31.947B</Supply>
+    <Volume>5.35B</Volume>
+  </row>
+  <row>
+    <index>55</index>
+    <Stock>XRP USD</Stock>
+    <Price>0.523294</Price>
+    <Change>+0.017444</Change>
+    <Percent>+3.45%</Percent>
+    <Market>27.081B</Market>
+    <Supply>51.751B</Supply>
+    <Volume>1.07B</Volume>
+  </row>
+  <row>
+    <index>56</index>
+    <Stock>Cardano USD</Stock>
+    <Price>0.441454</Price>
+    <Change>+0.033542</Change>
+    <Percent>+8.22%</Percent>
+    <Market>15.35B</Market>
+    <Supply>34.772B</Supply>
+    <Volume>673.107M</Volume>
+  </row>
+  <row>
+    <index>57</index>
+    <Stock>HEX USD</Stock>
+    <Price>0.077672</Price>
+    <Change>+0.004555</Change>
+    <Percent>+6.23%</Percent>
+    <Market>13.469B</Market>
+    <Supply>173.411B</Supply>
+    <Volume>7.444M</Volume>
+  </row>
+  <row>
+    <index>58</index>
+    <Stock>Dogecoin USD</Stock>
+    <Price>0.090414</Price>
+    <Change>+0.006922</Change>
+    <Percent>+8.29%</Percent>
+    <Market>12.561B</Market>
+    <Supply>138.93B</Supply>
+    <Volume>1.011B</Volume>
+  </row>
+  <row>
+    <index>59</index>
+    <Stock>Lido Staked ETH USD</Stock>
+    <Price>2,107.67</Price>
+    <Change>+210.93</Change>
+    <Percent>+11.12%</Percent>
+    <Market>12.543B</Market>
+    <Supply>5.951M</Supply>
+    <Volume>97.344M</Volume>
+  </row>
+  <row>
+    <index>60</index>
+    <Stock>Polygon USD</Stock>
+    <Price>1.1824</Price>
+    <Change>+0.0737</Change>
+    <Percent>+6.64%</Percent>
+    <Market>10.902B</Market>
+    <Supply>9.219B</Supply>
+    <Volume>445.53M</Volume>
+  </row>
+  <row>
+    <index>61</index>
+    <Stock>Solana USD</Stock>
+    <Price>25.13</Price>
+    <Change>+1.13</Change>
+    <Percent>+4.72%</Percent>
+    <Market>9.844B</Market>
+    <Supply>391.639M</Supply>
+    <Volume>926.983M</Volume>
+  </row>
+  <row>
+    <index>62</index>
+    <Stock>Polkadot USD</Stock>
+    <Price>6.8386</Price>
+    <Change>+0.4160</Change>
+    <Percent>+6.48%</Percent>
+    <Market>8.042B</Market>
+    <Supply>1.176B</Supply>
+    <Volume>251.66M</Volume>
+  </row>
+  <row>
+    <index>63</index>
+    <Stock>Litecoin USD</Stock>
+    <Price>98.56</Price>
+    <Change>+6.02</Change>
+    <Percent>+6.50%</Percent>
+    <Market>7.165B</Market>
+    <Supply>72.701M</Supply>
+    <Volume>730.095M</Volume>
+  </row>
+  <row>
+    <index>64</index>
+    <Stock>Binance USD USD</Stock>
+    <Price>1.0006</Price>
+    <Change>+0.0002</Change>
+    <Percent>+0.02%</Percent>
+    <Market>6.8B</Market>
+    <Supply>6.795B</Supply>
+    <Volume>3.838B</Volume>
+  </row>
+  <row>
+    <index>65</index>
+    <Stock>Wrapped TRON USD</Stock>
+    <Price>0.066711</Price>
+    <Change>+0.001687</Change>
+    <Percent>+2.59%</Percent>
+    <Market>6.783B</Market>
+    <Supply>101.676B</Supply>
+    <Volume>1.186M</Volume>
+  </row>
+  <row>
+    <index>66</index>
+    <Stock>Shiba Inu USD</Stock>
+    <Price>0.000011</Price>
+    <Change>+0.000000</Change>
+    <Percent>+3.87%</Percent>
+    <Market>6.703B</Market>
+    <Supply>589.539T</Supply>
+    <Volume>229.608M</Volume>
+  </row>
+  <row>
+    <index>67</index>
+    <Stock>Avalanche USD</Stock>
+    <Price>19.25</Price>
+    <Change>+0.71</Change>
+    <Percent>+3.85%</Percent>
+    <Market>6.279B</Market>
+    <Supply>326.191M</Supply>
+    <Volume>256.614M</Volume>
+  </row>
+  <row>
+    <index>68</index>
+    <Stock>TRON USD</Stock>
+    <Price>0.066550</Price>
+    <Change>+0.001485</Change>
+    <Percent>+2.28%</Percent>
+    <Market>6.045B</Market>
+    <Supply>90.837B</Supply>
+    <Volume>274.561M</Volume>
+  </row>
+  <row>
+    <index>69</index>
+    <Stock>Dai USD</Stock>
+    <Price>1.0001</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>5.205B</Market>
+    <Supply>5.204B</Supply>
+    <Volume>198.695M</Volume>
+  </row>
+  <row>
+    <index>70</index>
+    <Stock>Wrapped Bitcoin USD</Stock>
+    <Price>30,875.45</Price>
+    <Change>+762.17</Change>
+    <Percent>+2.53%</Percent>
+    <Market>4.648B</Market>
+    <Supply>150,550</Supply>
+    <Volume>325.842M</Volume>
+  </row>
+  <row>
+    <index>71</index>
+    <Stock>Chainlink USD</Stock>
+    <Price>7.7388</Price>
+    <Change>+0.4982</Change>
+    <Percent>+6.88%</Percent>
+    <Market>4.002B</Market>
+    <Supply>517.1M</Supply>
+    <Volume>295.503M</Volume>
+  </row>
+  <row>
+    <index>72</index>
+    <Stock>Uniswap USD</Stock>
+    <Price>6.4123</Price>
+    <Change>+0.4693</Change>
+    <Percent>+7.90%</Percent>
+    <Market>3.703B</Market>
+    <Supply>577.487M</Supply>
+    <Volume>119.974M</Volume>
+  </row>
+  <row>
+    <index>73</index>
+    <Stock>Cosmos USD</Stock>
+    <Price>12.06</Price>
+    <Change>+0.72</Change>
+    <Percent>+6.34%</Percent>
+    <Market>3.454B</Market>
+    <Supply>286.37M</Supply>
+    <Volume>181.658M</Volume>
+  </row>
+  <row>
+    <index>74</index>
+    <Stock>UNUS SED LEO USD</Stock>
+    <Price>3.3886</Price>
+    <Change>-0.0341</Change>
+    <Percent>-1.00%</Percent>
+    <Market>3.233B</Market>
+    <Supply>953.954M</Supply>
+    <Volume>523,481</Volume>
+  </row>
+  <row>
+    <index>75</index>
+    <Stock>Bitcoin USD</Stock>
+    <Price>30,741.99</Price>
+    <Change>+636.06</Change>
+    <Percent>+2.11%</Percent>
+    <Market>594.726B</Market>
+    <Supply>19.346M</Supply>
+    <Volume>20.192B</Volume>
+  </row>
+  <row>
+    <index>76</index>
+    <Stock>Ethereum USD</Stock>
+    <Price>2,114.26</Price>
+    <Change>+197.69</Change>
+    <Percent>+10.32%</Percent>
+    <Market>254.68B</Market>
+    <Supply>120.458M</Supply>
+    <Volume>16.041B</Volume>
+  </row>
+  <row>
+    <index>77</index>
+    <Stock>Tether USD</Stock>
+    <Price>1.0009</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>80.838B</Market>
+    <Supply>80.765B</Supply>
+    <Volume>37.383B</Volume>
+  </row>
+  <row>
+    <index>78</index>
+    <Stock>BNB USD</Stock>
+    <Price>333.40</Price>
+    <Change>+13.17</Change>
+    <Percent>+4.11%</Percent>
+    <Market>52.635B</Market>
+    <Supply>157.871M</Supply>
+    <Volume>820.48M</Volume>
+  </row>
+  <row>
+    <index>79</index>
+    <Stock>USD Coin USD</Stock>
+    <Price>0.999741</Price>
+    <Change>-0.000252</Change>
+    <Percent>-0.03%</Percent>
+    <Market>31.939B</Market>
+    <Supply>31.947B</Supply>
+    <Volume>5.35B</Volume>
+  </row>
+  <row>
+    <index>80</index>
+    <Stock>XRP USD</Stock>
+    <Price>0.523294</Price>
+    <Change>+0.017444</Change>
+    <Percent>+3.45%</Percent>
+    <Market>27.081B</Market>
+    <Supply>51.751B</Supply>
+    <Volume>1.07B</Volume>
+  </row>
+  <row>
+    <index>81</index>
+    <Stock>Cardano USD</Stock>
+    <Price>0.441454</Price>
+    <Change>+0.033542</Change>
+    <Percent>+8.22%</Percent>
+    <Market>15.35B</Market>
+    <Supply>34.772B</Supply>
+    <Volume>673.107M</Volume>
+  </row>
+  <row>
+    <index>82</index>
+    <Stock>HEX USD</Stock>
+    <Price>0.077672</Price>
+    <Change>+0.004555</Change>
+    <Percent>+6.23%</Percent>
+    <Market>13.469B</Market>
+    <Supply>173.411B</Supply>
+    <Volume>7.444M</Volume>
+  </row>
+  <row>
+    <index>83</index>
+    <Stock>Dogecoin USD</Stock>
+    <Price>0.090414</Price>
+    <Change>+0.006922</Change>
+    <Percent>+8.29%</Percent>
+    <Market>12.561B</Market>
+    <Supply>138.93B</Supply>
+    <Volume>1.011B</Volume>
+  </row>
+  <row>
+    <index>84</index>
+    <Stock>Lido Staked ETH USD</Stock>
+    <Price>2,107.67</Price>
+    <Change>+210.93</Change>
+    <Percent>+11.12%</Percent>
+    <Market>12.543B</Market>
+    <Supply>5.951M</Supply>
+    <Volume>97.344M</Volume>
+  </row>
+  <row>
+    <index>85</index>
+    <Stock>Polygon USD</Stock>
+    <Price>1.1824</Price>
+    <Change>+0.0737</Change>
+    <Percent>+6.64%</Percent>
+    <Market>10.902B</Market>
+    <Supply>9.219B</Supply>
+    <Volume>445.53M</Volume>
+  </row>
+  <row>
+    <index>86</index>
+    <Stock>Solana USD</Stock>
+    <Price>25.13</Price>
+    <Change>+1.13</Change>
+    <Percent>+4.72%</Percent>
+    <Market>9.844B</Market>
+    <Supply>391.639M</Supply>
+    <Volume>926.983M</Volume>
+  </row>
+  <row>
+    <index>87</index>
+    <Stock>Polkadot USD</Stock>
+    <Price>6.8386</Price>
+    <Change>+0.4160</Change>
+    <Percent>+6.48%</Percent>
+    <Market>8.042B</Market>
+    <Supply>1.176B</Supply>
+    <Volume>251.66M</Volume>
+  </row>
+  <row>
+    <index>88</index>
+    <Stock>Litecoin USD</Stock>
+    <Price>98.56</Price>
+    <Change>+6.02</Change>
+    <Percent>+6.50%</Percent>
+    <Market>7.165B</Market>
+    <Supply>72.701M</Supply>
+    <Volume>730.095M</Volume>
+  </row>
+  <row>
+    <index>89</index>
+    <Stock>Binance USD USD</Stock>
+    <Price>1.0006</Price>
+    <Change>+0.0002</Change>
+    <Percent>+0.02%</Percent>
+    <Market>6.8B</Market>
+    <Supply>6.795B</Supply>
+    <Volume>3.838B</Volume>
+  </row>
+  <row>
+    <index>90</index>
+    <Stock>Wrapped TRON USD</Stock>
+    <Price>0.066711</Price>
+    <Change>+0.001687</Change>
+    <Percent>+2.59%</Percent>
+    <Market>6.783B</Market>
+    <Supply>101.676B</Supply>
+    <Volume>1.186M</Volume>
+  </row>
+  <row>
+    <index>91</index>
+    <Stock>Shiba Inu USD</Stock>
+    <Price>0.000011</Price>
+    <Change>+0.000000</Change>
+    <Percent>+3.87%</Percent>
+    <Market>6.703B</Market>
+    <Supply>589.539T</Supply>
+    <Volume>229.608M</Volume>
+  </row>
+  <row>
+    <index>92</index>
+    <Stock>Avalanche USD</Stock>
+    <Price>19.25</Price>
+    <Change>+0.71</Change>
+    <Percent>+3.85%</Percent>
+    <Market>6.279B</Market>
+    <Supply>326.191M</Supply>
+    <Volume>256.614M</Volume>
+  </row>
+  <row>
+    <index>93</index>
+    <Stock>TRON USD</Stock>
+    <Price>0.066550</Price>
+    <Change>+0.001485</Change>
+    <Percent>+2.28%</Percent>
+    <Market>6.045B</Market>
+    <Supply>90.837B</Supply>
+    <Volume>274.561M</Volume>
+  </row>
+  <row>
+    <index>94</index>
+    <Stock>Dai USD</Stock>
+    <Price>1.0001</Price>
+    <Change>+0.0000</Change>
+    <Percent>+0.00%</Percent>
+    <Market>5.205B</Market>
+    <Supply>5.204B</Supply>
+    <Volume>198.695M</Volume>
+  </row>
+  <row>
+    <index>95</index>
+    <Stock>Wrapped Bitcoin USD</Stock>
+    <Price>30,875.45</Price>
+    <Change>+762.17</Change>
+    <Percent>+2.53%</Percent>
+    <Market>4.648B</Market>
+    <Supply>150,550</Supply>
+    <Volume>325.842M</Volume>
+  </row>
+  <row>
+    <index>96</index>
+    <Stock>Chainlink USD</Stock>
+    <Price>7.7388</Price>
+    <Change>+0.4982</Change>
+    <Percent>+6.88%</Percent>
+    <Market>4.002B</Market>
+    <Supply>517.1M</Supply>
+    <Volume>295.503M</Volume>
+  </row>
+  <row>
+    <index>97</index>
+    <Stock>Uniswap USD</Stock>
+    <Price>6.4123</Price>
+    <Change>+0.4693</Change>
+    <Percent>+7.90%</Percent>
+    <Market>3.703B</Market>
+    <Supply>577.487M</Supply>
+    <Volume>119.974M</Volume>
+  </row>
+  <row>
+    <index>98</index>
+    <Stock>Cosmos USD</Stock>
+    <Price>12.06</Price>
+    <Change>+0.72</Change>
+    <Percent>+6.34%</Percent>
+    <Market>3.454B</Market>
+    <Supply>286.37M</Supply>
+    <Volume>181.658M</Volume>
+  </row>
+  <row>
+    <index>99</index>
+    <Stock>UNUS SED LEO USD</Stock>
+    <Price>3.3886</Price>
+    <Change>-0.0341</Change>
+    <Percent>-1.00%</Percent>
+    <Market>3.233B</Market>
+    <Supply>953.954M</Supply>
+    <Volume>523,481</Volume>
+  </row>
+</data>
