@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <projects>DynamoDB vs. MongoDB- Battle of The Best NoSQL Databases</projects>
+    <dates>22 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/dynamodb-vs-mongodb/dynamodb_vs_mongodb.png</links>
+  </row>
+  <row>
+    <index>1</index>
+    <projects>How to Design a Data Warehouse-Best Practices and Examples</projects>
+    <dates>22 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/how-to-design-a-data-warehouse/How_to_Design_a_Data_Warehouse.png</links>
+  </row>
+  <row>
+    <index>2</index>
+    <projects>Your 101 Guide to Model Selection In Machine Learning</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/model-selection-in-machine-learning/model_selection_in_machine_learning.png</links>
+  </row>
+  <row>
+    <index>3</index>
+    <projects>7 Best Kaggle Machine Learning Projects for 2023</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/kaggle-machine-learning-projects/Kaggle_Machine_Learning_Projects.png</links>
+  </row>
+  <row>
+    <index>4</index>
+    <projects>7 Best Udemy Data Science Courses for Beginners and Experts</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/udemy-data-science-courses/Udemy_data_science_courses.png</links>
+  </row>
+  <row>
+    <index>5</index>
+    <projects>7 Best Data Science Conferences to Attend in 2023</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-science-conferences/Data_Science_Conferences.png</links>
+  </row>
+  <row>
+    <index>6</index>
+    <projects>Coding your First Azure Data Factory Pipeline</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/azure-data-factory-pipeline/Azure_Data_Factory_Pipeline_Tutorial_and_Example.png</links>
+  </row>
+  <row>
+    <index>7</index>
+    <projects>How to Transition from Business Analyst to Data Scientist 2023?</projects>
+    <dates>20 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/business-analyst-to-data-scientist/Business_Analyst_to_Data_Scientist.png</links>
+  </row>
+  <row>
+    <index>8</index>
+    <projects>Amazon Kinesis: The Key to Real-Time Data Streaming</projects>
+    <dates>16 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/amazon-kinesis/Amazon_Kinesis.png</links>
+  </row>
+  <row>
+    <index>9</index>
+    <projects>7 GCP ETL Tools to Accelerate your Big Data Projects in 2023</projects>
+    <dates>16 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/gcp-etl-tools/GCP_ETL_Tools.png</links>
+  </row>
+  <row>
+    <index>10</index>
+    <projects>GPT3 vs GPT4-Battle of the Holy Grail of AI Language Models</projects>
+    <dates>16 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/gpt3-vs-gpt4/GPT3_vs_GPT4.png</links>
+  </row>
+  <row>
+    <index>11</index>
+    <projects>ChatGPT vs Google BARD-Battle of the Large Language Models</projects>
+    <dates>10 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/chatgpt-vs-google-bard/ChatGPT_vs._Google_BARD.png</links>
+  </row>
+  <row>
+    <index>12</index>
+    <projects>Top 50 Terraform Interview Questions and Answers for 2023</projects>
+    <dates>14 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/terraform-interview-questions-and-answers/Terraform_Interview_Questions_and_Answers.png</links>
+  </row>
+  <row>
+    <index>13</index>
+    <projects>15 Must-Try Azure DevOps Project Ideas For Data Enthusiasts</projects>
+    <dates>14 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/azure-devops-projects/Azure_DevOps_Projects.png</links>
+  </row>
+  <row>
+    <index>14</index>
+    <projects>The Ultimate 101 Guide to Apache Airflow DAGS</projects>
+    <dates>12 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/apache-airflow-dags/Apache_Airflow_DAGs.png</links>
+  </row>
+  <row>
+    <index>15</index>
+    <projects>15 FastAPI Project Ideas For Data Scientists</projects>
+    <dates>11 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/fastapi-projects/fastapi_projects.png</links>
+  </row>
+  <row>
+    <index>16</index>
+    <projects>Beginner's Guide to Building Custom NLP Models with NLTK</projects>
+    <dates>06 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/nltk/Python_NLTK.png</links>
+  </row>
+  <row>
+    <index>17</index>
+    <projects>AWS CDK - Simplify Your Cloud Infrastructure Management</projects>
+    <dates>05 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-cdk-/AWS_Cloud_Development_Kit_(AWS_CDK).png</links>
+  </row>
+  <row>
+    <index>18</index>
+    <projects>AWS Lambda: A Beginner's Guide to Serverless Computing</projects>
+    <dates>04 Apr 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-lambda/AWS_Lambda.png</links>
+  </row>
+  <row>
+    <index>19</index>
+    <projects>Python Ray -The Fast Lane to Distributed Computing</projects>
+    <dates>31 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/python-ray/Python_ray.png</links>
+  </row>
+  <row>
+    <index>20</index>
+    <projects>A Beginner's Guide to Clustering Algorithms in Machine Learning</projects>
+    <dates>31 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/clustering-algorithms-in-machine-learning/Clustering_Algorithms_in_Machine_Learning.png</links>
+  </row>
+  <row>
+    <index>21</index>
+    <projects>Cloud Data Engineer Salary Guide: How Much Can You Make?</projects>
+    <dates>31 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/cloud-data-engineer-salary/Cloud_Data_Engineer_Salary.png</links>
+  </row>
+  <row>
+    <index>22</index>
+    <projects>Demystifying Transformers Architecture in Machine Learning</projects>
+    <dates>31 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/transformers-architecture/Transformers_Architecture_in_Machine_Learning.png</links>
+  </row>
+  <row>
+    <index>23</index>
+    <projects>Data Engineer vs. Data Architect-Who Builds the Data Castle?</projects>
+    <dates>30 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineer-vs-data-architect/Data_Engineer_vs._Data_Architect.png</links>
+  </row>
+  <row>
+    <index>24</index>
+    <projects>5 Price Optimization Machine Learning Projects</projects>
+    <dates>30 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/price-optimization-machine-learning/price_optimization_machine_learning.png</links>
+  </row>
+  <row>
+    <index>25</index>
+    <projects>Decoding AWS Lambda Pricing Optimization - How to Save Big?</projects>
+    <dates>30 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-lambda-pricing/AWS_Lambda_Pricing.png</links>
+  </row>
+  <row>
+    <index>26</index>
+    <projects>The Ultimate Guide to YOLOv3 Architecture</projects>
+    <dates>29 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/yolov3-architecture/Architecture_of_YOLOv3_object_detection_model.png</links>
+  </row>
+  <row>
+    <index>27</index>
+    <projects>AWS Lambda vs Azure Functions:The (FaaS) Faceoff for 2023</projects>
+    <dates>29 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-lambda-vs-azure-functions/AWS_Lambda_vs._Azure_Functions.png</links>
+  </row>
+  <row>
+    <index>28</index>
+    <projects>7 Real-World Applications of SQL Across Industries</projects>
+    <dates>28 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/applications-of-sql/Applications_of_SQL.png</links>
+  </row>
+  <row>
+    <index>29</index>
+    <projects>Navigating the Terrain of Machine Learning Challenges</projects>
+    <dates>27 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/machine-learning-challenges/Machine_Learning_Challenges.png</links>
+  </row>
+  <row>
+    <index>30</index>
+    <projects>The Ultimate Guide to Building Your Own LSTM Models</projects>
+    <dates>27 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/lstm-model/Long_Short_Term_Memory_(LSTM)_Models.png</links>
+  </row>
+  <row>
+    <index>31</index>
+    <projects>5 Applications of Data Science in Insurance</projects>
+    <dates>27 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-science-in-insurance-/Applications_of_Data_Science_in_Insurance.png</links>
+  </row>
+  <row>
+    <index>32</index>
+    <projects>Master Keras for Deep Learning Projects - A Beginner's Guide</projects>
+    <dates>27 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/keras-for-deep-learning/Keras_for_deep_learning.png</links>
+  </row>
+  <row>
+    <index>33</index>
+    <projects>7 Best Pytorch Books for Deep Learning Experts to Read in 2023</projects>
+    <dates>27 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/best-pytorch-books/Best_PyTorch_Books.png</links>
+  </row>
+  <row>
+    <index>34</index>
+    <projects>Top Business Intelligence Certifications to Boost Your Resume</projects>
+    <dates>23 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/business-intelligence-certifications/Business_Intelligence_Certifications.png</links>
+  </row>
+  <row>
+    <index>35</index>
+    <projects>AWS Quicksight vs. Tableau -Which is The Best BI Tool For You?</projects>
+    <dates>23 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-quicksight-vs-tableau/AWS_Quicksight_vs._Tableau.png</links>
+  </row>
+  <row>
+    <index>36</index>
+    <projects>5 Machine Learning Applications in Genetics and Genomics</projects>
+    <dates>25 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/machine-learning-applications-in-genetics-and-genomics/machine_learning_applications_in_genetics_and_genomics.png</links>
+  </row>
+  <row>
+    <index>37</index>
+    <projects>A Beginner’s Guide to Topic Modeling NLP</projects>
+    <dates>25 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/topic-modeling-nlp/Topic_Modeling_with_NLP.png</links>
+  </row>
+  <row>
+    <index>38</index>
+    <projects>Our Picks for 7 Best Python Data Science Books to Read in 2023</projects>
+    <dates>25 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/python-data-science-books/Python_Data_Science_Books.png</links>
+  </row>
+  <row>
+    <index>39</index>
+    <projects>A Comprehensive Guide on AWS CloudWatch For Data Experts</projects>
+    <dates>24 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-cloudwatch/AWS_CloudWatch.png</links>
+  </row>
+  <row>
+    <index>40</index>
+    <projects>5 AWS Glue Use Cases and Examples That Showcase Its Power</projects>
+    <dates>24 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-glue-examples-and-use-cases/AWS_Glue_Examples_and_Use_Cases.png</links>
+  </row>
+  <row>
+    <index>41</index>
+    <projects>Azure Data Lake Architecture: Migrating Big Data to The Cloud</projects>
+    <dates>24 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/azure-data-lake-architecture/Azure_Data_Lake_Architecture_Migrating_Big_Data_to_The_Cloud.png</links>
+  </row>
+  <row>
+    <index>42</index>
+    <projects>From EHR to Telemedicine: Azure for Healthcare Services</projects>
+    <dates>24 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/azure-for-healthcare-services/Azure_for_Healthcare_Services.png</links>
+  </row>
+  <row>
+    <index>43</index>
+    <projects>Forge Your Career Path with Best Data Engineering Certifications</projects>
+    <dates>21 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineering-certifications/Data_Engineering_Certifications.png</links>
+  </row>
+  <row>
+    <index>44</index>
+    <projects>How to Become Databricks Certified Apache Spark Developer?</projects>
+    <dates>21 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/certified-apache-spark-developer/Apache_Spark_Developer.png</links>
+  </row>
+  <row>
+    <index>45</index>
+    <projects>Top 7 Python Image Processing Libraries To Excel in Data Science</projects>
+    <dates>21 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/python-image-processing-libraries/Python_Image_Processing_Libraries.png</links>
+  </row>
+  <row>
+    <index>46</index>
+    <projects>Guide to OpenCV and Python-Dynamic Duo of Image Processing</projects>
+    <dates>17 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/opencv-python/OpenCV_Python.png</links>
+  </row>
+  <row>
+    <index>47</index>
+    <projects>SQL for Data Engineering: Success Blueprint for Data Engineers</projects>
+    <dates>17 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/sql-for-data-engineering/SQL_for_Data_Engineering.png</links>
+  </row>
+  <row>
+    <index>48</index>
+    <projects>Data Analyst Certifications for Advancing Your Career in 2023</projects>
+    <dates>10 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-analyst-certifications/Data_Analyst_Certifications.png</links>
+  </row>
+  <row>
+    <index>49</index>
+    <projects>100+ AWS Solutions Architect Interview Questions and Answers</projects>
+    <dates>10 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-solutions-architect-interview-questions-and-answers/AWS_Solutions_Architect_Interview_Questions_and_Answers.png</links>
+  </row>
+  <row>
+    <index>50</index>
+    <projects>7 Best Python IDE for Data Science and Machine Learning</projects>
+    <dates>10 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/best-python-ide-for-data-science-and-machine-learning/Best_Python_IDE_for_Data_Science_and_Machine_Learning_Projects.png</links>
+  </row>
+  <row>
+    <index>51</index>
+    <projects>The Power of Generative Adversarial Networks in ML</projects>
+    <dates>09 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/generative-adversarial-networks/Generative_Adversarial_Networks.png</links>
+  </row>
+  <row>
+    <index>52</index>
+    <projects>Amazon RDS vs. DynamoDB-A Comprehensive Comparison</projects>
+    <dates>09 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/amazon-rds-vs-dynamodb/Amazon_RDS_vs_DynamoDB.png</links>
+  </row>
+  <row>
+    <index>53</index>
+    <projects>7 Applications of Data Science in Supply Chain</projects>
+    <dates>07 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-science-in-supply-chain/Data_Science_in_Supply_Chain.png</links>
+  </row>
+  <row>
+    <index>54</index>
+    <projects>How to Become A Data Modeler in 2023?</projects>
+    <dates>06 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/how-to-become-a-data-modeler/How_to_Become_a_Data_Modeler1.png</links>
+  </row>
+  <row>
+    <index>55</index>
+    <projects>Apache Spark on Azure: When Big Data Meets Cloud</projects>
+    <dates>06 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/spark-on-azure/Apache_Spark_on_Azure.png</links>
+  </row>
+  <row>
+    <index>56</index>
+    <projects>Mastering the Art of Data Wrangling: A Comprehensive Guide</projects>
+    <dates>06 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-wrangling/Data_Wrangling.png</links>
+  </row>
+  <row>
+    <index>57</index>
+    <projects>How to Become a Citizen Data Scientist in 2023?</projects>
+    <dates>06 Mar 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/citizen-data-scientist/Citizen_Data_Scientist.png</links>
+  </row>
+  <row>
+    <index>58</index>
+    <projects>Top 10 Essential Data Engineering Skills</projects>
+    <dates>25 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineering-skills/Essential_Data_Engineer_Skills.png</links>
+  </row>
+  <row>
+    <index>59</index>
+    <projects>How to learn Convolutional Neural Networks in 7 easy steps?</projects>
+    <dates>25 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/learn-convolutional-neural-networks/Learn_Convolutional_Neural_Networks.png</links>
+  </row>
+  <row>
+    <index>60</index>
+    <projects>7 Best Apache Spark Books for Beginners and Experts 2023</projects>
+    <dates>17 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/apache-spark-books/apache_spark_books.png</links>
+  </row>
+  <row>
+    <index>61</index>
+    <projects>20+ Splunk Interview Questions and Answers For Data Experts</projects>
+    <dates>16 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/splunk-interview-questions-and-answers/Splunk_Interview_Questions_and_Answers.png</links>
+  </row>
+  <row>
+    <index>62</index>
+    <projects>Business Intelligence vs Artificial Intelligence-Battle of the Brains</projects>
+    <dates>16 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/business-intelligence-vs-artificial-intelligence/Business_Intelligence_vs._Artificial_Intelligence.png</links>
+  </row>
+  <row>
+    <index>63</index>
+    <projects>The Ultimate Apache Splunk Primer for Data Professionals</projects>
+    <dates>16 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/apache-splunk/Apache_Splunk.png</links>
+  </row>
+  <row>
+    <index>64</index>
+    <projects>Mastering the Art of ETL on AWS for Data Management</projects>
+    <dates>16 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/etl-on-aws/ETL_on_AWS.png</links>
+  </row>
+  <row>
+    <index>65</index>
+    <projects>Data Analyst vs Business Analyst-Navigating the Data Landscape</projects>
+    <dates>15 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-analyst-vs-business-analyst/data_analyst_vs_business_analyst.png</links>
+  </row>
+  <row>
+    <index>66</index>
+    <projects>A Beginner Guide to Probabilistic Models in Machine Learning</projects>
+    <dates>10 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/probabilistic-models-in-machine-learning/Probabilistic_Models_in_Machine_Learning.png</links>
+  </row>
+  <row>
+    <index>67</index>
+    <projects>AWS Glue-Unleashing the Power of  Serverless ETL Effortlessly</projects>
+    <dates>08 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/aws-glue/AWS_Glue.png</links>
+  </row>
+  <row>
+    <index>68</index>
+    <projects>From Zero to ETL Hero-A-Z Guide to Become an ETL Developer</projects>
+    <dates>08 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/etl-developer/ETL_Developer.png</links>
+  </row>
+  <row>
+    <index>69</index>
+    <projects>What is Apache Kafka Used For?</projects>
+    <dates>08 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/what-is-apache-kafka-used-for/What_is_Apache_Kafka_Used_For.png</links>
+  </row>
+  <row>
+    <index>70</index>
+    <projects>Stemming in NLP- A Beginner's Guide to NLP Mastery</projects>
+    <dates>06 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/stemming-in-nlp/Stemming_in_NLP.png</links>
+  </row>
+  <row>
+    <index>71</index>
+    <projects>Google Cloud Pub/Sub: Messaging on The Cloud</projects>
+    <dates>06 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/google-cloud-pub-sub/google_cloud_pub_sub.png</links>
+  </row>
+  <row>
+    <index>72</index>
+    <projects>Data Analytics Engineer- Is It Worth Pursuing in 2023?</projects>
+    <dates>06 Feb 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-analytics-engineer/Data_Analytics_Engineer.png</links>
+  </row>
+  <row>
+    <index>73</index>
+    <projects>Your 101 Guide to Data Augmentation Techniques</projects>
+    <dates>31 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-augmentation/Data_Augmentation_Techniques.png</links>
+  </row>
+  <row>
+    <index>74</index>
+    <projects>7 Different Ways to Save a Machine Learning Model</projects>
+    <dates>31 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/how-to-save-a-machine-learning-model/How_to_Save_a_Machine_Learning_Model.png</links>
+  </row>
+  <row>
+    <index>75</index>
+    <projects>A Journey Into the World of Business Intelligence Engineer Role</projects>
+    <dates>31 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/business-intelligence-engineer/Business_Intelligence_Engineer.png</links>
+  </row>
+  <row>
+    <index>76</index>
+    <projects>Machine Learning in Insurance: Applications, Use Cases, and Projects</projects>
+    <dates>31 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/machine-learning-in-insurance/Machine_Learning_in_Insurance.png</links>
+  </row>
+  <row>
+    <index>77</index>
+    <projects>100+ Big Data Interview Questions and Answers 2023</projects>
+    <dates>31 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/big-data-interview-questions-/Big_Data_Interview_Questions_and_Answers.png</links>
+  </row>
+  <row>
+    <index>78</index>
+    <projects>7 Best Computer Vision Libraries in Python</projects>
+    <dates>27 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/computer-vision-libraries/Computer_Vision_Libraries.png</links>
+  </row>
+  <row>
+    <index>79</index>
+    <projects>7 Data Science Applications in Finance For Maximizing ROI</projects>
+    <dates>27 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/data-science-applications-in-finance/Data_Science_Applications_in_Finance.png</links>
+  </row>
+  <row>
+    <index>80</index>
+    <projects>5 Modern Applications of Machine Learning in Energy Sector</projects>
+    <dates>27 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/applications-of-machine-learning-in-energy-sector/Applications_of_Machine_Learning_in_Energy_Sector.png</links>
+  </row>
+  <row>
+    <index>81</index>
+    <projects>7 Top Data Visualization Books for Beginners and Pros Alike</projects>
+    <dates>27 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/books-on-data-visualization/Data_Visualization_Books.png</links>
+  </row>
+  <row>
+    <index>82</index>
+    <projects>Top ETL Use Cases for BI and Analytics:Real-World Examples</projects>
+    <dates>27 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/etl-use-cases/ETL_Use_Cases.png</links>
+  </row>
+  <row>
+    <index>83</index>
+    <projects>7 Best Python NLP Libraries for your Next Project</projects>
+    <dates>24 Jan 2023</dates>
+    <links>https://daxg39y63pxwu.cloudfront.net/images/blog/-python-nlp-libraries/Python_NLP_Libraries.png</links>
+  </row>
+</data>
