@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <titles>Ip burger $30 vs privateproxy $5?</titles>
+    <descriptions>Okay so I want to understand why the same product cost 600% more on another website.On ipburger.com a static residential proxy cost $29.99 a monthhttps://www.ipburger.com/pricing/buy-isp-proxies/On privateproxy.me a static residential proxy cost $5 a monthhttps://privateproxy.me/residential-static-proxies/Can anyone explain why? Of course I'm enclined to go for the less expensive choice, but I don't want a problem later.</descriptions>
+    <votes>5</votes>
+  </row>
+  <row>
+    <index>1</index>
+    <titles>New to web scraping and having trouble with beautifulsoup find_all()</titles>
+    <descriptions>I'm trying to find a css class on a webpage using find_all() but my code returns nothing. I have tried with other css classes on the same page with no problem, it returns the expected result. But when trying with one specific class (I have checked on inspect element, the element does exist with the css class) it won't return anything. What am I doing wrong?Here is my code</descriptions>
+    <votes>1</votes>
+  </row>
+  <row>
+    <index>2</index>
+    <titles>Help Automatically Submitting a Form and Grabbing the Download Link</titles>
+    <descriptions>https://datomatic.no-intro.org/index.php?page=download&amp;s=64&amp;op=dailyI want my script to be able to submit the form ('Request' button) with the default options. This loads a new page with a button to start the download.My script is in .NET. I've played around with the HtmlAgilityPack but can't figure out how to do this or even if it's possible. Any help much appreciated.</descriptions>
+    <votes>1</votes>
+  </row>
+  <row>
+    <index>3</index>
+    <titles>Scrapping products from 1688.com</titles>
+    <descriptions>Anyone guide me how to scrape all store data from Chinese e-commerce site 1688.com simple scraper not working and they have a strong anti scrape mechanism</descriptions>
+    <votes>3</votes>
+  </row>
+  <row>
+    <index>4</index>
+    <titles>[HELP] Best &amp; Cheap Proxy Provider For City State Level Targeting</titles>
+    <descriptions>I was building a scraper for a website which validates the users ip address before visiting their website. Then they show data to the user according their state and city. I want to target some city's but those cities are not so popular. That's why I was unable to find the city in smartproxy. And now I am searching for best provider so please help me to find out. I want USA residential proxy.</descriptions>
+    <votes>2</votes>
+  </row>
+  <row>
+    <index>5</index>
+    <titles>Goat.com scraping</titles>
+    <descriptions>HelloDoes anyone know how to create a scraper for goat.com and scrape listings with filters like condition, sizes and sort to low?</descriptions>
+    <votes>2</votes>
+  </row>
+  <row>
+    <index>6</index>
+    <titles>How to get phone numbers and email addresses from instagram?</titles>
+    <descriptions>I am trying to fetch some instagram user's info including their contact info like email addresses and phone number but couldn't do it. There is no contact button on the desktop web but there is on mobile app I don't understand that. I was trying insta api endpoint to gather other details:</descriptions>
+    <votes>2</votes>
+  </row>
+  <row>
+    <index>7</index>
+    <titles>What do you think about AI/ML in Web Scraping</titles>
+    <descriptions>AI is turning everything it touches into gold.Will this be the case with web scraping?How do you see it affecting the way we scrape, and how do you think it'll improve bot detection systems?Curious to hear other opinions.</descriptions>
+    <votes>Vote</votes>
+  </row>
+  <row>
+    <index>8</index>
+    <titles>Scraping specific Facebook/forum posts that is structured.</titles>
+    <descriptions>Hello fellow data kings and queens.I'm sure my use case is possible and I may not be researching with the right terms to find a solution.I am writing a WordPress plugin that will allow clients to paste a Facebook post or forum url that will be scraped that meet certain requirements. The folks replying will be told to reply in a certain format so that the scraper can gather the data and then placed in the database under the correct fields.So for example, I create the master post in a Facebook group or forum, comments/replies must have a unique keyword kind of line an API key so that the scraper knows to scrape that reply. And then the commenter states their info that I will need structured likeunique keyword/keyName: Joe BobCity: New YorkState: New YorkZip: 55665Tags: tag1, tag2, tag3</descriptions>
+    <votes>Vote</votes>
+  </row>
+  <row>
+    <index>9</index>
+    <titles>Webscraped values do not match the original website values</titles>
+    <descriptions>Hi, I'm trying to scrape off data values from a website that gets updated every 15 minutes. Some of my scraped values don't match the website's values for any of the time slots. How to solve this problem? I have tried defining a user-agent but to no avail.</descriptions>
+    <votes>Vote</votes>
+  </row>
+  <row>
+    <index>10</index>
+    <titles>Proxy's with google cloud functions</titles>
+    <descriptions>We use google cloud functions and cloud functions to scrape a variety of websites. Seems like our IP address is now blocked by some of the target sites. When we use a proxy and test IP it still resolves to google? Is our proxy's bad or do we need to use a VPC-proxy to hide our IP. Runs locally, but notice a difference between HTTP and HTTPS... we think it s a DNS on the target side is finding our IP... thoughts?</descriptions>
+    <votes>Vote</votes>
+  </row>
+  <row>
+    <index>11</index>
+    <titles>Help wtih reducing the amount of bandwith</titles>
+    <descriptions>Hey!, Im trying to reduce the amount of bandwith my program sends, I tried blocking images but it doesn't make much of a difference, Also I tried blocking certain requests but the website im trying to scrape detects it and I get blocked.Do you guys know any other methods of reducing bandwith?</descriptions>
+    <votes>3</votes>
+  </row>
+  <row>
+    <index>12</index>
+    <titles>How you get an Instagram account after multiple suspensions for downloading photos images videos?</titles>
+    <descriptions>I've been downloading photos and videos from Instagram more or less "manually," using only browser tools, for a long time.Recently that account was suspended for that activity. I created another account, logging in with my VPN, but Instagram zapper that one, too.I created another one and started using an "Instagram Stories Downloader" service, Qoob Stories, for webscraping accounts. I got zapped a few times there, too.Even after clearing all IG cookies Now I can't create an account that's not instantly suspended, even via the following ways, after clearing all IG cookies from browsers:2) virgin browser3) VPN, Private Internet Access, several locations in U.S. and out4) Instagram Proxy service, IPRoyal5) using different computer with a mail dot com email address on grocery store wirelessIs Instagram cracking down on all VPN/proxy logins? Does Instagram not allow mail dot com logins? Do I have hidden folders signaling Instagram on my Mac I'm not locating with their proper names?How do you get accounts, and continue get accounts if need be, on Instagram? And/or how do you, you personally, webscrape photos images videos from Instagram?</descriptions>
+    <votes>2</votes>
+  </row>
+  <row>
+    <index>13</index>
+    <titles>someone can borrow me an account premium octoparse ？</titles>
+    <descriptions>I want to export data that is extracted with the free plan. But the amount of data is bigger than 10 k, which needs an account premium or buy the one time export.are there somone who can borrow me his account basic ? I am prepared to pay for that.</descriptions>
+    <votes>0</votes>
+  </row>
+</data>
