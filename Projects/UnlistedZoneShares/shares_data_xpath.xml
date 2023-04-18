@@ -1,0 +1,1641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <company_names>A V Thomas &amp; Co. Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 12500</last_traded_price>
+    <cost_of_1_lot> ₹ 125000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>1</index>
+    <company_names>Accentia Technologies Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>2</index>
+    <company_names>ACS Technologies Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>3</index>
+    <company_names>Adtech Systems Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 35</last_traded_price>
+    <cost_of_1_lot> ₹ 8750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>4</index>
+    <company_names>AGS Transact Technologies Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 205</last_traded_price>
+    <cost_of_1_lot> ₹ 20500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>5</index>
+    <company_names>Ahmedabad Stock Exchange Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 55</last_traded_price>
+    <cost_of_1_lot> ₹ 13750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>6</index>
+    <company_names>Amalgamations Repco Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>7</index>
+    <company_names>Amol Minechem (Earlier Amol Dicalite) Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ Best in Industry</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>8</index>
+    <company_names>Anand Rathi Wealth Services Unlisted Shares (Listed on Exchanges)</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>9</index>
+    <company_names>Anglo-French Drugs &amp; Industries Ltd Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>10</index>
+    <company_names>Anheuser Busch Inbev (Sabmiller) India Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 375</last_traded_price>
+    <cost_of_1_lot> ₹ 37500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>11</index>
+    <company_names>Anugraha Valve Castings Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 375</last_traded_price>
+    <cost_of_1_lot> ₹ 18750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>12</index>
+    <company_names>APL Metals Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>13</index>
+    <company_names>Aptus Value Housing Finance India Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>14</index>
+    <company_names>Aricent Technologies (Holdings) Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 575</last_traded_price>
+    <cost_of_1_lot> ₹ 28750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>15</index>
+    <company_names>Arohan Financial Services Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 210</last_traded_price>
+    <cost_of_1_lot> ₹ 21000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>16</index>
+    <company_names>Arthmate Unlisted CCD</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>17</index>
+    <company_names>Assam Carbon Products Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 225</last_traded_price>
+    <cost_of_1_lot> ₹ 11250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>18</index>
+    <company_names>Asscher Enterprises Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ Best in Industry</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>19</index>
+    <company_names>Atlas Copco (India) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>20</index>
+    <company_names>Auckland International Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 189</last_traded_price>
+    <cost_of_1_lot> ₹ 18900</cost_of_1_lot>
+  </row>
+  <row>
+    <index>21</index>
+    <company_names>Axles India Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>22</index>
+    <company_names>Badra Estates &amp; Industries Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1258</last_traded_price>
+    <cost_of_1_lot> ₹ 31450</cost_of_1_lot>
+  </row>
+  <row>
+    <index>23</index>
+    <company_names>Bagrrys India Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 2219</last_traded_price>
+    <cost_of_1_lot> ₹ 55475</cost_of_1_lot>
+  </row>
+  <row>
+    <index>24</index>
+    <company_names>Barbeque Nation Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>25</index>
+    <company_names>Bazar India Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 40</last_traded_price>
+    <cost_of_1_lot> ₹ 20000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>26</index>
+    <company_names>Bellary Steel and Alloys Limited Unlisted Shares</company_names>
+    <lot_size>10000 Shares</lot_size>
+    <last_traded_price> ₹ 1</last_traded_price>
+    <cost_of_1_lot> ₹ 10000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>27</index>
+    <company_names>Bharat Hotels Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 160</last_traded_price>
+    <cost_of_1_lot> ₹ 16000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>28</index>
+    <company_names>Bharat Nidhi (Bharat Bank) Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 11500</last_traded_price>
+    <cost_of_1_lot> ₹ 287500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>29</index>
+    <company_names>Bharti Telecom Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>30</index>
+    <company_names>Bhatkawa Tea Industries Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>31</index>
+    <company_names>Bikaji Foods International Ltd. Unlisted Share</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 395</last_traded_price>
+    <cost_of_1_lot> ₹ 19750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>32</index>
+    <company_names>Bira Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 725</last_traded_price>
+    <cost_of_1_lot> ₹ 72500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>33</index>
+    <company_names>BLSX Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>34</index>
+    <company_names>Boat Unlisted Share Price (Imagine Marketing)</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 805</last_traded_price>
+    <cost_of_1_lot> ₹ 20125</cost_of_1_lot>
+  </row>
+  <row>
+    <index>35</index>
+    <company_names>Bombay Gas Company Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 65</last_traded_price>
+    <cost_of_1_lot> ₹ 16250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>36</index>
+    <company_names>Bombay Swadeshi Stores Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 469</last_traded_price>
+    <cost_of_1_lot> ₹ 23450</cost_of_1_lot>
+  </row>
+  <row>
+    <index>37</index>
+    <company_names>BVG India Limited Unlisted Share</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1200</last_traded_price>
+    <cost_of_1_lot> ₹ 30000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>38</index>
+    <company_names>C&amp;S Electric Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 575</last_traded_price>
+    <cost_of_1_lot> ₹ 14375</cost_of_1_lot>
+  </row>
+  <row>
+    <index>39</index>
+    <company_names>Calcutta Security Printers Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>40</index>
+    <company_names>Calcutta Stock Exchange Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 919</last_traded_price>
+    <cost_of_1_lot> ₹ 22975</cost_of_1_lot>
+  </row>
+  <row>
+    <index>41</index>
+    <company_names>Camac Commercial Company Limited Unlisted Shares</company_names>
+    <lot_size>5 Shares</lot_size>
+    <last_traded_price> ₹ 35000</last_traded_price>
+    <cost_of_1_lot> ₹ 175000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>42</index>
+    <company_names>Capgemini Technology Services India Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 11000</last_traded_price>
+    <cost_of_1_lot> ₹ 110000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>43</index>
+    <company_names>Capital Small Finance Bank Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 475</last_traded_price>
+    <cost_of_1_lot> ₹ 47500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>44</index>
+    <company_names>Carbo Ceramics Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>45</index>
+    <company_names>Care Health (Previously Religare Health) Insurance Company Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 148</last_traded_price>
+    <cost_of_1_lot> ₹ 14800</cost_of_1_lot>
+  </row>
+  <row>
+    <index>46</index>
+    <company_names>Carol Info Services Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>47</index>
+    <company_names>Carrier Airconditioning &amp; Refrigeration Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 285</last_traded_price>
+    <cost_of_1_lot> ₹ 28500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>48</index>
+    <company_names>Catholic Syrian Bank Limited (CSB) Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ Listed on Exchanges</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>49</index>
+    <company_names>Cleartrip Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>50</index>
+    <company_names>Coastal Corporation Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>51</index>
+    <company_names>Cochin International Airport Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 175</last_traded_price>
+    <cost_of_1_lot> ₹ 17500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>52</index>
+    <company_names>Coffee Day Enterprises (Cafe Coffee Day) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>53</index>
+    <company_names>Cremica Agro Foods Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>54</index>
+    <company_names>CSK Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 172</last_traded_price>
+    <cost_of_1_lot> ₹ 43000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>55</index>
+    <company_names>CTR Manufacturing Industries Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>56</index>
+    <company_names>Dalmia Bharat Refractory Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>57</index>
+    <company_names>Dalmia Refractories Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 715</last_traded_price>
+    <cost_of_1_lot> ₹ 71500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>58</index>
+    <company_names>Deepak Industries Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>59</index>
+    <company_names>Delhi Flour Mills Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>60</index>
+    <company_names>Delhi Stock Exchange Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 20</last_traded_price>
+    <cost_of_1_lot> ₹ 10000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>61</index>
+    <company_names>Delhivery Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 740</last_traded_price>
+    <cost_of_1_lot> ₹ 74000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>62</index>
+    <company_names>Deys Medical Stores (Mfg) Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 539</last_traded_price>
+    <cost_of_1_lot> ₹ 13475</cost_of_1_lot>
+  </row>
+  <row>
+    <index>63</index>
+    <company_names>Digvijay Finlease Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 2000</last_traded_price>
+    <cost_of_1_lot> ₹ 50000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>64</index>
+    <company_names>Down Town Hospital Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 174</last_traded_price>
+    <cost_of_1_lot> ₹ 17400</cost_of_1_lot>
+  </row>
+  <row>
+    <index>65</index>
+    <company_names>Eastern Investments Limited (EIL) Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>66</index>
+    <company_names>Eaton Fluid Power Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 475</last_traded_price>
+    <cost_of_1_lot> ₹ 23750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>67</index>
+    <company_names>Ecom Express Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>68</index>
+    <company_names>Elcid Investment Limited Unlisted Shares</company_names>
+    <lot_size>2 Shares</lot_size>
+    <last_traded_price> ₹ 160000</last_traded_price>
+    <cost_of_1_lot> ₹ 320000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>69</index>
+    <company_names>Electrosteel Steels Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 40</last_traded_price>
+    <cost_of_1_lot> ₹ 40000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>70</index>
+    <company_names>Elofic Industries Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ Best in Industry</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>71</index>
+    <company_names>Empire Spices and Foods Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 395</last_traded_price>
+    <cost_of_1_lot> ₹ 39500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>72</index>
+    <company_names>Epiroc Mining Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>73</index>
+    <company_names>ESDS Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 265</last_traded_price>
+    <cost_of_1_lot> ₹ 26500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>74</index>
+    <company_names>Fairfield Atlas Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 319</last_traded_price>
+    <cost_of_1_lot> ₹ 15950</cost_of_1_lot>
+  </row>
+  <row>
+    <index>75</index>
+    <company_names>Federal-Mogul Anand Sealings India Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>76</index>
+    <company_names>Fincare Business Finance Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 65</last_traded_price>
+    <cost_of_1_lot> ₹ 16250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>77</index>
+    <company_names>Fincare Small Finance Bank Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>78</index>
+    <company_names>Fino Paytech Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 160</last_traded_price>
+    <cost_of_1_lot> ₹ 16000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>79</index>
+    <company_names>Five-Star Business Finance Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 575</last_traded_price>
+    <cost_of_1_lot> ₹ 14375</cost_of_1_lot>
+  </row>
+  <row>
+    <index>80</index>
+    <company_names>Flipkart Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>81</index>
+    <company_names>Fresenius Kabi Oncology Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>82</index>
+    <company_names>Frick India Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 3600</last_traded_price>
+    <cost_of_1_lot> ₹ 36000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>83</index>
+    <company_names>Gandhar Oil Refinery Limited India Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 275</last_traded_price>
+    <cost_of_1_lot> ₹ 13750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>84</index>
+    <company_names>Ganga Care Hospitals Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>85</index>
+    <company_names>Gannon Dunkerley &amp; Company Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>86</index>
+    <company_names>GG Automotive Gears Limited Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 42</last_traded_price>
+    <cost_of_1_lot> ₹ 21000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>87</index>
+    <company_names>Gitanjali Gems Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>88</index>
+    <company_names>GKN Driveline India Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1225</last_traded_price>
+    <cost_of_1_lot> ₹ 30625</cost_of_1_lot>
+  </row>
+  <row>
+    <index>89</index>
+    <company_names>Goa Shipyard Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 284</last_traded_price>
+    <cost_of_1_lot> ₹ 28400</cost_of_1_lot>
+  </row>
+  <row>
+    <index>90</index>
+    <company_names>Gobind Sugar Mills Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 159</last_traded_price>
+    <cost_of_1_lot> ₹ 15900</cost_of_1_lot>
+  </row>
+  <row>
+    <index>91</index>
+    <company_names>GoDigit General Insurance Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>92</index>
+    <company_names>Good Dot Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>93</index>
+    <company_names>Guindy Machine Tools Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>94</index>
+    <company_names>Gujarat Credo Mineral Industries Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>95</index>
+    <company_names>Gujarat NRE Coke Limited Unlisted Shares</company_names>
+    <lot_size>5000 Shares</lot_size>
+    <last_traded_price> ₹ 0.5029</last_traded_price>
+    <cost_of_1_lot> ₹ 2514.5</cost_of_1_lot>
+  </row>
+  <row>
+    <index>96</index>
+    <company_names>HDB Financial Services Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 665</last_traded_price>
+    <cost_of_1_lot> ₹ 16625</cost_of_1_lot>
+  </row>
+  <row>
+    <index>97</index>
+    <company_names>HDFC Ergo General Insurance Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>98</index>
+    <company_names>HDFC Securities Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 11750</last_traded_price>
+    <cost_of_1_lot> ₹ 117500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>99</index>
+    <company_names>Hella India Lighting Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>100</index>
+    <company_names>Hero Fincorp Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1025</last_traded_price>
+    <cost_of_1_lot> ₹ 25625</cost_of_1_lot>
+  </row>
+  <row>
+    <index>101</index>
+    <company_names>Hexaware Technologies Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 590</last_traded_price>
+    <cost_of_1_lot> ₹ 14750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>102</index>
+    <company_names>Hicks Thermometers India Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 2100</last_traded_price>
+    <cost_of_1_lot> ₹ 52500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>103</index>
+    <company_names>Hindustan Housing Company Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>104</index>
+    <company_names>Hindustan Times Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 850</last_traded_price>
+    <cost_of_1_lot> ₹ 21250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>105</index>
+    <company_names>Hindusthan Engineering &amp; Industries Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 215</last_traded_price>
+    <cost_of_1_lot> ₹ 21500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>106</index>
+    <company_names>Hira Ferro Alloys Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>107</index>
+    <company_names>Home First Finance Company (HFFC) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>108</index>
+    <company_names>Honeywell Electrical Devices and Systems India Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>109</index>
+    <company_names>Hutti Gold Mines Company Limited Unlisted Shares</company_names>
+    <lot_size>1 Shares</lot_size>
+    <last_traded_price> ₹ 119838</last_traded_price>
+    <cost_of_1_lot> ₹ 119838</cost_of_1_lot>
+  </row>
+  <row>
+    <index>110</index>
+    <company_names>ICEX (Indian Commodity Exchange) Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 6.527</last_traded_price>
+    <cost_of_1_lot> ₹ 6527</cost_of_1_lot>
+  </row>
+  <row>
+    <index>111</index>
+    <company_names>ICL Fincorp Limited Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 26</last_traded_price>
+    <cost_of_1_lot> ₹ 13000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>112</index>
+    <company_names>India Carbon Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1150</last_traded_price>
+    <cost_of_1_lot> ₹ 28750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>113</index>
+    <company_names>India Exposition Mart Ltd Unlisted Share</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>114</index>
+    <company_names>Indian Potash Limited Unlisted Share</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>115</index>
+    <company_names>Indo Bonito Multinational Limited</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>116</index>
+    <company_names>Indofil Industries Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 750</last_traded_price>
+    <cost_of_1_lot> ₹ 18750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>117</index>
+    <company_names>Inkel Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 13.5355</last_traded_price>
+    <cost_of_1_lot> ₹ 13535.5</cost_of_1_lot>
+  </row>
+  <row>
+    <index>118</index>
+    <company_names>Inox Leasing and Finance Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 2000</last_traded_price>
+    <cost_of_1_lot> ₹ 50000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>119</index>
+    <company_names>J.K. Fenner (India) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>120</index>
+    <company_names>Jessop &amp; Company Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>121</index>
+    <company_names>JK Investo Trade (India) Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>122</index>
+    <company_names>Kamarhatty Company Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 145</last_traded_price>
+    <cost_of_1_lot> ₹ 36250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>123</index>
+    <company_names>Kannur International Airport Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 115</last_traded_price>
+    <cost_of_1_lot> ₹ 28750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>124</index>
+    <company_names>Kingfisher Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>125</index>
+    <company_names>Kitply Industries Limited Unlisted Shares</company_names>
+    <lot_size>2000 Shares</lot_size>
+    <last_traded_price> ₹ 7</last_traded_price>
+    <cost_of_1_lot> ₹ 14000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>126</index>
+    <company_names>Kurl-on Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 425</last_traded_price>
+    <cost_of_1_lot> ₹ 21250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>127</index>
+    <company_names>KURLON Enterprise Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 625</last_traded_price>
+    <cost_of_1_lot> ₹ 15625</cost_of_1_lot>
+  </row>
+  <row>
+    <index>128</index>
+    <company_names>Kusum Industrial Gases Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 348</last_traded_price>
+    <cost_of_1_lot> ₹ 17400</cost_of_1_lot>
+  </row>
+  <row>
+    <index>129</index>
+    <company_names>LAVA International Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 125</last_traded_price>
+    <cost_of_1_lot> ₹ 12500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>130</index>
+    <company_names>LE Travenues Technology (IXIGO) Unlisted Share</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 110</last_traded_price>
+    <cost_of_1_lot> ₹ 11000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>131</index>
+    <company_names>Lotte India Corporation Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 475</last_traded_price>
+    <cost_of_1_lot> ₹ 23750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>132</index>
+    <company_names>Madbow Ventures Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 55</last_traded_price>
+    <cost_of_1_lot> ₹ 27500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>133</index>
+    <company_names>Maharaja Shree Umaid Mills Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 135</last_traded_price>
+    <cost_of_1_lot> ₹ 33750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>134</index>
+    <company_names>Maharashtra Knowledge Corporation (MKCL) Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 425</last_traded_price>
+    <cost_of_1_lot> ₹ 21250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>135</index>
+    <company_names>Malayalam Communications Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 35995</last_traded_price>
+    <cost_of_1_lot> ₹ 359950</cost_of_1_lot>
+  </row>
+  <row>
+    <index>136</index>
+    <company_names>Manjushree Technopack India Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1200</last_traded_price>
+    <cost_of_1_lot> ₹ 30000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>137</index>
+    <company_names>Market Simplified Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>138</index>
+    <company_names>Martin and Harris Laboratories Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ Best in Industry</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>139</index>
+    <company_names>Maxvalue Credits and Investments Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 7</last_traded_price>
+    <cost_of_1_lot> ₹ 7000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>140</index>
+    <company_names>Meghmani Finechem Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>141</index>
+    <company_names>Merino Industries Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 2850</last_traded_price>
+    <cost_of_1_lot> ₹ 28500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>142</index>
+    <company_names>Metropolitan Stock Exchange (MSEI) Unlisted Shares</company_names>
+    <lot_size>20000 Shares</lot_size>
+    <last_traded_price> ₹ 1.4017</last_traded_price>
+    <cost_of_1_lot> ₹ 28034</cost_of_1_lot>
+  </row>
+  <row>
+    <index>143</index>
+    <company_names>Midland Microfin Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>144</index>
+    <company_names>Milton Cycle Industries Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 195</last_traded_price>
+    <cost_of_1_lot> ₹ 19500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>145</index>
+    <company_names>Minosha India (Ricoh India) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>146</index>
+    <company_names>Mitsubishi Heavy Industries India Precision Tools Ltd. Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>147</index>
+    <company_names>Mobikwik Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 350</last_traded_price>
+    <cost_of_1_lot> ₹ 8750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>148</index>
+    <company_names>Mobisy Technologies Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>149</index>
+    <company_names>Modern Insulator Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>150</index>
+    <company_names>Mohan Meakin Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 1450</last_traded_price>
+    <cost_of_1_lot> ₹ 72500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>151</index>
+    <company_names>Mohindra Fasteners Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 250</last_traded_price>
+    <cost_of_1_lot> ₹ 25000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>152</index>
+    <company_names>Motilal Oswal Home Finance Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 9.7584</last_traded_price>
+    <cost_of_1_lot> ₹ 9758.4</cost_of_1_lot>
+  </row>
+  <row>
+    <index>153</index>
+    <company_names>Naraingarh Sugar Mills Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>154</index>
+    <company_names>Nayara Energy (Formerly Essar Oil) Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 205</last_traded_price>
+    <cost_of_1_lot> ₹ 20500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>155</index>
+    <company_names>Nazara Technologies Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>156</index>
+    <company_names>NCL Buildtek Limited (Previously NCL Alltek &amp; Seccolor Limited) Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 225</last_traded_price>
+    <cost_of_1_lot> ₹ 22500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>157</index>
+    <company_names>NCL Holdings Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 65</last_traded_price>
+    <cost_of_1_lot> ₹ 16250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>158</index>
+    <company_names>NSE India Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 3400</last_traded_price>
+    <cost_of_1_lot> ₹ 340000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>159</index>
+    <company_names>Nuchem Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>160</index>
+    <company_names>ORBIS FINANCIAL CORPORATION LIMITED</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ Best in Industry</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>161</index>
+    <company_names>Otis Elevator (India) Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 3950</last_traded_price>
+    <cost_of_1_lot> ₹ 39500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>162</index>
+    <company_names>Oyo Unlisted Shares</company_names>
+    <lot_size>500 Shares</lot_size>
+    <last_traded_price> ₹ 75</last_traded_price>
+    <cost_of_1_lot> ₹ 37500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>163</index>
+    <company_names>Parry Agro Industries Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1740</last_traded_price>
+    <cost_of_1_lot> ₹ 43500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>164</index>
+    <company_names>Paytm One 97 Communication Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 2700</last_traded_price>
+    <cost_of_1_lot> ₹ 27000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>165</index>
+    <company_names>PB Fintech Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>166</index>
+    <company_names>PB Global Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 59</last_traded_price>
+    <cost_of_1_lot> ₹ 14750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>167</index>
+    <company_names>PharmEasy Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 25</last_traded_price>
+    <cost_of_1_lot> ₹ 25000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>168</index>
+    <company_names>Pharmed Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>169</index>
+    <company_names>Philips Domestic Appliances India Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 650</last_traded_price>
+    <cost_of_1_lot> ₹ 32500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>170</index>
+    <company_names>Philips India Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1075</last_traded_price>
+    <cost_of_1_lot> ₹ 26875</cost_of_1_lot>
+  </row>
+  <row>
+    <index>171</index>
+    <company_names>PNB Finance &amp; Industries Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 7500</last_traded_price>
+    <cost_of_1_lot> ₹ 75000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>172</index>
+    <company_names>Policybazaar Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>173</index>
+    <company_names>Premier Cryogenics Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 323</last_traded_price>
+    <cost_of_1_lot> ₹ 32300</cost_of_1_lot>
+  </row>
+  <row>
+    <index>174</index>
+    <company_names>Proyuga Advanced Technologies Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>175</index>
+    <company_names>Quikr India Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>176</index>
+    <company_names>Ramaraju Surgical Cotton Mills Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 375</last_traded_price>
+    <cost_of_1_lot> ₹ 18750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>177</index>
+    <company_names>Raymotoss India Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>178</index>
+    <company_names>RazorPay Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>179</index>
+    <company_names>Reliance Broadcast Network Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>180</index>
+    <company_names>Reliance MediaWorks Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>181</index>
+    <company_names>Reliance Retail Limited Unlisted Shares</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 2375</last_traded_price>
+    <cost_of_1_lot> ₹ 23750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>182</index>
+    <company_names>Resin &amp; Plastic Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 500</last_traded_price>
+    <cost_of_1_lot> ₹ 50000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>183</index>
+    <company_names>Ring Plus Aqua Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 475</last_traded_price>
+    <cost_of_1_lot> ₹ 47500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>184</index>
+    <company_names>Roop Telsonic Ultrasonix Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 225</last_traded_price>
+    <cost_of_1_lot> ₹ 56250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>185</index>
+    <company_names>Roots Multiclean Limited Unlisted Share</company_names>
+    <lot_size>10 Shares</lot_size>
+    <last_traded_price> ₹ 3000</last_traded_price>
+    <cost_of_1_lot> ₹ 30000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>186</index>
+    <company_names>Rydak Syndicate Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 525</last_traded_price>
+    <cost_of_1_lot> ₹ 13125</cost_of_1_lot>
+  </row>
+  <row>
+    <index>187</index>
+    <company_names>S&amp;S Power Switchgear Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>188</index>
+    <company_names>San Engineering and Locomotive Company Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 714</last_traded_price>
+    <cost_of_1_lot> ₹ 35700</cost_of_1_lot>
+  </row>
+  <row>
+    <index>189</index>
+    <company_names>SBI General Insurance Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>190</index>
+    <company_names>SBI Home Finance Limited Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 59</last_traded_price>
+    <cost_of_1_lot> ₹ 14750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>191</index>
+    <company_names>SBI Mutual Fund Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>192</index>
+    <company_names>Schneider Electric President Systems Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>193</index>
+    <company_names>Shree Hanuman Sugar &amp; Industries Limited Unlisted Shares</company_names>
+    <lot_size>2000 Shares</lot_size>
+    <last_traded_price> ₹ 5</last_traded_price>
+    <cost_of_1_lot> ₹ 10000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>194</index>
+    <company_names>Shriram Life Insurance Co. Ltd Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 400</last_traded_price>
+    <cost_of_1_lot> ₹ 20000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>195</index>
+    <company_names>Sigachi Laboratories Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 52</last_traded_price>
+    <cost_of_1_lot> ₹ 52000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>196</index>
+    <company_names>Signify Innovations (Previously Phillips Lighting) India Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 1575</last_traded_price>
+    <cost_of_1_lot> ₹ 78750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>197</index>
+    <company_names>Silverline Technologies Limited Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 5</last_traded_price>
+    <cost_of_1_lot> ₹ 5000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>198</index>
+    <company_names>Simpson and Company Limited Unlisted Shares</company_names>
+    <lot_size>1 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>199</index>
+    <company_names>Simsim (SZS Tech Private Limited) Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>200</index>
+    <company_names>Smaaash Entertainment Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>201</index>
+    <company_names>SMC Global Securities Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>202</index>
+    <company_names>SMILE Microfinance Unlisted Shares</company_names>
+    <lot_size>250 Shares</lot_size>
+    <last_traded_price> ₹ 82</last_traded_price>
+    <cost_of_1_lot> ₹ 20500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>203</index>
+    <company_names>Spencer and Company Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 1079</last_traded_price>
+    <cost_of_1_lot> ₹ 26975</cost_of_1_lot>
+  </row>
+  <row>
+    <index>204</index>
+    <company_names>Sri Kannapiran Mills Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 159</last_traded_price>
+    <cost_of_1_lot> ₹ 15900</cost_of_1_lot>
+  </row>
+  <row>
+    <index>205</index>
+    <company_names>Sri Vishnu Shankar Mill Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 525</last_traded_price>
+    <cost_of_1_lot> ₹ 26250</cost_of_1_lot>
+  </row>
+  <row>
+    <index>206</index>
+    <company_names>Star Union Dai-Ichi Life Insurance Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>207</index>
+    <company_names>Sterlite Power Transmission Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 510</last_traded_price>
+    <cost_of_1_lot> ₹ 12750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>208</index>
+    <company_names>Studds Accessories Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price> ₹ 825</last_traded_price>
+    <cost_of_1_lot> ₹ 20625</cost_of_1_lot>
+  </row>
+  <row>
+    <index>209</index>
+    <company_names>Suryoday Small Finance Bank Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>210</index>
+    <company_names>Swiggy Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>211</index>
+    <company_names>Syngenta India Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>212</index>
+    <company_names>T.Stanes and Company Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>213</index>
+    <company_names>Tamilnad Mercantile Bank Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 575</last_traded_price>
+    <cost_of_1_lot> ₹ 28750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>214</index>
+    <company_names>Taparia Tools Limited Unlisted Shares</company_names>
+    <lot_size>25 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>215</index>
+    <company_names>TATA Capital Limited Unlisted Share</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>216</index>
+    <company_names>Tata Technologies Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 900</last_traded_price>
+    <cost_of_1_lot> ₹ 45000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>217</index>
+    <company_names>Tea Time Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>218</index>
+    <company_names>Teesta Agro Industries Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>219</index>
+    <company_names>The Methoni Tea Company Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>220</index>
+    <company_names>The Midland Rubber &amp; Produce Co Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>221</index>
+    <company_names>The Mysore Paper Mills Unlisted Shares</company_names>
+    <lot_size>1000 Shares</lot_size>
+    <last_traded_price> ₹ 12</last_traded_price>
+    <cost_of_1_lot> ₹ 12000</cost_of_1_lot>
+  </row>
+  <row>
+    <index>222</index>
+    <company_names>The Nelliampathy Tea &amp; Produce Company Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>223</index>
+    <company_names>The Scottish Assam (India) Limited Unlisted Shares</company_names>
+    <lot_size>50 Shares</lot_size>
+    <last_traded_price> ₹ 775</last_traded_price>
+    <cost_of_1_lot> ₹ 38750</cost_of_1_lot>
+  </row>
+  <row>
+    <index>224</index>
+    <company_names>TRL Krosaki Refractories Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>225</index>
+    <company_names>Tunwal E-Motors Private Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>226</index>
+    <company_names>Twenty First Century (India) Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>227</index>
+    <company_names>UTI AMC Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>228</index>
+    <company_names>Utkarsh Micro Finance Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price> ₹ 175</last_traded_price>
+    <cost_of_1_lot> ₹ 17500</cost_of_1_lot>
+  </row>
+  <row>
+    <index>229</index>
+    <company_names>Vam Holdings Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>230</index>
+    <company_names>Vanaz Engineers Limited Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>231</index>
+    <company_names>Vikram Solar Unlisted Shares</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>232</index>
+    <company_names>Xerox India Limited Unlisted Shares</company_names>
+    <lot_size>100 Shares</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+  <row>
+    <index>233</index>
+    <company_names>Yokogawa India Limited Unlisted Share</company_names>
+    <lot_size>-</lot_size>
+    <last_traded_price>-</last_traded_price>
+    <cost_of_1_lot>-</cost_of_1_lot>
+  </row>
+</data>
