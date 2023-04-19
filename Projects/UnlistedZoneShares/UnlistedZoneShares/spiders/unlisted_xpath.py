@@ -10,6 +10,11 @@ class UnlistedShares(scrapy.Spider):
         'https://unlistedzone.com/shares/'
     }
 
+    # def _get_response(self, response, path):
+    #     return response.xpath(path).extract()
+
+
+
     # DataFrame
     df = pd.DataFrame(columns=['company_names', 'lot_size', 'last_traded_price', 'cost_of_1_lot'])
 
@@ -17,7 +22,18 @@ class UnlistedShares(scrapy.Spider):
         # Item object Creation
         items = UnlistedzonesharesItem()
 
+        # item_css_class = "table-hover"
+        # static_item_path = f"//tbody[@class='{item_css_class}']/tr/"
+        # row_id = ''
+        # item_path = f"{static_item_path}td[{row_id}]/text()"
+
+        
         # Scraping Code using Xpath Selector
+        # items['company_names'] = self._get_response(response, item_path+'td[1]/a/text()')
+        # items['lot_size'] = self._get_response(response, item_path+'td[1]/text()')
+        # items['last_traded_price'] = self._get_response(response, item_path+'td[1]/text()')
+        # items['cost_of_1_lot'] = self._get_response(response, item_path+'td[1]/text()')
+        
         items['company_names'] = response.xpath("//tbody[@class='table-hover']/tr/td[1]/a/text()").extract()
         items['lot_size'] = response.xpath("//tbody[@class='table-hover']/tr/td[2]/text()").extract()
         items['last_traded_price'] = response.xpath("//tbody[@class='table-hover']/tr/td[3]/text()").extract()
