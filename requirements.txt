@@ -1,0 +1,4 @@
+# external requirements
+scrapy
+pandas
+git+https://github.com/jamwine/python-utils.git#egg=python-utils
