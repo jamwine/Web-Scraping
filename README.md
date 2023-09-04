@@ -23,18 +23,18 @@ source .scrape/bin/activate
 
 * Install the dependencies: `pip install -r requirements.txt`
 
-## Scrapy Fundamentals
+---
 
-Scrapy is a very popular open source Python scraping framework for extracting data. It was originally designed for only scraping, but it is has also evolved into a powerful web crawling solution. Scrapy offers a number of powerful features:
+> Learn Basics of Scraping by referring to `Web Scraping.ipynb`
 
-* Built-in extensions to make HTTP requests and handle compression, authentication, caching, manipulate user-agents, and HTTP headers
+---
 
-* Built-in support for selecting and extracting data with selector languages such as CSS and XPath, as well as support for utilizing regular expressions for selection of content and links
+## Projects
 
-* Encoding support to deal with languages and non-standard encoding declarations
+* **WikiCompanies**: This project aims to scrape all US companies and its firmographics data from the Wikipedia infobox.
+* **AZLyrics**: Upcoming Soon
 
-* Flexible APIs to reuse and write custom middleware and pipelines, which provide a clean and easy way to implement tasks such as automatically downloading assets (for example, images or media) and storing data in storage such as file systems, S3, databases, and others.
-
+---
 
 ### Getting Started with Scrapy
 

@@ -9,7 +9,7 @@ The `ls` command should return this:
 
 ```bash
 $ ls
-README..md  scrapy.cfg  Wiki_Companies/
+README.md  scrapy.cfg  Wiki_Companies/
 ```
 
 1. Run the first scraper `scrapy crawl us_states_url_collection` to generate Wikipedia links of US states having list of companies in a json format.
