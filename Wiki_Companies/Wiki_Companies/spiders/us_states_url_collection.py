@@ -9,6 +9,7 @@ class UsStatesWikiList(scrapy.Spider):
     start_urls = ["https://en.wikipedia.org/wiki/List_of_companies_of_the_United_States_by_state"]
     
     xpath_companies = '//*[@id="mw-content-text"]/div[1]/div/'
+    path = 'Wiki_companies/data'
 
     def _stats_print(self, data):
         print('-' * 75)
@@ -21,9 +22,9 @@ class UsStatesWikiList(scrapy.Spider):
         us_state_urls = su.extract_urls_from_xpath(response, xpath = self.xpath_companies + 'a/@href', root_url = self.root_url)
         if us_state_urls:
             self._stats_print(us_state_urls)
-            gu.save_output_in_json(output_file_path = 'data/us_state_urls.json', data = list(us_state_urls), data_description = 'us_state_urls')
+            gu.save_output_in_json(output_file_path = f'{self.path}/us_state_urls.json', data = list(us_state_urls), data_description = 'us_state_urls')
         
         us_companies_urls = su.extract_urls_from_xpath(response, xpath = self.xpath_companies + 'ul/li/a/@href', root_url = self.root_url)
         if us_companies_urls:
             self._stats_print(us_companies_urls)
-            gu.save_output_in_json(output_file_path = 'data/us_companies_urls.json', data = list(us_companies_urls), data_description = 'us_companies_urls')
+            gu.save_output_in_json(output_file_path = f'{self.path}/us_companies_urls.json', data = list(us_companies_urls), data_description = 'us_companies_urls')

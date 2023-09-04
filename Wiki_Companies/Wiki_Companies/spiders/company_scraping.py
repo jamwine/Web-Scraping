@@ -1,16 +1,26 @@
 import scrapy
-
+import json
 import python_utils.generic_utils as gu
 
 class CompanyScrapingSpider(scrapy.Spider):
     name = "company_scraping"
     root_url = "en.wikipedia.org"
-
+    path = 'Wiki_companies/data'
+    
+    
     def start_requests(self):
-        us_companies_urls = gu.load_json_file('data/us_companies_urls.json')
+        us_companies_urls = gu.load_json_file(f'{self.path}/us_companies_urls.json')
         us_companies_urls = set(us_companies_urls['us_companies_urls'])
         # self._stats_print(us_companies_urls)
         
+        # Create an empty JSON object
+        data = {}
+
+        # Write the empty JSON object to the file
+        with open(f'{self.path}/company_scraping.json', 'w') as json_file:
+            json.dump(data, json_file)
+        print(f"Empty JSON file created at {self.path}/company_scraping.json")
+
         for url in us_companies_urls:
             print(url)
             print('-' * 75)
@@ -18,7 +28,7 @@ class CompanyScrapingSpider(scrapy.Spider):
     
     
     def parse(self, response):
-        company_data = gu.load_json_file('data/company_scraping.json')
+        company_data = gu.load_json_file(f'{self.path}/company_scraping.json')
         try:
             company_data = company_data['data']
         except:
@@ -44,4 +54,4 @@ class CompanyScrapingSpider(scrapy.Spider):
         output_dict[(response.request.url).split('/')[-1]] = temp_dict
         company_data.update(output_dict)
         
-        gu.save_output_in_json(output_file_path = 'data/company_scraping.json', data = company_data)
+        gu.save_output_in_json(output_file_path = f'{self.path}/company_scraping.json', data = company_data)

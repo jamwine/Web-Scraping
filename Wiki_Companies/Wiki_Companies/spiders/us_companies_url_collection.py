@@ -18,8 +18,10 @@ class UsCompaniesWikiList(scrapy.Spider):
         print('-' * 75)
 
     
+    path = 'Wiki_companies/data'
+    
     def start_requests(self):
-        us_state_urls = gu.load_json_file('data/us_state_urls.json')
+        us_state_urls = gu.load_json_file(f'{self.path}/us_state_urls.json')
         us_state_urls = set(us_state_urls['us_state_urls'])
         self._stats_print(us_state_urls)
         
@@ -30,7 +32,7 @@ class UsCompaniesWikiList(scrapy.Spider):
     
     
     def parse(self, response, **kwargs):
-        us_companies_urls = gu.load_json_file('data/us_companies_urls.json')
+        us_companies_urls = gu.load_json_file(f'{self.path}/us_companies_urls.json')
         us_companies_urls = set(us_companies_urls['us_companies_urls'])
         
         # Extracting Tabular Urls
@@ -44,11 +46,12 @@ class UsCompaniesWikiList(scrapy.Spider):
             table_headers = su.scrape_xpath(response, xpath = self.xpath_companies_tabular + f'[{table}]/tbody/tr/th/text()')
 
             # Identifying `Name` column in table headers
-            for i, header in enumerate(table_headers, start=1):
-                header = (header.strip()).replace('\n', '')
-                if header == "Name":
-                    index = i
-                    break
+            if table_headers:
+                for i, header in enumerate(table_headers, start=1):
+                    header = (header.strip()).replace('\n', '')
+                    if header == "Name":
+                        index = i
+                        break
 
             us_companies_tabular_urls = su.extract_urls_from_xpath(response, xpath = self.xpath_companies_tabular + f'/tbody/tr/td[{index}]/a/@href', root_url = self.root_url)
             if us_companies_tabular_urls:
@@ -69,4 +72,4 @@ class UsCompaniesWikiList(scrapy.Spider):
             us_companies_urls = us_companies_urls.union(categorical_urls_in_div)        
         
         self._stats_print(us_companies_urls)
-        gu.save_output_in_json(output_file_path = 'data/us_companies_urls.json', data = list(us_companies_urls), data_description = 'us_companies_urls')
+        gu.save_output_in_json(output_file_path = f'{self.path}/us_companies_urls.json', data = list(us_companies_urls), data_description = 'us_companies_urls')
