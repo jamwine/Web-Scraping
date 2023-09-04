@@ -1,4 +1,7 @@
 # external requirements
 scrapy
 pandas
+chromedriver_autoinstaller
+selenium
+bs4
 git+https://github.com/jamwine/python-utils.git@v0.1.3#egg=python-utils

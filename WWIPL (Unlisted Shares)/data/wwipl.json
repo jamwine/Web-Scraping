@@ -1,0 +1,4330 @@
+{
+    "wwipl_UnlistedShares": {
+        "A V Thomas And Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "787.585",
+            "Price (in rupees)": "16,750.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "ABG Shipyard Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.108",
+            "Price (in rupees)": "0.02",
+            "Sector": "Shipping"
+        },
+        "ACS Technologies Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "57.517",
+            "Price (in rupees)": "39.00",
+            "Sector": "IT, Software"
+        },
+        "AKC Steel Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "12.450",
+            "Price (in rupees)": "30.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "AKS Credits Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.065",
+            "Price (in rupees)": "9.15",
+            "Sector": "Financial Service"
+        },
+        "AMNS Ports India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "231.956",
+            "Price (in rupees)": "35.10",
+            "Sector": "Shipping"
+        },
+        "API Holdings Ltd": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "6,142.041",
+            "Price (in rupees)": "10.00",
+            "Sector": "eCommerce"
+        },
+        "APL Metals Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "42.906",
+            "Price (in rupees)": "40.00",
+            "Sector": "Hotel or Catering"
+        },
+        "ASEL Financial Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "34.470",
+            "Price (in rupees)": "46.10",
+            "Sector": "Financial Service"
+        },
+        "ATN International Ltd": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.039",
+            "Price (in rupees)": "0.01",
+            "Sector": "Financial Service"
+        },
+        "Aashrit Capital Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.601",
+            "Price (in rupees)": "5.00",
+            "Sector": "Financial Service"
+        },
+        "Abacus Computers Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.285",
+            "Price (in rupees)": "1.00",
+            "Sector": "IT, Software"
+        },
+        "Abhinandan Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.155",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Abhishek Corporation Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.800",
+            "Price (in rupees)": "0.50",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Absolute Sports Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "62.316",
+            "Price (in rupees)": "3,303.00",
+            "Sector": "Media"
+        },
+        "Accentia Technologies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "5.295",
+            "Price (in rupees)": "3.11",
+            "Sector": "IT, Software"
+        },
+        "Accuvant Advisory Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.889",
+            "Price (in rupees)": "10.15",
+            "Sector": "Financial Service"
+        },
+        "Ace Exports Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.246",
+            "Price (in rupees)": "19.00",
+            "Sector": "Footwear"
+        },
+        "Ace Stone Craft Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.443",
+            "Price (in rupees)": "1.04",
+            "Sector": "Ceramics & Granite"
+        },
+        "Acevector Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "7,946.118",
+            "Price (in rupees)": "200.00",
+            "Sector": "eCommerce"
+        },
+        "AdTech Systems Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "34.670",
+            "Price (in rupees)": "29.10",
+            "Sector": "Financial Service"
+        },
+        "Aditri Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.197",
+            "Price (in rupees)": "0.96",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Adventz Securities Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.628",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Afcons Infrastructure Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,158.510",
+            "Price (in rupees)": "34.00",
+            "Sector": "Construction"
+        },
+        "Agarwal Bolts Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "6.000",
+            "Price (in rupees)": "1,200.00",
+            "Sector": "Equipment"
+        },
+        "Agarwal Duplex Board Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "13.500",
+            "Price (in rupees)": "1.00",
+            "Sector": "Paper"
+        },
+        "Aggarsain Spinners Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.726",
+            "Price (in rupees)": "19.20",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Akash Agro Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "20.699",
+            "Price (in rupees)": "50.60",
+            "Sector": "Agriculture & Agro Products"
+        },
+        "Akme Fintrade India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "348.425",
+            "Price (in rupees)": "110.00",
+            "Sector": "NBFC"
+        },
+        "Alacrity Electronics Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.003",
+            "Price (in rupees)": "0.01",
+            "Sector": "Electronics"
+        },
+        "Alba Polymers Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "514.946",
+            "Price (in rupees)": "350.00",
+            "Sector": "Service"
+        },
+        "Alchemist Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "1.505",
+            "Price (in rupees)": "1.11",
+            "Sector": "Miscellaneous"
+        },
+        "Alirox Abrasives Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Abrasives"
+        },
+        "Allsoft Corporation Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.051",
+            "Price (in rupees)": "0.05",
+            "Sector": "Trading"
+        },
+        "Amalgamations Repco Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "37.157",
+            "Price (in rupees)": "392.00",
+            "Sector": "Auto Components"
+        },
+        "Amar Remedies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.026",
+            "Price (in rupees)": "0.01",
+            "Sector": "FMCG"
+        },
+        "Amar Vanijya Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.992",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Amarawati Tea Co Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.640",
+            "Price (in rupees)": "2,200.00",
+            "Sector": "Other"
+        },
+        "Amarkantak Traders Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.508",
+            "Price (in rupees)": "11.95",
+            "Sector": "Service"
+        },
+        "Ambadi Investments Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "977.209",
+            "Price (in rupees)": "4,000.00",
+            "Sector": "Investment & Holding"
+        },
+        "Amitabh Bachchan Corporation Pvt Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "19.509",
+            "Price (in rupees)": "4.00",
+            "Sector": "Entertainment"
+        },
+        "Amol Minechem Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "42.185",
+            "Price (in rupees)": "515.00",
+            "Sector": "Electricity"
+        },
+        "Amrit Agro Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.665",
+            "Price (in rupees)": "10.00",
+            "Sector": "FMCG"
+        },
+        "Amrit India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.038",
+            "Price (in rupees)": "10.00",
+            "Sector": "Service"
+        },
+        "Amtek Auto Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "49.651",
+            "Price (in rupees)": "2.00",
+            "Sector": "Auto Components"
+        },
+        "Anand I Power Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "66.673",
+            "Price (in rupees)": "20.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Ancient Leasing Finance and Investment Co Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.046",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Anglo French Drugs And Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "91.887",
+            "Price (in rupees)": "745.00",
+            "Sector": "Pharma"
+        },
+        "Anheuser Busch Inbev India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "22,505.093",
+            "Price (in rupees)": "365.00",
+            "Sector": "Breweries & Distilleries"
+        },
+        "Ankur Marketing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.000",
+            "Price (in rupees)": "20.00",
+            "Sector": "Financial Service"
+        },
+        "Anugraha Valve Castings Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "89.926",
+            "Price (in rupees)": "255.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Anupama Steel Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.010",
+            "Price (in rupees)": "0.05",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Anus Laboratories Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.242",
+            "Price (in rupees)": "0.01",
+            "Sector": "Pharma"
+        },
+        "Apeejay Tea Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.621",
+            "Price (in rupees)": "101.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Apex Auto Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "83.010",
+            "Price (in rupees)": "150.00",
+            "Sector": "Auto Components"
+        },
+        "Arch Pharma Labs Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1,368.826",
+            "Price (in rupees)": "90.10",
+            "Sector": "Other"
+        },
+        "Arcotech Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "21.000",
+            "Price (in rupees)": "2.00",
+            "Sector": "Metal"
+        },
+        "Arcuttipore Tea Company Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.903",
+            "Price (in rupees)": "1.80",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Arihant Classic Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.101",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Arihant Threads Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.036",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Arkfin Investments Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "100.231",
+            "Price (in rupees)": "50.00",
+            "Sector": "NBFC"
+        },
+        "Arohan Financial Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,977.227",
+            "Price (in rupees)": "125.00",
+            "Sector": "Financial Service"
+        },
+        "Arraycom India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "13.050",
+            "Price (in rupees)": "26.10",
+            "Sector": "Other"
+        },
+        "Artedz Fabs Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "8.560",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Ashapura Intimates Fashion Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "25.237",
+            "Price (in rupees)": "10.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Ashoka Viniyoga Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "6.424",
+            "Price (in rupees)": "100.00",
+            "Sector": "Investment & Holding"
+        },
+        "Asianlakto Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.919",
+            "Price (in rupees)": "11.00",
+            "Sector": "Food & Drinks"
+        },
+        "Asiatic Oxygen Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "148.687",
+            "Price (in rupees)": "900.00",
+            "Sector": "Chemical"
+        },
+        "Assam Carbon Products Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "55.112",
+            "Price (in rupees)": "200.00",
+            "Sector": "Electricity"
+        },
+        "Asscher Enterprises Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "125.293",
+            "Price (in rupees)": "111.00",
+            "Sector": "Trading"
+        },
+        "Associated Ceramics Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2.045",
+            "Price (in rupees)": "10.00",
+            "Sector": "Engineering"
+        },
+        "Associated Finman Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.905",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Atcom Technologies Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.153",
+            "Price (in rupees)": "0.10",
+            "Sector": "Electronics"
+        },
+        "Atlantic Commercial Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.735",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Atlas Copco India Private Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "21,871.393",
+            "Price (in rupees)": "10,000.00",
+            "Sector": "Equipment"
+        },
+        "Atlas Cycles Haryana Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "3.252",
+            "Price (in rupees)": "5.00",
+            "Sector": "FMCG"
+        },
+        "Auckland International Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "52.978",
+            "Price (in rupees)": "129.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Auckland Jute Co Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "9.883",
+            "Price (in rupees)": "36.00",
+            "Sector": "Other"
+        },
+        "Aurum Capital Projects Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.114",
+            "Price (in rupees)": "9.70",
+            "Sector": "Financial Service"
+        },
+        "Austral Coke and Projects Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "3.193",
+            "Price (in rupees)": "0.11",
+            "Sector": "Metal"
+        },
+        "Autoriders Finance Ltd": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.131",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Avail Holding Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.150",
+            "Price (in rupees)": "10.00",
+            "Sector": "Real Estate"
+        },
+        "Avlokiteshvar Valinv Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "92.284",
+            "Price (in rupees)": "250.00",
+            "Sector": "Financial Service"
+        },
+        "Avro Commercial Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.031",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Axles India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "573.540",
+            "Price (in rupees)": "225.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Ayushman Infratech Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "B S Refrigerators Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "22.593",
+            "Price (in rupees)": "10.00",
+            "Sector": "Consumer Durable"
+        },
+        "B9 Beverages Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,438.475",
+            "Price (in rupees)": "590.00",
+            "Sector": "Breweries & Distilleries"
+        },
+        "BGSE Properties and Securities Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "55.038",
+            "Price (in rupees)": "15.00",
+            "Sector": "Financial Service"
+        },
+        "BS Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "44.168",
+            "Price (in rupees)": "1.00",
+            "Sector": "Electric Equipment"
+        },
+        "BT Syndicate Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "46.724",
+            "Price (in rupees)": "4.55",
+            "Sector": "Bank"
+        },
+        "BVG India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,717.770",
+            "Price (in rupees)": "1,020.00",
+            "Sector": "Facility Management"
+        },
+        "Badra Estates And Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "39.545",
+            "Price (in rupees)": "1,125.00",
+            "Sector": "Other"
+        },
+        "Baghmari Tea Co Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.970",
+            "Price (in rupees)": "90.00",
+            "Sector": "Other"
+        },
+        "Bagrrys India Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "161.618",
+            "Price (in rupees)": "2,100.00",
+            "Sector": "FMCG"
+        },
+        "Balaji Agro Oils Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.630",
+            "Price (in rupees)": "10.05",
+            "Sector": "Agro Products"
+        },
+        "Balanoor Plantations and Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "9.868",
+            "Price (in rupees)": "160.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Balasore Alloys Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "93.325",
+            "Price (in rupees)": "10.00",
+            "Sector": "Metal"
+        },
+        "Balmer Lawrie Van Leer Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "357.699",
+            "Price (in rupees)": "199.00",
+            "Sector": "Packaging"
+        },
+        "Bansal Multiflex Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "7.410",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "Basant India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.083",
+            "Price (in rupees)": "1.05",
+            "Sector": "Financial Service"
+        },
+        "Bateli Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "28.921",
+            "Price (in rupees)": "1,350.00",
+            "Sector": "Other"
+        },
+        "Be Swasth Healthcare Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.483",
+            "Price (in rupees)": "13.25",
+            "Sector": "Healthcare"
+        },
+        "Beetel Teletech Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "84.012",
+            "Price (in rupees)": "165.00",
+            "Sector": "Telecomm"
+        },
+        "Bellary Steels and Alloys Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "3.657",
+            "Price (in rupees)": "0.05",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Berar Finance Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "191.221",
+            "Price (in rupees)": "155.00",
+            "Sector": "Financial Service"
+        },
+        "Best and Crompton Engineering Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.161",
+            "Price (in rupees)": "0.01",
+            "Sector": "Engineering"
+        },
+        "Besta Vision Electronics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.271",
+            "Price (in rupees)": "0.10",
+            "Sector": "Electric Equipment"
+        },
+        "Bhagheeratha Engineering Ltd": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.391",
+            "Price (in rupees)": "0.50",
+            "Sector": "Construction"
+        },
+        "Bhairav Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Bharat Bio Gas Energy Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "6.250",
+            "Price (in rupees)": "10.00",
+            "Sector": "GAS"
+        },
+        "Bharat Ekansh Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.675",
+            "Price (in rupees)": "13.35",
+            "Sector": "Financial Service"
+        },
+        "Bharat Hotels Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1,519.824",
+            "Price (in rupees)": "200.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Bharat NRE Coke Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "21.169",
+            "Price (in rupees)": "1.00",
+            "Sector": "Mining & Minerals"
+        },
+        "Bharat Nidhi Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,816.252",
+            "Price (in rupees)": "9,709.00",
+            "Sector": "Other"
+        },
+        "Bharati Defence and Infrastructure Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.251",
+            "Price (in rupees)": "0.05",
+            "Sector": "Shipping"
+        },
+        "Bhatkawa Tea Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "30.464",
+            "Price (in rupees)": "136.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Bhishma Realty Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "123.749",
+            "Price (in rupees)": "125,100.00",
+            "Sector": "Real Estate"
+        },
+        "Bhuruka Gases Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.013",
+            "Price (in rupees)": "0.01",
+            "Sector": "GAS"
+        },
+        "Bihariji Ispat Udyog Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "34.800",
+            "Price (in rupees)": "58.00",
+            "Sector": "Financial Service"
+        },
+        "Bijni Dooars Tea Co Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "30.000",
+            "Price (in rupees)": "500.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Bil Energy Systems Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "21.142",
+            "Price (in rupees)": "1.00",
+            "Sector": "Power & Electricity"
+        },
+        "Bilpower Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.210",
+            "Price (in rupees)": "0.10",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Binani Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "4.705",
+            "Price (in rupees)": "1.50",
+            "Sector": "Diversified"
+        },
+        "Birla Cotsyn India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "13.433",
+            "Price (in rupees)": "0.05",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Birla Power Solution Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2.135",
+            "Price (in rupees)": "0.01",
+            "Sector": "Electric Equipment"
+        },
+        "Bliss Enterprises": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "154.625",
+            "Price (in rupees)": "18.00",
+            "Sector": "Miscellaneous"
+        },
+        "Blossom Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "313.579",
+            "Price (in rupees)": "85.00",
+            "Sector": "Breweries & Distilleries"
+        },
+        "Blue Blends India Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "1.083",
+            "Price (in rupees)": "0.50",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Bofa Securities India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,315.504",
+            "Price (in rupees)": "1,000.00",
+            "Sector": "Financial Service"
+        },
+        "Bombay Gas Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "8.808",
+            "Price (in rupees)": "11.01",
+            "Sector": "GAS"
+        },
+        "Bombay Swadeshi Stores Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "98.800",
+            "Price (in rupees)": "200.00",
+            "Sector": "Other"
+        },
+        "Brisk Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.309",
+            "Price (in rupees)": "31.00",
+            "Sector": "Service"
+        },
+        "Buckingham Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.001",
+            "Price (in rupees)": "0.05",
+            "Sector": "Real Estate"
+        },
+        "Bundl Technologies Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "59,315.077",
+            "Price (in rupees)": "361.00",
+            "Sector": "Food Delivery"
+        },
+        "C and S Electric Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,434.743",
+            "Price (in rupees)": "550.00",
+            "Sector": "Electric Equipment"
+        },
+        "CKP Leisure Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "9.634",
+            "Price (in rupees)": "10.00",
+            "Sector": "Hotel or Catering"
+        },
+        "CKP Products Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "4.023",
+            "Price (in rupees)": "10.00",
+            "Sector": "FMCG"
+        },
+        "CTR Manufacturing Industries Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,594.710",
+            "Price (in rupees)": "90,000.00",
+            "Sector": "Electric Equipment"
+        },
+        "Cable Corporation of India Ltd": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "93.517",
+            "Price (in rupees)": "12.10",
+            "Sector": "Cables"
+        },
+        "Calcutta Security Printers Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "9.460",
+            "Price (in rupees)": "220.00",
+            "Sector": "Printing & Stationery"
+        },
+        "Cals Refineries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "8.294",
+            "Price (in rupees)": "0.01",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Camac Commercial Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2,542.464",
+            "Price (in rupees)": "28,800.00",
+            "Sector": "Real Estate"
+        },
+        "Capgemini Technology Services India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "59,864.009",
+            "Price (in rupees)": "10,100.00",
+            "Sector": "IT, Software"
+        },
+        "Capital Finvest Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Capital Small Finance Bank Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "1,304.865",
+            "Price (in rupees)": "380.00",
+            "Sector": "Financial Service"
+        },
+        "Capricon Realty Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "269.915",
+            "Price (in rupees)": "300,006.00",
+            "Sector": "Real Estate"
+        },
+        "Carbo Ceramics Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.760",
+            "Price (in rupees)": "40.00",
+            "Sector": "Miscellaneous"
+        },
+        "Care Health Insurance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "16,206.366",
+            "Price (in rupees)": "172.00",
+            "Sector": "Health Insurance"
+        },
+        "Carol Info Services Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "605.964",
+            "Price (in rupees)": "171.00",
+            "Sector": "IT, Software"
+        },
+        "Carrier Airconditioning and Refrigeration Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "3,191.302",
+            "Price (in rupees)": "300.00",
+            "Sector": "Airconditioning"
+        },
+        "Castle Traders Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.613",
+            "Price (in rupees)": "25.00",
+            "Sector": "Financial Service"
+        },
+        "Celestial Biolabs Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "2.733",
+            "Price (in rupees)": "1.21",
+            "Sector": "Pharma"
+        },
+        "Central Cables Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "11.895",
+            "Price (in rupees)": "73.20",
+            "Sector": "Cables"
+        },
+        "Centron Industrial Alliance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.980",
+            "Price (in rupees)": "0.50",
+            "Sector": "Other"
+        },
+        "Champion Commercial Co Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Chemical"
+        },
+        "Chengmari Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.000",
+            "Price (in rupees)": "0.10",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Chennai Super Kings Cricket Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "6,260.513",
+            "Price (in rupees)": "165.00",
+            "Sector": "Sports Franchisee"
+        },
+        "Chitrakut Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "22.253",
+            "Price (in rupees)": "30.40",
+            "Sector": "Financial Service"
+        },
+        "City Gold Credit Capital Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.032",
+            "Price (in rupees)": "0.10",
+            "Sector": "Bank"
+        },
+        "Cochin International Airport Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "6,886.345",
+            "Price (in rupees)": "180.00",
+            "Sector": "Airport"
+        },
+        "Consolidated Construction Consortium Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "79.702",
+            "Price (in rupees)": "2.00",
+            "Sector": "Construction"
+        },
+        "Consolidated Fibres And Chemicals Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.104",
+            "Price (in rupees)": "0.01",
+            "Sector": "Chemical"
+        },
+        "Cox and Kings Financial Service Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.177",
+            "Price (in rupees)": "0.01",
+            "Sector": "Financial Service"
+        },
+        "Credo Mineral Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "354.710",
+            "Price (in rupees)": "54.00",
+            "Sector": "Mining & Minerals"
+        },
+        "Cremica Agro Foods Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "11.284",
+            "Price (in rupees)": "25.10",
+            "Sector": "Food & Drinks"
+        },
+        "Crescent Finstock Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.668",
+            "Price (in rupees)": "12.00",
+            "Sector": "Financial Service"
+        },
+        "Cura Technologies Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "9.555",
+            "Price (in rupees)": "10.00",
+            "Sector": "IT, Software"
+        },
+        "Cyber Media Research and Services Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "20.305",
+            "Price (in rupees)": "190.00",
+            "Sector": "Media"
+        },
+        "DD Ventures Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.009",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "DEYS Medical Stores Manufacturing Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "34.047",
+            "Price (in rupees)": "400.00",
+            "Sector": "Pharma"
+        },
+        "DFM Foods Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2,347.854",
+            "Price (in rupees)": "467.00",
+            "Sector": "FMCG"
+        },
+        "DHSL Textiles India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "9.771",
+            "Price (in rupees)": "19.55",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "DQ Entertainment  International Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.396",
+            "Price (in rupees)": "0.05",
+            "Sector": "Entertainment"
+        },
+        "DS Kulkarni Developers Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.026",
+            "Price (in rupees)": "0.01",
+            "Sector": "Construction"
+        },
+        "DSE Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "33.438",
+            "Price (in rupees)": "11.00",
+            "Sector": "Financial Service"
+        },
+        "DTL India Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.233",
+            "Price (in rupees)": "75.75",
+            "Sector": "Metal"
+        },
+        "Dalmia Bharat Refractories Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "654.162",
+            "Price (in rupees)": "148.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Dalmia Laminators Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "78.024",
+            "Price (in rupees)": "191.00",
+            "Sector": "Other"
+        },
+        "Deepak Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "553.901",
+            "Price (in rupees)": "1,400.00",
+            "Sector": "Auto Components"
+        },
+        "Deepjyoti Textiles Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.421",
+            "Price (in rupees)": "20.80",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Delta Impex Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.081",
+            "Price (in rupees)": "1.50",
+            "Sector": "Financial Service"
+        },
+        "Denim Developers Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.168",
+            "Price (in rupees)": "1.10",
+            "Sector": "Real Estate"
+        },
+        "Devrup Trading Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.130",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Dewas Metal Sections Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "13.995",
+            "Price (in rupees)": "45.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Dhaval Exports Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.996",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Dhelakhat Tea Co Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.160",
+            "Price (in rupees)": "55.00",
+            "Sector": "Other"
+        },
+        "Digvijay Finlease Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,121.507",
+            "Price (in rupees)": "1,600.00",
+            "Sector": "Financial Service"
+        },
+        "Distinctive Properties and Leasing Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.678",
+            "Price (in rupees)": "26.85",
+            "Sector": "Real Estate"
+        },
+        "Dolphin Offshore Enterprises india limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.084",
+            "Price (in rupees)": "0.05",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Down Town Hospital Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "30.000",
+            "Price (in rupees)": "100.00",
+            "Sector": "Hospital"
+        },
+        "Dr Fresh Assets Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "24.596",
+            "Price (in rupees)": "45.00",
+            "Sector": "Real Estate"
+        },
+        "Dr M Induscorp Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "7.560",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "E L Forge Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2.032",
+            "Price (in rupees)": "1.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "ELCID Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3,019.980",
+            "Price (in rupees)": "150,999.00",
+            "Sector": "Financial Service"
+        },
+        "ELGI Ultra Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "72.396",
+            "Price (in rupees)": "400.00",
+            "Sector": "Household Products"
+        },
+        "ESDS Software Solution Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "1,257.293",
+            "Price (in rupees)": "225.00",
+            "Sector": "IT, Software"
+        },
+        "ESL Steel Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "5,528.600",
+            "Price (in rupees)": "29.90",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "ETA Karnataka Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "279.583",
+            "Price (in rupees)": "130.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "East India Pharmaceutical Works Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "32.708",
+            "Price (in rupees)": "49.00",
+            "Sector": "Pharma"
+        },
+        "East West Hotels Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "12.505",
+            "Price (in rupees)": "351.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Eastern Dooars Tea Co ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.020",
+            "Price (in rupees)": "101.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Eastern Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "283.791",
+            "Price (in rupees)": "2,000.00",
+            "Sector": "Financial Service"
+        },
+        "Eastern Sugar And Industries Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.146",
+            "Price (in rupees)": "0.05",
+            "Sector": "Sugar"
+        },
+        "Eaton Fluid Power Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "295.800",
+            "Price (in rupees)": "425.00",
+            "Sector": "Power & Electricity"
+        },
+        "Efficient Industrial Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.000",
+            "Price (in rupees)": "0.01",
+            "Sector": "Financial Service"
+        },
+        "Electra Jaipur Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.496",
+            "Price (in rupees)": "10.00",
+            "Sector": "Electricals"
+        },
+        "Electronica Finance Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "98.872",
+            "Price (in rupees)": "34.00",
+            "Sector": "NBFC"
+        },
+        "Electronica Plastic Machines Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "104.977",
+            "Price (in rupees)": "4,100.00",
+            "Sector": "Equipment"
+        },
+        "Ellora Traders Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.992",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Elofic Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "526.758",
+            "Price (in rupees)": "2,100.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Empire Spices and Foods Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "159.257",
+            "Price (in rupees)": "329.00",
+            "Sector": "FMCG"
+        },
+        "Emrald Commercial Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.916",
+            "Price (in rupees)": "0.21",
+            "Sector": "Financial Service"
+        },
+        "Encore Business System Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.097",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "English Indian Clays Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "103.066",
+            "Price (in rupees)": "20.50",
+            "Sector": "Other"
+        },
+        "Entegra Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.317",
+            "Price (in rupees)": "0.01",
+            "Sector": "Power & Electricity"
+        },
+        "Eon Electric Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "8.451",
+            "Price (in rupees)": "5.00",
+            "Sector": "Electricals"
+        },
+        "Ess Dee Aluminium Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.032",
+            "Price (in rupees)": "0.01",
+            "Sector": "FMCG"
+        },
+        "Essar Ports Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "32.620",
+            "Price (in rupees)": "10.01",
+            "Sector": "Other"
+        },
+        "Essel Mining and Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "576.605",
+            "Price (in rupees)": "2.90",
+            "Sector": "Mining & Minerals"
+        },
+        "Euro Ceramics Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.169",
+            "Price (in rupees)": "0.05",
+            "Sector": "Ceramics & Granite"
+        },
+        "Euro Multivision Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.119",
+            "Price (in rupees)": "0.05",
+            "Sector": "Miscellaneous"
+        },
+        "Fancy Fittings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "30.430",
+            "Price (in rupees)": "93.40",
+            "Sector": "Miscellaneous"
+        },
+        "Farmax India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "53.417",
+            "Price (in rupees)": "1.00",
+            "Sector": "FMCG"
+        },
+        "Fedders Electric and Engineering Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "3.000",
+            "Price (in rupees)": "0.10",
+            "Sector": "Engineering"
+        },
+        "Federal Mogul Anand Sealings India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "8.334",
+            "Price (in rupees)": "10.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Fiber Plus Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.248",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Fincare Business Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,500.363",
+            "Price (in rupees)": "45.50",
+            "Sector": "Financial Service"
+        },
+        "Fincare Small Finance Bank Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,002.604",
+            "Price (in rupees)": "136.00",
+            "Sector": "Financial Service"
+        },
+        "Fino PayTech Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,865.337",
+            "Price (in rupees)": "140.00",
+            "Sector": "Financial Service"
+        },
+        "First Winner Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.100",
+            "Price (in rupees)": "0.02",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Five Core Electronics Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.025",
+            "Price (in rupees)": "0.02",
+            "Sector": "Electricals"
+        },
+        "Flare Finance India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.371",
+            "Price (in rupees)": "0.20",
+            "Sector": "Financial Service"
+        },
+        "Flipkart India Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "283,928.180",
+            "Price (in rupees)": "231,001.00",
+            "Sector": "eCommerce"
+        },
+        "Fortune Industrial Resources Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Frick India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "401.983",
+            "Price (in rupees)": "6,700.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "GKN Driveline India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1,468.902",
+            "Price (in rupees)": "1,150.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Gammon India Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "73.769",
+            "Price (in rupees)": "2.00",
+            "Sector": "Building Materials"
+        },
+        "Gandhar Oil Refinery India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,221.699",
+            "Price (in rupees)": "300.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Ganga Care Hospital Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "353.503",
+            "Price (in rupees)": "298.00",
+            "Sector": "Healthcare"
+        },
+        "Gannon Dunkerley and Co Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "295.680",
+            "Price (in rupees)": "1,100.00",
+            "Sector": "Other"
+        },
+        "Ganodaya Finlease Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "25.448",
+            "Price (in rupees)": "39.15",
+            "Sector": "NBFC"
+        },
+        "Ganon Products Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "9.331",
+            "Price (in rupees)": "10.00",
+            "Sector": "Other"
+        },
+        "Garg Acrylics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "254.917",
+            "Price (in rupees)": "383.75",
+            "Sector": "Miscellaneous"
+        },
+        "Gaylord Commercial Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.640",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Gemini Communication Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "10.415",
+            "Price (in rupees)": "1.00",
+            "Sector": "IT, Software"
+        },
+        "Genesis Developers And Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.165",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Genesis Finance Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "74.003",
+            "Price (in rupees)": "15.95",
+            "Sector": "Financial Service"
+        },
+        "Girdharilal Sugar and Allied Industries": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.192",
+            "Price (in rupees)": "0.10",
+            "Sector": "FMCG"
+        },
+        "Gitanjali Gems Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.573",
+            "Price (in rupees)": "0.05",
+            "Sector": "Miscellaneous"
+        },
+        "Go Digit": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "30,940.233",
+            "Price (in rupees)": "354.00",
+            "Sector": "General Insurance"
+        },
+        "Goa Shipyard Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,166.182",
+            "Price (in rupees)": "272.00",
+            "Sector": "Shipping"
+        },
+        "Goalpost Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Leather Products"
+        },
+        "Gobind Sugar Mills Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "55.913",
+            "Price (in rupees)": "125.00",
+            "Sector": "Other"
+        },
+        "Godavari Biorefineries Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "297.795",
+            "Price (in rupees)": "71.00",
+            "Sector": "Miscellaneous"
+        },
+        "Goldedge Estate And Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.379",
+            "Price (in rupees)": "10.50",
+            "Sector": "Financial Service"
+        },
+        "Gracious Vanijya Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.084",
+            "Price (in rupees)": "13.50",
+            "Sector": "Financial Service"
+        },
+        "Grand Foundry Ltd": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "3.073",
+            "Price (in rupees)": "1.01",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Greenearth Resources And Projects Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2.903",
+            "Price (in rupees)": "0.10",
+            "Sector": "Mining & Minerals"
+        },
+        "Guindy Machine Tools Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "69.367",
+            "Price (in rupees)": "191.00",
+            "Sector": "Equipment"
+        },
+        "Gujarat NRE Coke Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "165.094",
+            "Price (in rupees)": "1.00",
+            "Sector": "Other"
+        },
+        "Gujarat Wedge Wire Screens Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1.645",
+            "Price (in rupees)": "20.00",
+            "Sector": "Miscellaneous"
+        },
+        "HDB Financial Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "52,232.339",
+            "Price (in rupees)": "660.00",
+            "Sector": "Financial Service"
+        },
+        "HDFC Ergo General Insurance Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "26,440.792",
+            "Price (in rupees)": "370.00",
+            "Sector": "Health Insurance"
+        },
+        "HDFC Securities Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "17,643.006",
+            "Price (in rupees)": "11,100.00",
+            "Sector": "Financial Service"
+        },
+        "Haileyburia Tea Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "9.450",
+            "Price (in rupees)": "60.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Haldia Petrochemicals Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "16.879",
+            "Price (in rupees)": "0.10",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Hanung Toys and Textiles Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.123",
+            "Price (in rupees)": "0.04",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Hardoli Paper Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "23.961",
+            "Price (in rupees)": "89.00",
+            "Sector": "Paper"
+        },
+        "Hella India Lighting Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "256.883",
+            "Price (in rupees)": "810.00",
+            "Sector": "Auto Components"
+        },
+        "Hemadri Cements Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "34.684",
+            "Price (in rupees)": "52.00",
+            "Sector": "Cement"
+        },
+        "Hero FinCorp Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "14,767.574",
+            "Price (in rupees)": "1,160.00",
+            "Sector": "Financial Service"
+        },
+        "Hexaware Technologies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "18,101.396",
+            "Price (in rupees)": "595.00",
+            "Sector": "IT, Software"
+        },
+        "Hicks Thermometers India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "39.948",
+            "Price (in rupees)": "1,450.00",
+            "Sector": "Healthcare"
+        },
+        "High Ground Enterprise Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "11.512",
+            "Price (in rupees)": "1.00",
+            "Sector": "Engineering"
+        },
+        "Hillridge Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.500",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Hilltone Software and Gases Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "4.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "GAS"
+        },
+        "Hind Ispat Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.395",
+            "Price (in rupees)": "2.10",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Hind Syntex Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.064",
+            "Price (in rupees)": "0.05",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Hindustan Auto Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.503",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Hindustan Dorr Oliver Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "14.401",
+            "Price (in rupees)": "2.00",
+            "Sector": "Construction"
+        },
+        "Hindusthan Engineering And Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "216.011",
+            "Price (in rupees)": "144.00",
+            "Sector": "Other"
+        },
+        "Hira Ferro Alloys Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "347.828",
+            "Price (in rupees)": "150.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Hirajuli Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.450",
+            "Price (in rupees)": "160.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Honeywell Electrical Devices And Systems India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "342.590",
+            "Price (in rupees)": "3,600.00",
+            "Sector": "Electric Equipment"
+        },
+        "Hotahoti Wood Products Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1,979.996",
+            "Price (in rupees)": "990.00",
+            "Sector": "Financial Service"
+        },
+        "Hutti Gold Mines Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,094.162",
+            "Price (in rupees)": "70,700.00",
+            "Sector": "Mining & Minerals"
+        },
+        "I Secure Credit and Capital Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.433",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "ICL Fincorp Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "89.113",
+            "Price (in rupees)": "20.10",
+            "Sector": "Financial Service"
+        },
+        "ICSA India Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "9.628",
+            "Price (in rupees)": "2.00",
+            "Sector": "IT, Software"
+        },
+        "IHP Finvest Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "205.122",
+            "Price (in rupees)": "3,600.00",
+            "Sector": "Financial Service"
+        },
+        "IKF Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,492.517",
+            "Price (in rupees)": "221.00",
+            "Sector": "Financial Service"
+        },
+        "IMC Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "7.238",
+            "Price (in rupees)": "10.00",
+            "Sector": "Transport"
+        },
+        "ITL Finlease and Securities Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.048",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Imagine Marketing Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "8,546.697",
+            "Price (in rupees)": "890.00",
+            "Sector": "Consumer Durable"
+        },
+        "Impala Industrial Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.155",
+            "Price (in rupees)": "1.05",
+            "Sector": "Financial Service"
+        },
+        "Incred Financial Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,881.337",
+            "Price (in rupees)": "100.00",
+            "Sector": "Financial Service"
+        },
+        "India Carbon Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "238.500",
+            "Price (in rupees)": "900.00",
+            "Sector": "Chemical"
+        },
+        "India Exposition Mart Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "1,004.733",
+            "Price (in rupees)": "135.00",
+            "Sector": "Other"
+        },
+        "India Stuffyarn Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.224",
+            "Price (in rupees)": "180.00",
+            "Sector": "Trading"
+        },
+        "Indian Commodity Exchange Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "294.400",
+            "Price (in rupees)": "4.00",
+            "Sector": "Financial Service"
+        },
+        "Indian Potash Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,717.636",
+            "Price (in rupees)": "1,300.00",
+            "Sector": "Fertilisers"
+        },
+        "Indo Alusys Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "21.908",
+            "Price (in rupees)": "25.75",
+            "Sector": "Metal"
+        },
+        "Indo Bonito Multinational Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "2.494",
+            "Price (in rupees)": "1.00",
+            "Sector": "Financial Service"
+        },
+        "Indofil Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,369.600",
+            "Price (in rupees)": "640.00",
+            "Sector": "Pesticides"
+        },
+        "Indu Engineering And Textiles Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.145",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Infinium Precious Resources Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.961",
+            "Price (in rupees)": "1.00",
+            "Sector": "Precious Metals"
+        },
+        "Infrastructure Leasing And Financial Services Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "898.823",
+            "Price (in rupees)": "70.00",
+            "Sector": "Infrastructure"
+        },
+        "Inkel Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "213.377",
+            "Price (in rupees)": "12.00",
+            "Sector": "Infrastructure"
+        },
+        "Inox Leasing And Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,980.010",
+            "Price (in rupees)": "2,000.00",
+            "Sector": "Financial Service"
+        },
+        "Intertec Technologies Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "23.703",
+            "Price (in rupees)": "31.35",
+            "Sector": "Miscellaneous"
+        },
+        "J K Cotton Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "125.396",
+            "Price (in rupees)": "35.10",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "J K Investo Trade India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "153.766",
+            "Price (in rupees)": "210.00",
+            "Sector": "Investment & Holding"
+        },
+        "JCK Infrastructure Development Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.417",
+            "Price (in rupees)": "13.00",
+            "Sector": "Infrastructure"
+        },
+        "JDS Finance Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.735",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "JRD Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.720",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "JVL Agro Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "16.794",
+            "Price (in rupees)": "1.00",
+            "Sector": "Agro Products"
+        },
+        "Jagadishwar Pharmaceuticals Works Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "29.730",
+            "Price (in rupees)": "10.01",
+            "Sector": "Pharma"
+        },
+        "Jagat Trading Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "9.503",
+            "Price (in rupees)": "18.70",
+            "Sector": "Trading"
+        },
+        "Jain Farms And Resorts Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.075",
+            "Price (in rupees)": "10.25",
+            "Sector": "Real Estate"
+        },
+        "Jain Farms Palm Oil Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.345",
+            "Price (in rupees)": "11.15",
+            "Sector": "FMCG"
+        },
+        "Jana Small Finance Bank Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "412.340",
+            "Price (in rupees)": "75.00",
+            "Sector": "Financial Service"
+        },
+        "Jardine Henderson Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "22.000",
+            "Price (in rupees)": "1,100.00",
+            "Sector": "Miscellaneous"
+        },
+        "Jeco Exports And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.482",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "John Oakey And Mohan Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "9.917",
+            "Price (in rupees)": "205.00",
+            "Sector": "Forestry & Wood"
+        },
+        "Jolly Board Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "545.604",
+            "Price (in rupees)": "12,000.00",
+            "Sector": "Forestry & Wood"
+        },
+        "Jord Engineers India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.276",
+            "Price (in rupees)": "0.10",
+            "Sector": "Engineering"
+        },
+        "Jotindra Steel And Tubes Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "19.978",
+            "Price (in rupees)": "41.00",
+            "Sector": "Real Estate"
+        },
+        "K2 Systems Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.004",
+            "Price (in rupees)": "0.10",
+            "Sector": "IT, Software"
+        },
+        "KCL Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "69.902",
+            "Price (in rupees)": "233.00",
+            "Sector": "Paper"
+        },
+        "KLM Axiva Finvest Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "85.499",
+            "Price (in rupees)": "16.20",
+            "Sector": "Financial Service"
+        },
+        "KRA Leasing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.750",
+            "Price (in rupees)": "2.05",
+            "Sector": "Financial Service"
+        },
+        "KSK Energy Ventures Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.424",
+            "Price (in rupees)": "0.01",
+            "Sector": "Power & Electricity"
+        },
+        "Kabirdas Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.396",
+            "Price (in rupees)": "1.00",
+            "Sector": "Financial Service"
+        },
+        "Kalyani Tea Co Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.075",
+            "Price (in rupees)": "210.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Kamarhatty Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "50.553",
+            "Price (in rupees)": "90.00",
+            "Sector": "Hotel or Catering"
+        },
+        "Kamini Finance and Investment Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.901",
+            "Price (in rupees)": "3.25",
+            "Sector": "Financial Service"
+        },
+        "Kanara Consumer Products Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "729.248",
+            "Price (in rupees)": "490.00",
+            "Sector": "Household Products"
+        },
+        "Kanco Enterprises Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1.793",
+            "Price (in rupees)": "1.00",
+            "Sector": "Cotton"
+        },
+        "Kannur International Airport Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,244.453",
+            "Price (in rupees)": "93.00",
+            "Sector": "Airport"
+        },
+        "Kashipur Holdings Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "22.772",
+            "Price (in rupees)": "100.00",
+            "Sector": "Miscellaneous"
+        },
+        "Kesoram Textile Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.509",
+            "Price (in rupees)": "2.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Kingfisher Airlines Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "73.594",
+            "Price (in rupees)": "0.91",
+            "Sector": "Other"
+        },
+        "Kiranglobal Business Investment Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.022",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Kirti Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "11.000",
+            "Price (in rupees)": "5.00",
+            "Sector": "Investment & Holding"
+        },
+        "Konark Commercial Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Kothari Safe Deposits Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "7.402",
+            "Price (in rupees)": "110.00",
+            "Sector": "Other"
+        },
+        "Krimy Biscuits and Chemical Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.930",
+            "Price (in rupees)": "10.00",
+            "Sector": "Chemical"
+        },
+        "Kumar Autocast Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "17.791",
+            "Price (in rupees)": "17.15",
+            "Sector": "Casting & Forgings"
+        },
+        "Kumar Food Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "FMCG"
+        },
+        "Kurlon Enterprise Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,046.927",
+            "Price (in rupees)": "560.00",
+            "Sector": "Consumer Durable"
+        },
+        "Kusum Industrial Gases Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "47.501",
+            "Price (in rupees)": "400.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Kwality Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "24.135",
+            "Price (in rupees)": "1.00",
+            "Sector": "FMCG"
+        },
+        "LCC Infotech Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "25.319",
+            "Price (in rupees)": "2.00",
+            "Sector": "IT, Software"
+        },
+        "LE Travenues Technology Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "3,475.650",
+            "Price (in rupees)": "94.00",
+            "Sector": "Tours & Travels"
+        },
+        "LML Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.082",
+            "Price (in rupees)": "0.01",
+            "Sector": "Auto Components"
+        },
+        "Lacy Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.248",
+            "Price (in rupees)": "5.01",
+            "Sector": "FMCG"
+        },
+        "Laffan Software Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.152",
+            "Price (in rupees)": "0.10",
+            "Sector": "IT, Software"
+        },
+        "Lakeshore Hospital And Research Centre Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "640.000",
+            "Price (in rupees)": "64.00",
+            "Sector": "Hospital"
+        },
+        "Lakshmi Energy and Foods Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "14.726",
+            "Price (in rupees)": "2.00",
+            "Sector": "Food & Drinks"
+        },
+        "Lamina Foundries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.051",
+            "Price (in rupees)": "0.11",
+            "Sector": "Auto Components"
+        },
+        "Lark Trading and Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.260",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "Lava International Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "5,179.192",
+            "Price (in rupees)": "90.00",
+            "Sector": "Consumer Durable"
+        },
+        "Lingapur Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.068",
+            "Price (in rupees)": "20.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Logic Infotech Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.132",
+            "Price (in rupees)": "0.05",
+            "Sector": "Financial Service"
+        },
+        "Lotte India Corporation Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "380.232",
+            "Price (in rupees)": "350.00",
+            "Sector": "Other"
+        },
+        "MIL Industries And Aerospace Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "31.500",
+            "Price (in rupees)": "100.00",
+            "Sector": "AEROSPACE"
+        },
+        "MIL Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "36.855",
+            "Price (in rupees)": "117.00",
+            "Sector": "Other"
+        },
+        "MPL Enterprises Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "11.304",
+            "Price (in rupees)": "39.80",
+            "Sector": "NBFC"
+        },
+        "MSE Financial Services Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "93.877",
+            "Price (in rupees)": "7.00",
+            "Sector": "Financial Service"
+        },
+        "MVL Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.601",
+            "Price (in rupees)": "0.01",
+            "Sector": "Real Estate"
+        },
+        "Macor Packaging Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.105",
+            "Price (in rupees)": "2.10",
+            "Sector": "Transport"
+        },
+        "Madbow Ventures Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "15.980",
+            "Price (in rupees)": "34.00",
+            "Sector": "Retail"
+        },
+        "Madhya Bharat Papers Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.410",
+            "Price (in rupees)": "10.00",
+            "Sector": "Paper"
+        },
+        "Maharaja Shree Umaid Mills Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "743.606",
+            "Price (in rupees)": "125.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Maharashtra Knowledge Corporation Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "307.047",
+            "Price (in rupees)": "380.00",
+            "Sector": "Education"
+        },
+        "Malayalam Communications Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "197.280",
+            "Price (in rupees)": "25,000.00",
+            "Sector": "Entertainment"
+        },
+        "Mangalam Engineering Projects Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.237",
+            "Price (in rupees)": "10.10",
+            "Sector": "Financial Service"
+        },
+        "Manikaran Power Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "35.353",
+            "Price (in rupees)": "10.00",
+            "Sector": "Power & Electricity"
+        },
+        "Manipal Housing Finance Syndicate Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "61.662",
+            "Price (in rupees)": "72.50",
+            "Sector": "Financial Service"
+        },
+        "Manjushree Technopack Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1,368.318",
+            "Price (in rupees)": "1,010.00",
+            "Sector": "Packaging"
+        },
+        "Manpasand Beverages Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "11.446",
+            "Price (in rupees)": "1.00",
+            "Sector": "Other"
+        },
+        "Marble Finvest Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "34.526",
+            "Price (in rupees)": "123.35",
+            "Sector": "Financial Service"
+        },
+        "Market Simplified India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "66.076",
+            "Price (in rupees)": "44.00",
+            "Sector": "IT, Software"
+        },
+        "Martin And Harris Laboratories Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "431.572",
+            "Price (in rupees)": "1,080.00",
+            "Sector": "Pharma"
+        },
+        "Marvel Vinyls Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "52.758",
+            "Price (in rupees)": "124.00",
+            "Sector": "Other"
+        },
+        "Maryada Commercial Enterprises and Investment Co Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.783",
+            "Price (in rupees)": "46.45",
+            "Sector": "Financial Service"
+        },
+        "Mashaal Impex Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.001",
+            "Price (in rupees)": "0.05",
+            "Sector": "Retail"
+        },
+        "Maxplus Logistics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.834",
+            "Price (in rupees)": "10.00",
+            "Sector": "Transport"
+        },
+        "Maxvalue Credits And Investments Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "158.891",
+            "Price (in rupees)": "5.10",
+            "Sector": "Financial Service"
+        },
+        "Mayasheel Retail India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "94.400",
+            "Price (in rupees)": "32.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Mayurbhanj Trades And Agencies Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Trading"
+        },
+        "Mcdowell Holdings Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "4.212",
+            "Price (in rupees)": "3.01",
+            "Sector": "Financial Service"
+        },
+        "Mcnally Sayaji Engineering Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "220.312",
+            "Price (in rupees)": "175.00",
+            "Sector": "Equipment"
+        },
+        "Medexport India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "24.500",
+            "Price (in rupees)": "35.00",
+            "Sector": "Trading"
+        },
+        "Meenakshi Mercantiles Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "12.239",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Merind Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "78.667",
+            "Price (in rupees)": "216.00",
+            "Sector": "Other"
+        },
+        "Merino Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,465.390",
+            "Price (in rupees)": "3,100.00",
+            "Sector": "Plywood & Laminates"
+        },
+        "Merit Credit Corporation Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "14.820",
+            "Price (in rupees)": "24.70",
+            "Sector": "Financial Service"
+        },
+        "Metkore Alloys  and  Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "14.085",
+            "Price (in rupees)": "2.00",
+            "Sector": "Metal"
+        },
+        "Metropolitan Stock Exchange Of India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "414.107",
+            "Price (in rupees)": "0.86",
+            "Sector": "Financial Service"
+        },
+        "Mewar Polytex Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "55.233",
+            "Price (in rupees)": "171.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Midland Microfin Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "374.192",
+            "Price (in rupees)": "104.00",
+            "Sector": "Financial Service"
+        },
+        "Midland Rubber And Produce Co Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "150.965",
+            "Price (in rupees)": "3,880.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Midland Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.447",
+            "Price (in rupees)": "26.40",
+            "Sector": "Service"
+        },
+        "Milton Cycle Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "5.544",
+            "Price (in rupees)": "132.00",
+            "Sector": "Other"
+        },
+        "Mint Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "89.748",
+            "Price (in rupees)": "162.00",
+            "Sector": "Investment & Holding"
+        },
+        "Mitsubishi Heavy Industries India Precision Tools Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "144.279",
+            "Price (in rupees)": "207.00",
+            "Sector": "Other"
+        },
+        "Modern Thread Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.035",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Mohan Meakin Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,403.899",
+            "Price (in rupees)": "1,650.00",
+            "Sector": "Breweries & Distilleries"
+        },
+        "Mohindra Fasteners Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "111.958",
+            "Price (in rupees)": "190.00",
+            "Sector": "Other"
+        },
+        "Molind Engineering Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.811",
+            "Price (in rupees)": "3.20",
+            "Sector": "Engineering"
+        },
+        "Moneytech Finlease Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "286.280",
+            "Price (in rupees)": "372.00",
+            "Sector": "Financial Service"
+        },
+        "Morn Media Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.251",
+            "Price (in rupees)": "5.01",
+            "Sector": "Publication"
+        },
+        "Morning Glory Leasing And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Moser Baer Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.222",
+            "Price (in rupees)": "0.01",
+            "Sector": "Renewable Energy"
+        },
+        "Motilal Oswal Home Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "5,580.938",
+            "Price (in rupees)": "9.25",
+            "Sector": "Financial Service"
+        },
+        "Motorol Enterprises Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.040",
+            "Price (in rupees)": "10.00",
+            "Sector": "Construction"
+        },
+        "Mountain Spinning Mills Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.620",
+            "Price (in rupees)": "10.00",
+            "Sector": "Cotton"
+        },
+        "Mrigaya Estate And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.211",
+            "Price (in rupees)": "14.45",
+            "Sector": "Financial Service"
+        },
+        "Mysore Paints And Varnish Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "53.901",
+            "Price (in rupees)": "520.00",
+            "Sector": "Paint & Varnishes"
+        },
+        "N E Electronics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.001",
+            "Price (in rupees)": "1.00",
+            "Sector": "Electronics"
+        },
+        "N K Textile Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.840",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "NCL Buildtek Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "231.400",
+            "Price (in rupees)": "200.00",
+            "Sector": "Building Materials"
+        },
+        "NCL Holdings Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "34.710",
+            "Price (in rupees)": "60.00",
+            "Sector": "Investment & Holding"
+        },
+        "NMS Resources Global Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.857",
+            "Price (in rupees)": "2.85",
+            "Sector": "Service"
+        },
+        "Naga Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "78.364",
+            "Price (in rupees)": "55.00",
+            "Sector": "FMCG"
+        },
+        "Nakoda Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "3.000",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Namaste Exports Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.137",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Nandini Texcom India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "7.000",
+            "Price (in rupees)": "14.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Naraingarh Sugar Mills Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.095",
+            "Price (in rupees)": "0.05",
+            "Sector": "Sugar"
+        },
+        "National Cereals Products limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "5.192",
+            "Price (in rupees)": "39.50",
+            "Sector": "Food & Drinks"
+        },
+        "National Commodity And Derivatives Exchange Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,393.590",
+            "Price (in rupees)": "275.00",
+            "Sector": "Financial Service"
+        },
+        "National Securities Depository Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "14,000.000",
+            "Price (in rupees)": "700.00",
+            "Sector": "Financial Service"
+        },
+        "National Stock Exchange of India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "163,350.000",
+            "Price (in rupees)": "3,300.00",
+            "Sector": "Financial Service"
+        },
+        "Nature India Communique Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.001",
+            "Price (in rupees)": "0.05",
+            "Sector": "Service"
+        },
+        "Nawratan Arts Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.100",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "Nayara Energy Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "40,245.151",
+            "Price (in rupees)": "270.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Nayara Energy Limited 8 NCD 15DC25 FVRS350": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "187.125",
+            "Price (in rupees)": "255.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "New Chumta  Tea Company limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "21.400",
+            "Price (in rupees)": "100.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "New Era Alkaloids and Export Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.284",
+            "Price (in rupees)": "10.00",
+            "Sector": "Chemical"
+        },
+        "Newage Marketing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.836",
+            "Price (in rupees)": "10.00",
+            "Sector": "Healthcare"
+        },
+        "Newlink Overseas Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "5.301",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Nextgen Animation Mediaa Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.062",
+            "Price (in rupees)": "0.01",
+            "Sector": "Media"
+        },
+        "Nicco Corporation Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "26.375",
+            "Price (in rupees)": "2.00",
+            "Sector": "Engineering"
+        },
+        "Nidhan Commercial Company Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.504",
+            "Price (in rupees)": "50.40",
+            "Sector": "Miscellaneous"
+        },
+        "Nidhi Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.103",
+            "Price (in rupees)": "14.02",
+            "Sector": "Service"
+        },
+        "Nijjer Agro Foods Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.051",
+            "Price (in rupees)": "0.05",
+            "Sector": "Agro Products"
+        },
+        "Nitu Trading Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.275",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "North Eastern Publishing And Advertising Co Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "37.671",
+            "Price (in rupees)": "9.30",
+            "Sector": "Publication"
+        },
+        "Nu Tek India Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.155",
+            "Price (in rupees)": "0.01",
+            "Sector": "Telecomm"
+        },
+        "OCL Iron And Steel Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "14.531",
+            "Price (in rupees)": "1.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "OEN India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "101.985",
+            "Price (in rupees)": "200.00",
+            "Sector": "Auto LCVS & HCVS"
+        },
+        "Ojswi Trades Investment And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.750",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "One Mobikwik Systems Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "1,829.905",
+            "Price (in rupees)": "320.00",
+            "Sector": "Financial Service"
+        },
+        "Online Information Technologies Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.319",
+            "Price (in rupees)": "0.20",
+            "Sector": "IT, Software"
+        },
+        "Opal Luxury Time Products Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "3.359",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Operational Energy Group India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "33.517",
+            "Price (in rupees)": "25.70",
+            "Sector": "Power & Electricity"
+        },
+        "Oravel Stays Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "40,404.537",
+            "Price (in rupees)": "67.00",
+            "Sector": "eCommerce"
+        },
+        "Orbis Financial Corporation Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,306.780",
+            "Price (in rupees)": "115.00",
+            "Sector": "Financial Service"
+        },
+        "Orissa Sponge Iron And Steel Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "652.401",
+            "Price (in rupees)": "219.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Oswal Minerals Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "45.378",
+            "Price (in rupees)": "60.10",
+            "Sector": "Mining & Minerals"
+        },
+        "Otis Elevator Company India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "4,428.083",
+            "Price (in rupees)": "3,750.00",
+            "Sector": "Machinery"
+        },
+        "P K Leasing And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.311",
+            "Price (in rupees)": "1.00",
+            "Sector": "Financial Service"
+        },
+        "P R Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.890",
+            "Price (in rupees)": "10.00",
+            "Sector": "Real Estate"
+        },
+        "PB Global Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "1.050",
+            "Price (in rupees)": "10.00",
+            "Sector": "Pesticides"
+        },
+        "PHF Leasing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.916",
+            "Price (in rupees)": "17.00",
+            "Sector": "Real Estate"
+        },
+        "PIH Finvest Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.411",
+            "Price (in rupees)": "39.10",
+            "Sector": "Financial Service"
+        },
+        "PNB Finance And Industries Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,097.600",
+            "Price (in rupees)": "6,555.00",
+            "Sector": "NBFC"
+        },
+        "PNB Metlife India Insurance Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "14,090.190",
+            "Price (in rupees)": "70.00",
+            "Sector": "Life Insurance"
+        },
+        "PSL Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.125",
+            "Price (in rupees)": "0.01",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Pace Automation Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "9.448",
+            "Price (in rupees)": "10.00",
+            "Sector": "IT, Software"
+        },
+        "Pact Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "15.237",
+            "Price (in rupees)": "2.75",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Padmini Technologies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.103",
+            "Price (in rupees)": "0.02",
+            "Sector": "Plastic"
+        },
+        "Panasonic AVC Networks India Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "145.000",
+            "Price (in rupees)": "29.00",
+            "Sector": "Other"
+        },
+        "Panasonic Appliances India Company Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "256.070",
+            "Price (in rupees)": "202.00",
+            "Sector": "Household Products"
+        },
+        "Parijat Paper Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.290",
+            "Price (in rupees)": "10.00",
+            "Sector": "Paper"
+        },
+        "Parry Agro Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "450.818",
+            "Price (in rupees)": "1,200.00",
+            "Sector": "Agro Products"
+        },
+        "Partap Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "85.332",
+            "Price (in rupees)": "399.70",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Patback Business Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.000",
+            "Price (in rupees)": "0.01",
+            "Sector": "Retail"
+        },
+        "Patels Airflow Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "15.751",
+            "Price (in rupees)": "70.00",
+            "Sector": "Other"
+        },
+        "Paymate India Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,009.304",
+            "Price (in rupees)": "350.00",
+            "Sector": "Financial Service"
+        },
+        "Pearl Apartments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "20.595",
+            "Price (in rupees)": "411.90",
+            "Sector": "Miscellaneous"
+        },
+        "Peirce Leslie India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "15.905",
+            "Price (in rupees)": "52.00",
+            "Sector": "Service"
+        },
+        "Pharmed Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "185.167",
+            "Price (in rupees)": "430.00",
+            "Sector": "Healthcare"
+        },
+        "Philips India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "5,032.759",
+            "Price (in rupees)": "875.00",
+            "Sector": "Healthcare"
+        },
+        "Pillar Investment Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.985",
+            "Price (in rupees)": "10.00",
+            "Sector": "Investment & Holding"
+        },
+        "Pincon Spirit Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "9.258",
+            "Price (in rupees)": "2.10",
+            "Sector": "Breweries & Distilleries"
+        },
+        "Pine Animation Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "27.700",
+            "Price (in rupees)": "1.00",
+            "Sector": "IT, Software"
+        },
+        "Placid Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "64.827",
+            "Price (in rupees)": "1,207.00",
+            "Sector": "NBFC"
+        },
+        "Pochiraju Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.189",
+            "Price (in rupees)": "0.10",
+            "Sector": "Miscellaneous"
+        },
+        "Polymatech Electronics Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,234.429",
+            "Price (in rupees)": "450.00",
+            "Sector": "Electricals"
+        },
+        "Ponni Sugars Orissa Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.025",
+            "Price (in rupees)": "0.01",
+            "Sector": "Sugar"
+        },
+        "Porsche Capital Market Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.948",
+            "Price (in rupees)": "0.50",
+            "Sector": "Financial Service"
+        },
+        "Prabhat Securities Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.132",
+            "Price (in rupees)": "10.80",
+            "Sector": "Financial Service"
+        },
+        "Pratibha Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "47.719",
+            "Price (in rupees)": "2.00",
+            "Sector": "Engineering"
+        },
+        "Premier Cryogenics Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "68.935",
+            "Price (in rupees)": "140.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Premium Merchants Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.998",
+            "Price (in rupees)": "10.00",
+            "Sector": "Trading"
+        },
+        "Pretto Leather Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.039",
+            "Price (in rupees)": "0.05",
+            "Sector": "Leather Products"
+        },
+        "Priya International Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.747",
+            "Price (in rupees)": "7.50",
+            "Sector": "IT, Software"
+        },
+        "Progressive Finlease Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.947",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Proyuga Advanced Technologies Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "113.388",
+            "Price (in rupees)": "25.00",
+            "Sector": "Artificial Intelligence"
+        },
+        "Prudential Sugar Corporation Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "38.702",
+            "Price (in rupees)": "12.00",
+            "Sector": "Food & Drinks"
+        },
+        "Purbanchal Prestressed Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "34.573",
+            "Price (in rupees)": "8.65",
+            "Sector": "Financial Service"
+        },
+        "Purbasha Resources Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "5.702",
+            "Price (in rupees)": "19.00",
+            "Sector": "Investment & Holding"
+        },
+        "Purity Flexpack Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.147",
+            "Price (in rupees)": "20.00",
+            "Sector": "Packaging"
+        },
+        "Pushkar Banijya Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.984",
+            "Price (in rupees)": "10.01",
+            "Sector": "NBFC"
+        },
+        "Pushpanjali Realms and Infratech Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.100",
+            "Price (in rupees)": "0.10",
+            "Sector": "Real Estate"
+        },
+        "Quality Synthetic Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.500",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "RCS Financial Technology Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.065",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "RK Manufacturing Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "9.586",
+            "Price (in rupees)": "10.00",
+            "Sector": "Metal"
+        },
+        "RR Corporate Securities Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.200",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Rainbow Papers Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "21.243",
+            "Price (in rupees)": "2.00",
+            "Sector": "Paper"
+        },
+        "Rajlaxmi Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "31.000",
+            "Price (in rupees)": "1.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Rajparis Civil Constructions Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "23.348",
+            "Price (in rupees)": "57.25",
+            "Sector": "Real Estate"
+        },
+        "Rakan Steels Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.130",
+            "Price (in rupees)": "0.04",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Rampur Fertilizers Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.913",
+            "Price (in rupees)": "11.95",
+            "Sector": "Fertilisers"
+        },
+        "Ranicherra Tea Company  Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "21.320",
+            "Price (in rupees)": "82.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Ranjan Polysters Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "8.478",
+            "Price (in rupees)": "28.25",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Rasoi Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "304.290",
+            "Price (in rupees)": "31,500.00",
+            "Sector": "FMCG"
+        },
+        "Rathi Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "12.920",
+            "Price (in rupees)": "20.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Rathi Steel and Power Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.313",
+            "Price (in rupees)": "0.10",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Regal Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.165",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Regency World Consulting Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.050",
+            "Price (in rupees)": "0.50",
+            "Sector": "Media"
+        },
+        "Reliance Broadcast Network Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "12.795",
+            "Price (in rupees)": "0.10",
+            "Sector": "Media"
+        },
+        "Reliance General Insurance Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "8,437.084",
+            "Price (in rupees)": "333.00",
+            "Sector": "General Insurance"
+        },
+        "Reliance Infotek Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.900",
+            "Price (in rupees)": "1.00",
+            "Sector": "Trading"
+        },
+        "Reliance Mediaworks Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "19.321",
+            "Price (in rupees)": "1.00",
+            "Sector": "Media"
+        },
+        "Reliance Polycrete Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.711",
+            "Price (in rupees)": "10.00",
+            "Sector": "Mining & Minerals"
+        },
+        "Reliance Retail Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,188,386.002",
+            "Price (in rupees)": "1,275.00",
+            "Sector": "Retail"
+        },
+        "Resins and Plastics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "173.150",
+            "Price (in rupees)": "415.00",
+            "Sector": "Other"
+        },
+        "Resurgere Mines and Minerals Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.199",
+            "Price (in rupees)": "0.01",
+            "Sector": "Mining & Minerals"
+        },
+        "Rich N Rich Finance And Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.050",
+            "Price (in rupees)": "10.10",
+            "Sector": "Financial Service"
+        },
+        "Ring Plus Aqua Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "314.145",
+            "Price (in rupees)": "405.00",
+            "Sector": "Auto Components"
+        },
+        "Rishabh Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Ritman Infra Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.193",
+            "Price (in rupees)": "10.00",
+            "Sector": "Real Estate"
+        },
+        "Ritz Mercantile Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.601",
+            "Price (in rupees)": "15.25",
+            "Sector": "Financial Service"
+        },
+        "River Front Hotels Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.098",
+            "Price (in rupees)": "10.30",
+            "Sector": "Hotel or Catering"
+        },
+        "Roadways India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.520",
+            "Price (in rupees)": "10.00",
+            "Sector": "Transport"
+        },
+        "Robert Resources Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.962",
+            "Price (in rupees)": "10.70",
+            "Sector": "Trading"
+        },
+        "Roop Ultrasonix Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "104.498",
+            "Price (in rupees)": "150.00",
+            "Sector": "Other"
+        },
+        "Roots Multiclean Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "504.000",
+            "Price (in rupees)": "2,520.00",
+            "Sector": "Other"
+        },
+        "Rushabh Precision Bearings Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "9.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Rydak Syndicate Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "38.925",
+            "Price (in rupees)": "400.00",
+            "Sector": "Agriculture & Agro Products"
+        },
+        "S Kumars Nationwide Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.297",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "SAB Electronic Devices Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.160",
+            "Price (in rupees)": "10.00",
+            "Sector": "Electronics"
+        },
+        "SBI Funds Management Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "52,837.490",
+            "Price (in rupees)": "1,050.00",
+            "Sector": "Financial Service"
+        },
+        "SBI General Insurance Company Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "12,387.996",
+            "Price (in rupees)": "569.00",
+            "Sector": "General Insurance"
+        },
+        "SBI Home Finance Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "43.650",
+            "Price (in rupees)": "29.10",
+            "Sector": "NBFC"
+        },
+        "SEMAYA LIMITED": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.248",
+            "Price (in rupees)": "9.99",
+            "Sector": "Financial Service"
+        },
+        "SM Dyechem Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.148",
+            "Price (in rupees)": "0.10",
+            "Sector": "Dyes & Pigment"
+        },
+        "SMC Global Securities Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "995.583",
+            "Price (in rupees)": "88.00",
+            "Sector": "Financial Service"
+        },
+        "SNS Diagnostics Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.350",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "SNS Laboratories Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.863",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "SNS Properties And Leasing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Real Estate"
+        },
+        "SPML India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "80.625",
+            "Price (in rupees)": "20.45",
+            "Sector": "Financial Service"
+        },
+        "SRS Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.279",
+            "Price (in rupees)": "0.01",
+            "Sector": "Miscellaneous"
+        },
+        "SSF Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.318",
+            "Price (in rupees)": "15.50",
+            "Sector": "Retail"
+        },
+        "STI India Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.087",
+            "Price (in rupees)": "0.03",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "SVOGL Oil Gas and Energy Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "46.361",
+            "Price (in rupees)": "10.00",
+            "Sector": "Energy, Oil & Gas"
+        },
+        "Saanvi Advisors Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.011",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Salaya Bulk Terminals Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "84.417",
+            "Price (in rupees)": "20.20",
+            "Sector": "Shipping"
+        },
+        "Samtel Color Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.085",
+            "Price (in rupees)": "0.01",
+            "Sector": "Electricals"
+        },
+        "Samyak Corporation Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.034",
+            "Price (in rupees)": "9.95",
+            "Sector": "Financial Service"
+        },
+        "San Engineering And Locomotive Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "244.750",
+            "Price (in rupees)": "550.00",
+            "Sector": "Auto Components"
+        },
+        "Sangameshwar Coffee Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "11.991",
+            "Price (in rupees)": "95.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Sangrahalaya Timber and Crafts Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "18.509",
+            "Price (in rupees)": "9.25",
+            "Sector": "Financial Service"
+        },
+        "Sarnimal Investment Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.498",
+            "Price (in rupees)": "1.00",
+            "Sector": "Investment & Holding"
+        },
+        "Sasvitha Home Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "67.223",
+            "Price (in rupees)": "25.00",
+            "Sector": "Financial Service"
+        },
+        "Satya Shyam Trading Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "7.221",
+            "Price (in rupees)": "22.65",
+            "Sector": "Trading"
+        },
+        "Schneider Electric President Systems Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "257.040",
+            "Price (in rupees)": "425.00",
+            "Sector": "Electric Equipment"
+        },
+        "Servalakshmi Paper Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.043",
+            "Price (in rupees)": "0.01",
+            "Sector": "Paper"
+        },
+        "Shah Construction Company Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "9.675",
+            "Price (in rupees)": "600.00",
+            "Sector": "Construction"
+        },
+        "Shakumbhri Pulp and Paper Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "9.098",
+            "Price (in rupees)": "23.60",
+            "Sector": "Paper"
+        },
+        "Sharp Commercial Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.590",
+            "Price (in rupees)": "10.00",
+            "Sector": "Retail"
+        },
+        "Shilpi Cable Technologies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.553",
+            "Price (in rupees)": "0.05",
+            "Sector": "Cables"
+        },
+        "Shinewell Leasing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Real Estate"
+        },
+        "Shirpur Gold Refinery Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.146",
+            "Price (in rupees)": "0.05",
+            "Sector": "Mining & Minerals"
+        },
+        "Shivalik Agro Poly Products Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "85.942",
+            "Price (in rupees)": "970.00",
+            "Sector": "Plastic"
+        },
+        "Shradha Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.201",
+            "Price (in rupees)": "49.85",
+            "Sector": "IT, Software"
+        },
+        "Shree Krishna Jute Products Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.001",
+            "Price (in rupees)": "0.05",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Shree Vijay Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.743",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Shreyans Financial And Capital Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Shri Gurudev En Trade Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.076",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Shriram General Insurance Co Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "16,327.253",
+            "Price (in rupees)": "630.00",
+            "Sector": "General Insurance"
+        },
+        "Shriram Life Insurance Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "4,681.688",
+            "Price (in rupees)": "261.00",
+            "Sector": "Life Insurance"
+        },
+        "Sicom Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3.038",
+            "Price (in rupees)": "0.50",
+            "Sector": "NBFC"
+        },
+        "Sidh Management Corporate Services Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.870",
+            "Price (in rupees)": "23.00",
+            "Sector": "Financial Service"
+        },
+        "Sigachi Laboratories Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "26.337",
+            "Price (in rupees)": "39.00",
+            "Sector": "Pharma"
+        },
+        "Signify Innovations India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "7,908.621",
+            "Price (in rupees)": "1,375.00",
+            "Sector": "Consumer Durable"
+        },
+        "Silicon Valley Infotech Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "12.968",
+            "Price (in rupees)": "1.00",
+            "Sector": "IT, Software"
+        },
+        "Silverline Technologies Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "12.597",
+            "Price (in rupees)": "2.10",
+            "Sector": "IT, Software"
+        },
+        "Simplex Projects Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "1.512",
+            "Price (in rupees)": "1.20",
+            "Sector": "Engineering"
+        },
+        "Sistema Smart Technologies Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "26.335",
+            "Price (in rupees)": "0.11",
+            "Sector": "Telecomm"
+        },
+        "Sita Shree Food Products Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.028",
+            "Price (in rupees)": "0.01",
+            "Sector": "Food & Beverages"
+        },
+        "Sital Leasing And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "612.574",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Skybox Industries Limited formerly smart cap Service ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.501",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Skyline India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.812",
+            "Price (in rupees)": "8.95",
+            "Sector": "Trading"
+        },
+        "Skyweb Infotech Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "IT, Software"
+        },
+        "Slesha Commercial Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.049",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Smile Micro Finance Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "90.166",
+            "Price (in rupees)": "52.00",
+            "Sector": "Financial Service"
+        },
+        "Soma Papers And Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.001",
+            "Price (in rupees)": "0.01",
+            "Sector": "Investment & Holding"
+        },
+        "Sophia Exports Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.854",
+            "Price (in rupees)": "10.00",
+            "Sector": "Miscellaneous"
+        },
+        "Spangle Marketing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.202",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Sree Maruthi Marine Industries Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.082",
+            "Price (in rupees)": "1.05",
+            "Sector": "FMCG"
+        },
+        "Sree Satyanarayana Spinning Mills Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "73.507",
+            "Price (in rupees)": "700.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Sri Chakra Cement Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "42.390",
+            "Price (in rupees)": "47.10",
+            "Sector": "Cement"
+        },
+        "Sri Chamundeswari Sugars Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "48.909",
+            "Price (in rupees)": "20.00",
+            "Sector": "Sugar"
+        },
+        "Sri Kannapiran Mills Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "51.489",
+            "Price (in rupees)": "95.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Sri Narayan Raj Kumar Merchants Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.979",
+            "Price (in rupees)": "10.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Sri Sarvaraya Sugars Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "585.232",
+            "Price (in rupees)": "1,920.00",
+            "Sector": "Sugar"
+        },
+        "Sri Vishnu Shankar Mill Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "60.750",
+            "Price (in rupees)": "405.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Stanes Amalgamated Estates Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "8.306",
+            "Price (in rupees)": "75.00",
+            "Sector": "Other"
+        },
+        "Starlite Global Enterprises India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "15.434",
+            "Price (in rupees)": "38.85",
+            "Sector": "Real Estate"
+        },
+        "Steadfast Corporation Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.632",
+            "Price (in rupees)": "14.91",
+            "Sector": "Miscellaneous"
+        },
+        "Sterling Biotech Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "43.304",
+            "Price (in rupees)": "1.00",
+            "Sector": "Chemical"
+        },
+        "Sterling Estates and Properties Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "14.471",
+            "Price (in rupees)": "43.85",
+            "Sector": "Real Estate"
+        },
+        "Sterlite Power Transmission Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,701.390",
+            "Price (in rupees)": "605.00",
+            "Sector": "Power & Electricity"
+        },
+        "Studds Accessories Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,672.520",
+            "Price (in rupees)": "850.00",
+            "Sector": "Safety Accessories"
+        },
+        "Sun Finlease Gujarat Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "4.929",
+            "Price (in rupees)": "16.25",
+            "Sector": "Financial Service"
+        },
+        "Sunayana Investment Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "75.623",
+            "Price (in rupees)": "34.00",
+            "Sector": "Investment & Holding"
+        },
+        "Sunita Bonds and Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.695",
+            "Price (in rupees)": "10.00",
+            "Sector": "Investment & Holding"
+        },
+        "Supra Industrial Resources Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.000",
+            "Price (in rupees)": "0.01",
+            "Sector": "Financial Service"
+        },
+        "Supraneet Finance and Consultants Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.877",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Supreme Commercial Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.536",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Supreme Tex Mart Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.068",
+            "Price (in rupees)": "0.01",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Surana Corporation Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.049",
+            "Price (in rupees)": "0.02",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Surana Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.134",
+            "Price (in rupees)": "0.03",
+            "Sector": "Trading"
+        },
+        "Svarnim Trade Udyog Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "28.449",
+            "Price (in rupees)": "117.00",
+            "Sector": "Trading"
+        },
+        "Swati Projects Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "16.170",
+            "Price (in rupees)": "16.01",
+            "Sector": "Financial Service"
+        },
+        "T Stanes and Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "182.196",
+            "Price (in rupees)": "770.00",
+            "Sector": "Hotel or Catering"
+        },
+        "TECIL Chemicals And Hydro Power Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.379",
+            "Price (in rupees)": "0.20",
+            "Sector": "Chemical"
+        },
+        "TRL Krosaki Refractories Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,508.000",
+            "Price (in rupees)": "1,200.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Talwalkars Better Value Fitness Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.062",
+            "Price (in rupees)": "0.02",
+            "Sector": "Healthcare"
+        },
+        "Talwalkars Healthclubs Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.155",
+            "Price (in rupees)": "0.05",
+            "Sector": "Healthcare"
+        },
+        "Taparia Tools Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1,992.970",
+            "Price (in rupees)": "1,313.00",
+            "Sector": "Other"
+        },
+        "Tarangini Investments Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.106",
+            "Price (in rupees)": "1.00",
+            "Sector": "Investment & Holding"
+        },
+        "Tarini Enterprises Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "66.988",
+            "Price (in rupees)": "198.60",
+            "Sector": "Retail"
+        },
+        "Tata Capital Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "153,085.153",
+            "Price (in rupees)": "430.00",
+            "Sector": "Investment & Holding"
+        },
+        "Tata Technologies Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "34,481.825",
+            "Price (in rupees)": "850.00",
+            "Sector": "IT, Software"
+        },
+        "Technical Associates Infrapower Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.180",
+            "Price (in rupees)": "5.30",
+            "Sector": "Engineering"
+        },
+        "Technofab Engineering Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "1.101",
+            "Price (in rupees)": "1.05",
+            "Sector": "Engineering"
+        },
+        "Teesta Valley Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.945",
+            "Price (in rupees)": "63.00",
+            "Sector": "Agriculture & Agro Products"
+        },
+        "Temple Leasing And Finance Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.002",
+            "Price (in rupees)": "0.10",
+            "Sector": "Financial Service"
+        },
+        "Thanjavur Spinning Mill Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.347",
+            "Price (in rupees)": "20.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "The Arya Vaidya Pharmacy coimbatore Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.823",
+            "Price (in rupees)": "1.00",
+            "Sector": "Pharma"
+        },
+        "The Birla Cotton Spinning and Weaving Mills Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "23.456",
+            "Price (in rupees)": "205.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "The Bormah Jan Tea Company 1936 Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "10.000",
+            "Price (in rupees)": "800.00",
+            "Sector": "Agriculture & Agro Products"
+        },
+        "The Calcutta Stock Exchange Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "33.619",
+            "Price (in rupees)": "550.00",
+            "Sector": "Financial Service"
+        },
+        "The Canara Sales Corporation Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.037",
+            "Price (in rupees)": "1.10",
+            "Sector": "Miscellaneous"
+        },
+        "The Canara Workshops Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "7.350",
+            "Price (in rupees)": "50.00",
+            "Sector": "Auto Components"
+        },
+        "The Delhi Flour Mills Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "131.480",
+            "Price (in rupees)": "720.13",
+            "Sector": "Food & Beverages"
+        },
+        "The Delhi Safe Deposit Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "20.892",
+            "Price (in rupees)": "40.00",
+            "Sector": "Other"
+        },
+        "The Hindustan Times Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2,996.092",
+            "Price (in rupees)": "730.00",
+            "Sector": "Media"
+        },
+        "The Hooghly Mills Company Ltd": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "119.070",
+            "Price (in rupees)": "150.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "The Indian Steel And Wire Products Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "149.797",
+            "Price (in rupees)": "250.00",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "The Kohinoor Tea Co Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.129",
+            "Price (in rupees)": "110.01",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Methoni Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "14.710",
+            "Price (in rupees)": "162.00",
+            "Sector": "Hotel or Catering"
+        },
+        "The Mysore Lamp Work Ltd": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "118.102",
+            "Price (in rupees)": "100.00",
+            "Sector": "Other"
+        },
+        "The Mysore Paper Mills Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "107.004",
+            "Price (in rupees)": "9.00",
+            "Sector": "Paper"
+        },
+        "The Nelliampathy Tea and Produce Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "18.102",
+            "Price (in rupees)": "370.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Patna Electric Supply Co Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.005",
+            "Price (in rupees)": "0.10",
+            "Sector": "Electric Equipment"
+        },
+        "The Puthutotam Estates 1943 Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "8.085",
+            "Price (in rupees)": "770.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Ramaraju Surgical Cotton Mills Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "124.317",
+            "Price (in rupees)": "315.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "The Scottish Assam India Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "35.680",
+            "Price (in rupees)": "446.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Southern Gas Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1.015",
+            "Price (in rupees)": "451.00",
+            "Sector": "GAS"
+        },
+        "The Teloijan Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "2.870",
+            "Price (in rupees)": "160.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Travancore Rubber and Tea Company": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "47.150",
+            "Price (in rupees)": "1,150.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "The Tropical Plantations Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "0.200",
+            "Price (in rupees)": "10.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Todays Writing Instruments Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.064",
+            "Price (in rupees)": "0.05",
+            "Sector": "FMCG"
+        },
+        "Tongani Tea Company Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,857.750",
+            "Price (in rupees)": "1,000.00",
+            "Sector": "Tea, Coffee & Plantation"
+        },
+        "Trans Globe Textiles Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "40.709",
+            "Price (in rupees)": "180.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Transformers And Electricals Kerala Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "537.092",
+            "Price (in rupees)": "125.00",
+            "Sector": "Electric Equipment"
+        },
+        "Trident India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "549.939",
+            "Price (in rupees)": "1.10",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Tulsi Extrusions Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.055",
+            "Price (in rupees)": "0.02",
+            "Sector": "Plastic"
+        },
+        "Tulya Alloy Castings Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "4.456",
+            "Price (in rupees)": "10.01",
+            "Sector": "Metal, Steel & Iron"
+        },
+        "Tunwal E Motors Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "13.374",
+            "Price (in rupees)": "130.00",
+            "Sector": "Other"
+        },
+        "Turanth Suraksha Insurance Web Aggregator Private Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "308.147",
+            "Price (in rupees)": "700.00",
+            "Sector": "Financial Service"
+        },
+        "Twenty First  Century Securities Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.301",
+            "Price (in rupees)": "1.00",
+            "Sector": "Service"
+        },
+        "Twenty First Century India Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "6.907",
+            "Price (in rupees)": "1.00",
+            "Sector": "Investment & Holding"
+        },
+        "U P Asbestos Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "51.911",
+            "Price (in rupees)": "57.00",
+            "Sector": "Construction"
+        },
+        "U P Electricals Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "317.900",
+            "Price (in rupees)": "172.65",
+            "Sector": "Electricals"
+        },
+        "UP Twiga Fiberglass Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "222.343",
+            "Price (in rupees)": "280.00",
+            "Sector": "Other"
+        },
+        "USS Global Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "5.000",
+            "Price (in rupees)": "10.00",
+            "Sector": "Real Estate"
+        },
+        "Udaipur Cotton Mills Company Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "2.929",
+            "Price (in rupees)": "10.00",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Uddhav Properties Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.410",
+            "Price (in rupees)": "10.00",
+            "Sector": "Financial Service"
+        },
+        "Uniply Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "33.529",
+            "Price (in rupees)": "2.00",
+            "Sector": "Miscellaneous"
+        },
+        "Uniworth International Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.030",
+            "Price (in rupees)": "0.02",
+            "Sector": "Retail"
+        },
+        "Usher Agro Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.388",
+            "Price (in rupees)": "0.05",
+            "Sector": "Agriculture & Agro Products"
+        },
+        "Utkarsh Coreinvest Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "1,872.121",
+            "Price (in rupees)": "190.00",
+            "Sector": "Financial Service"
+        },
+        "Uttaranchal Leasing Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "1.414",
+            "Price (in rupees)": "10.10",
+            "Sector": "Financial Service"
+        },
+        "VHCL Industries Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.257",
+            "Price (in rupees)": "0.01",
+            "Sector": "Metal"
+        },
+        "Vadilal Chemicals Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "4.874",
+            "Price (in rupees)": "10.00",
+            "Sector": "Chemical"
+        },
+        "Vadilal Dairy International Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "3.194",
+            "Price (in rupees)": "10.00",
+            "Sector": "Dairy"
+        },
+        "Vajresh Consultants Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "126.072",
+            "Price (in rupees)": "110.00",
+            "Sector": "Other"
+        },
+        "Valecha Engineering Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "2.366",
+            "Price (in rupees)": "1.05",
+            "Sector": "Engineering"
+        },
+        "Value Industries Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.078",
+            "Price (in rupees)": "0.02",
+            "Sector": "FMCG"
+        },
+        "Vam Holdings Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "65.646",
+            "Price (in rupees)": "1,800.00",
+            "Sector": "Investment & Holding"
+        },
+        "Vanaz Engineers Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "647.316",
+            "Price (in rupees)": "3,000.00",
+            "Sector": "Auto Ancillaries"
+        },
+        "Versuni India Home Solutions Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "3,393.517",
+            "Price (in rupees)": "590.00",
+            "Sector": "Consumer Durable"
+        },
+        "Verum Properties Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "258.127",
+            "Price (in rupees)": "391.25",
+            "Sector": "Real Estate"
+        },
+        "Vijay Shanthi Builders Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "13.094",
+            "Price (in rupees)": "5.00",
+            "Sector": "Real Estate"
+        },
+        "Vikash Metal And Power Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.071",
+            "Price (in rupees)": "0.01",
+            "Sector": "Metal"
+        },
+        "Vikram Solar Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "9,059.050",
+            "Price (in rupees)": "350.00",
+            "Sector": "Renewable Energy"
+        },
+        "Vimal Oil And Foods Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.075",
+            "Price (in rupees)": "0.05",
+            "Sector": "Food & Beverages"
+        },
+        "Virat Leasing Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "13.110",
+            "Price (in rupees)": "10.10",
+            "Sector": "Investment & Holding"
+        },
+        "Visisth Chay Vyapar Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "10.599",
+            "Price (in rupees)": "5.30",
+            "Sector": "Financial Service"
+        },
+        "Visu International Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.038",
+            "Price (in rupees)": "0.01",
+            "Sector": "IT, Software"
+        },
+        "Waaree Energies Limited": {
+            "Category": "Pre IPO",
+            "Market Cap (in crores)": "17,644.040",
+            "Price (in rupees)": "725.00",
+            "Sector": "Renewable Energy"
+        },
+        "Webfil Limited": {
+            "Category": "Unlisted",
+            "Market Cap (in crores)": "78.499",
+            "Price (in rupees)": "92.00",
+            "Sector": "Digital Equipment"
+        },
+        "Winmore Leasing And Holdings Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "0.919",
+            "Price (in rupees)": "9.20",
+            "Sector": "Investment & Holding"
+        },
+        "Winsome Yarns Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.141",
+            "Price (in rupees)": "0.02",
+            "Sector": "Textiles, Yarn, Cotton & Spinning"
+        },
+        "Wintac Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "207.502",
+            "Price (in rupees)": "207.00",
+            "Sector": "Pharma"
+        },
+        "XL Energy Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.114",
+            "Price (in rupees)": "0.05",
+            "Sector": "Renewable Energy"
+        },
+        "Xerox India Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "332.027",
+            "Price (in rupees)": "74.10",
+            "Sector": "Office Automation"
+        },
+        "ZR Infra Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "7.128",
+            "Price (in rupees)": "6.15",
+            "Sector": "Real Estate"
+        },
+        "Zel Jewellers Limited": {
+            "Category": "Illiquid/unquoted",
+            "Market Cap (in crores)": "3.550",
+            "Price (in rupees)": "10.00",
+            "Sector": "FMCG"
+        },
+        "Zenith Infotech Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.013",
+            "Price (in rupees)": "0.01",
+            "Sector": "IT, Software"
+        },
+        "Zicom Electronic Security Systems Ltd": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.124",
+            "Price (in rupees)": "0.03",
+            "Sector": "Electronics"
+        },
+        "Zigma Software Limited": {
+            "Category": "Delisted",
+            "Market Cap (in crores)": "0.042",
+            "Price (in rupees)": "0.01",
+            "Sector": "IT, Software"
+        },
+        "Zylog Systems Limited": {
+            "Category": "Suspended",
+            "Market Cap (in crores)": "0.059",
+            "Price (in rupees)": "0.01",
+            "Sector": "IT, Software"
+        }
+    }
+}
