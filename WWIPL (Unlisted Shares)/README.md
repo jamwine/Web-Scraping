@@ -1,4 +1,4 @@
-# WikiCompanies
+# WWIPL (Unlisted Shares)
 
 This project aims to scrape unlisted companies in India from URL: `https://wwipl.com/`.
 

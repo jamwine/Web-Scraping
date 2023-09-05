@@ -1,5 +1,4 @@
 import scrapy
-import json
 
 import python_utils.scraping_utils as su
 import python_utils.generic_utils as gu
