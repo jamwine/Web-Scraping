@@ -1,0 +1,270 @@
+{
+    "rf_UnlistedShares": {
+        "Atlas Copco (India) Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Industrials - Machinery",
+            "Lot Size": "35",
+            "Price": "5,780",
+            "Source": "rf"
+        },
+        "Axles India Ltd": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Auto Anciliary",
+            "Lot Size": "1,170",
+            "Price": "190",
+            "Source": "rf"
+        },
+        "B9 Beverages Private Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Brewery",
+            "Lot Size": "230",
+            "Price": "805",
+            "Source": "rf"
+        },
+        "Capgemini Technology Services India Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "IT & KPO",
+            "Lot Size": "20",
+            "Price": "10,900",
+            "Source": "rf"
+        },
+        "Capital Small Finance Bank Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Small Finance Bank",
+            "Lot Size": "560",
+            "Price": "300",
+            "Source": "rf"
+        },
+        "Care Health Insurance Limited (Erstwhile Religare Health Insurance Co. Ltd)": {
+            "ETL Date": "2023-09-10",
+            "Industry": "BFSI - Insurance",
+            "Lot Size": "1,390",
+            "Price": "173",
+            "Source": "rf"
+        },
+        "Carrier Airconditioning & Refrigeration Ltd.": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Air Conditioner",
+            "Lot Size": "765",
+            "Price": "287",
+            "Source": "rf"
+        },
+        "Chennai Super Kings Cricket Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "IPL Team",
+            "Lot Size": "1,220",
+            "Price": "165",
+            "Source": "rf"
+        },
+        "Cochin International Airport Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Airport",
+            "Lot Size": "1,055",
+            "Price": "186",
+            "Source": "rf"
+        },
+        "Digvijay Finlease Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Finance",
+            "Lot Size": "85",
+            "Price": "2,400",
+            "Source": "rf"
+        },
+        "Fino Paytech Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Payment Bank",
+            "Lot Size": "1,325",
+            "Price": "155",
+            "Source": "rf"
+        },
+        "Frick India Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Refrigertor & Air Conditioner",
+            "Lot Size": "40",
+            "Price": "4,800",
+            "Source": "rf"
+        },
+        "HDB Financial Services Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "NBFC",
+            "Lot Size": "325",
+            "Price": "690",
+            "Source": "rf"
+        },
+        "HDFC Securities Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Stockbroking & Financial Services Intermediary",
+            "Lot Size": "15",
+            "Price": "12,100",
+            "Source": "rf"
+        },
+        "Hero Fincorp Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "NBFC â Consumer Finance",
+            "Lot Size": "275",
+            "Price": "1188",
+            "Source": "rf"
+        },
+        "Hicks Thermometers (I) Ltd": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Digital Thermometer",
+            "Lot Size": "80",
+            "Price": "2,450",
+            "Source": "rf"
+        },
+        "Indofil Industries Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Agro Chemical",
+            "Lot Size": "285",
+            "Price": "675",
+            "Source": "rf"
+        },
+        "Kannur International Airport Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Airport",
+            "Lot Size": "1,800",
+            "Price": "106",
+            "Source": "rf"
+        },
+        "Kurlon Enterprise Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Mattress",
+            "Lot Size": "305",
+            "Price": "653",
+            "Source": "rf"
+        },
+        "Kurlon Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Mattress",
+            "Lot Size": "340",
+            "Price": "585",
+            "Source": "rf"
+        },
+        "Merino Industries Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Laminates",
+            "Lot Size": "70",
+            "Price": "2,936",
+            "Source": "rf"
+        },
+        "Metropolitan Stock Exchange Of India Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Exchange",
+            "Lot Size": "1,80,180",
+            "Price": "0.93",
+            "Source": "rf"
+        },
+        "Mil Industries Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Abrasive Rubber Inds",
+            "Lot Size": "1,250",
+            "Price": "160",
+            "Source": "rf"
+        },
+        "Mohan Meakin Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Manufacturing alcoholic beverages, food processing",
+            "Lot Size": "165",
+            "Price": "1,650",
+            "Source": "rf"
+        },
+        "Mohindra Fasteners Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Auto Anciliary",
+            "Lot Size": "1,110",
+            "Price": "180",
+            "Source": "rf"
+        },
+        "Motilal Oswal Home Finance Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Housing Finance",
+            "Lot Size": "16,805",
+            "Price": "9.8",
+            "Source": "rf"
+        },
+        "NCL Buildtek LimitedÂ": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Manufacturing - Building Material",
+            "Lot Size": "1,040",
+            "Price": "238",
+            "Source": "rf"
+        },
+        "NCL Holdings (A&S) LimitedÂ": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Investment Company",
+            "Lot Size": "4,000",
+            "Price": "72",
+            "Source": "rf"
+        },
+        "National Stock Exchange Of India Ltd": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Exchange",
+            "Lot Size": "1,000",
+            "Price": "3,020",
+            "Source": "rf"
+        },
+        "One 97 Communications Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Payment Bank",
+            "Lot Size": "0",
+            "Price": "0",
+            "Source": "rf"
+        },
+        "Philips India Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Lighting & Electrical",
+            "Lot Size": "205",
+            "Price": "965",
+            "Source": "rf"
+        },
+        "Reliance Retail Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Retail",
+            "Lot Size": "65",
+            "Price": "NA",
+            "Source": "rf"
+        },
+        "Sterlite Power Transmission Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Power",
+            "Lot Size": "220",
+            "Price": "630",
+            "Source": "rf"
+        },
+        "Studds Accessories Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Manufacturing: Rubber and plastic products",
+            "Lot Size": "165",
+            "Price": "910",
+            "Source": "rf"
+        },
+        "Tamilnad Mercantile Bank Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Banking",
+            "Lot Size": "370",
+            "Price": "542",
+            "Source": "rf"
+        },
+        "Tata Technologies Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "IT",
+            "Lot Size": "40",
+            "Price": "930",
+            "Source": "rf"
+        },
+        "Utkarsh Coreinvest Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Small Finance Bank",
+            "Lot Size": "1,025",
+            "Price": "195",
+            "Source": "rf"
+        },
+        "Xerox India Limited": {
+            "ETL Date": "2023-09-10",
+            "Industry": "Machinery",
+            "Lot Size": "975",
+            "Price": "205",
+            "Source": "rf"
+        }
+    }
+}
