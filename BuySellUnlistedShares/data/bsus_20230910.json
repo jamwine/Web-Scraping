@@ -1,0 +1,679 @@
+{
+    "bsus_UnlistedShares": {
+        "": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Sector": "",
+            "Share Price": "Company Closed/ Inactive",
+            "Source": "bsus"
+        },
+        "A B Corp (Amitabh Bachchan Corp) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE130H01012",
+            "Sector": "Entertainment",
+            "Share Price": "₹ 11",
+            "Source": "bsus"
+        },
+        "A V Thomas & Company (AVT) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE944K01010",
+            "Sector": "Plantation",
+            "Share Price": "₹ 19500",
+            "Source": "bsus"
+        },
+        "ACS Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE07ZN01014",
+            "Sector": "IT",
+            "Share Price": "₹ 44",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "AGS Transact Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE583L07011",
+            "Sector": "Digital payment processing",
+            "Share Price": "now listed on NSE, BSE",
+            "Source": "bsus"
+        },
+        "API Holdings (PharmEasy)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0DJ201029",
+            "Sector": "e-pharmacy",
+            "Share Price": "₹ 12",
+            "Source": "bsus",
+            "Special Comment": "IPO soon. Best startup fintech"
+        },
+        "Adtech Systems Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE257C01014",
+            "Sector": "Security systems",
+            "Share Price": "₹ 32",
+            "Source": "bsus"
+        },
+        "Anugraha Valve Castings Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE629Z01015",
+            "Sector": "Castings",
+            "Share Price": "₹ 300",
+            "Source": "bsus",
+            "Special Comment": "Strong fundamentals"
+        },
+        "Arohan Financial Services Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE808K01017",
+            "Sector": "NBFC MFI",
+            "Share Price": "₹ 140",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "Axles India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE701C01011",
+            "Sector": "Auto ancillary",
+            "Share Price": "₹ 185",
+            "Source": "bsus"
+        },
+        "B9 Beverages (Bira 91) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE833U01014",
+            "Sector": "Liquor",
+            "Share Price": "₹ 650",
+            "Source": "bsus",
+            "Special Comment": "Strong brand value"
+        },
+        "BLSX Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0MDG01016",
+            "Sector": "Heavy engineering",
+            "Share Price": "₹ 22",
+            "Source": "bsus",
+            "Special Comment": ""
+        },
+        "BVG India (Bharat Vikas Group) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE257H01013",
+            "Sector": "Integrated Serv Co",
+            "Share Price": "₹ 1,000",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "Barbeque Nation Hospitality Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE382M01027",
+            "Sector": "Restaurants. Rakesh Jhunjhunwala holds stake.",
+            "Share Price": "Now listed on BSE, NSE after IPO",
+            "Source": "bsus"
+        },
+        "Bharat Hotels Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE466A01015",
+            "Sector": "Hotels",
+            "Share Price": "₹ 150",
+            "Source": "bsus",
+            "Special Comment": "Operates Lalit chain of hotels + IPO soon"
+        },
+        "Bharat Nidhi (Bharat Bank) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE286F01016",
+            "Sector": "NBFC - holding co",
+            "Share Price": "₹ 11,000",
+            "Source": "bsus",
+            "Special Comment": "Holding stake in Times Group"
+        },
+        "Bikaji Foods International Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE00E101023",
+            "Sector": "FMCG - ethnic snacks",
+            "Share Price": "Now Listed on BSE, NSE",
+            "Source": "bsus"
+        },
+        "Bombay Gas Company Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE04OE01014",
+            "Sector": "Oxygen gas",
+            "Share Price": "₹ best",
+            "Source": "bsus"
+        },
+        "Capgemini Technologies (iGate Technologies) (Patni Computers) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE177B01032",
+            "Sector": "Software",
+            "Share Price": "₹ 12000 - 12100",
+            "Source": "bsus"
+        },
+        "Capital Small Finance Bank Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE646H01017",
+            "Sector": "Small Fin Bank",
+            "Share Price": "₹ 425",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "Care Health Insurance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE119J01011",
+            "Sector": "Health Insurance",
+            "Share Price": "₹ 180",
+            "Source": "bsus",
+            "Special Comment": "Health insurance company"
+        },
+        "Carrier AirCon Refrigeration Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE040I01011",
+            "Sector": "Air-conditioning",
+            "Share Price": "₹ 300",
+            "Source": "bsus",
+            "Special Comment": "Debt free, high dividend yield"
+        },
+        "Chennai Super Kings (CSK) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE852S01026",
+            "Sector": "Cricket team",
+            "Share Price": "₹ 175",
+            "Source": "bsus",
+            "Special Comment": "IPL Franchise, brand value"
+        },
+        "Cochin International Airport Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE02KH01019",
+            "Sector": "Airport",
+            "Share Price": "₹ 195",
+            "Source": "bsus",
+            "Special Comment": "PPP profitable infra company"
+        },
+        "Delhivery Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE148O01028",
+            "Sector": "Logistics",
+            "Share Price": "Now Listed on BSE, NSE",
+            "Source": "bsus"
+        },
+        "Desi Tea Time Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Sector": "Foods & Bev",
+            "Share Price": "₹ 48 - 50",
+            "Source": "bsus",
+            "Special Comment": ""
+        },
+        "ESDS Software Solution Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0DRI01011",
+            "Sector": "Cloud solutions",
+            "Share Price": "₹ 235",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "ESL Steel Unlisted  Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE481K01021",
+            "Sector": "Steel",
+            "Share Price": "₹ 31",
+            "Source": "bsus",
+            "Special Comment": "Vedanta group. Strong financials"
+        },
+        "Elcid Investments Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE927X01018",
+            "Sector": "Holding Co",
+            "Share Price": "₹ 150000",
+            "Source": "bsus"
+        },
+        "Essar Steel Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE127A01021",
+            "Sector": "Steel",
+            "Share Price": "Not tradeable",
+            "Source": "bsus"
+        },
+        "FINO PayTech Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE511I01011",
+            "Sector": "Payments bank",
+            "Share Price": "₹ 150",
+            "Source": "bsus",
+            "Special Comment": "Financial inclusion boost"
+        },
+        "Flipkart Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE075T01014",
+            "Sector": "e-Commerce",
+            "Share Price": "coming soon",
+            "Source": "bsus"
+        },
+        "Frick India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE499C01012",
+            "Sector": "Ind Refrigeration",
+            "Share Price": "₹ 6750",
+            "Source": "bsus",
+            "Special Comment": "Undervalued stock, land bank"
+        },
+        "GKN Driveline India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE527A01014",
+            "Sector": "Auto ancillary",
+            "Share Price": "₹ 1200",
+            "Source": "bsus"
+        },
+        "Gandhar Oil Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE717W01049",
+            "Sector": "Oil Refinery",
+            "Share Price": "₹ 350",
+            "Source": "bsus",
+            "Special Comment": "Fundamentals strong, IPO soon"
+        },
+        "GlobeSecure Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE00WS01015",
+            "Sector": "IT solutions",
+            "Share Price": "Now Listed on NSE",
+            "Source": "bsus"
+        },
+        "HDB Financial Services Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE756I01012",
+            "Sector": "NBFC",
+            "Share Price": "₹ 675",
+            "Source": "bsus",
+            "Special Comment": "HDFC Bank subsidiary + IPO soon"
+        },
+        "HDFC Ergo General Insurance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE392I01016",
+            "Sector": "Insurance",
+            "Share Price": "Not Available",
+            "Source": "bsus"
+        },
+        "HDFC Securities Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE700G01014",
+            "Sector": "Brokerage",
+            "Share Price": "₹ 11500",
+            "Source": "bsus",
+            "Special Comment": "HDFC subsidiary + IPO soon"
+        },
+        "Hero FinCorp Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE957N01016",
+            "Sector": "NBFC",
+            "Share Price": "₹ 1100",
+            "Source": "bsus",
+            "Special Comment": "Hero group + IPO soon"
+        },
+        "Hexaware Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE093A01033",
+            "Sector": "Software",
+            "Share Price": "₹ 620",
+            "Source": "bsus",
+            "Special Comment": "Undervalued IT company"
+        },
+        "Hindustan  Times Unlisted  Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE501G01024",
+            "Sector": "Holding Co",
+            "Share Price": "₹ 800 - 815",
+            "Source": "bsus"
+        },
+        "Indian Comm Exch (ICEX) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE678L01012",
+            "Sector": "Exchange",
+            "Share Price": "₹ 4.50",
+            "Source": "bsus",
+            "Special Comment": "3rd commodity exchange after MCX, NCDEX"
+        },
+        "Indofil Industries Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE071I01016",
+            "Sector": "Agrochemical",
+            "Share Price": "₹ 700",
+            "Source": "bsus",
+            "Special Comment": "Strong government focus, agrochemical sector"
+        },
+        "Ixigo (Le Travenues Tech) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0HV901016",
+            "Sector": "Travel portal",
+            "Share Price": "₹ 95",
+            "Source": "bsus",
+            "Special Comment": "IPO soon. Travel startup"
+        },
+        "Kannur International Airport Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE02Y401013",
+            "Sector": "Airport",
+            "Share Price": "₹ 108",
+            "Source": "bsus",
+            "Special Comment": "PPP Infra Company"
+        },
+        "Kurlon Enterprises Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE387W01025",
+            "Sector": "Mattress maker",
+            "Share Price": "₹ 800",
+            "Source": "bsus",
+            "Special Comment": "Superbrand consumption boom. IPO soon"
+        },
+        "Kurlon Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE781F01032",
+            "Sector": "Holding co",
+            "Share Price": "₹ 575",
+            "Source": "bsus",
+            "Special Comment": "Kurlon brand premium"
+        },
+        "Lava International Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE745X01014",
+            "Sector": "Cons electronics",
+            "Share Price": "₹ 98",
+            "Source": "bsus",
+            "Special Comment": "PLI scheme. contract manufacturer"
+        },
+        "MKCL": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE03KR01016",
+            "Sector": "IT education",
+            "Share Price": "₹ 375",
+            "Source": "bsus",
+            "Special Comment": "cash rich + debt free e learning"
+        },
+        "Madbow Ventures (New Arrival)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0JKD01014",
+            "Sector": "Cons platform",
+            "Share Price": "₹ 50 - 55",
+            "Source": "bsus",
+            "Special Comment": "fashion and lifestyle brand"
+        },
+        "Market Simplified India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE931L01015",
+            "Sector": "Software",
+            "Share Price": "₹ 54",
+            "Source": "bsus",
+            "Special Comment": "NSE Holding 30% stake"
+        },
+        "Mayasheel Retail India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE03NO01017",
+            "Sector": "Retail",
+            "Share Price": "₹ 36",
+            "Source": "bsus",
+            "Special Comment": "Fast growing retail company"
+        },
+        "Merino Industries Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE662B01017",
+            "Sector": "Laminates",
+            "Share Price": "₹ 2900",
+            "Source": "bsus",
+            "Special Comment": "Highly profitable company"
+        },
+        "Metropolitan Stock(MSEI) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE312K01010",
+            "Sector": "Stock exchange",
+            "Share Price": "₹ 0.90",
+            "Source": "bsus",
+            "Special Comment": "3rd functional stock exchange after BSE, NSE"
+        },
+        "Mohan Meakin Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE136D01018",
+            "Sector": "Liquor",
+            "Share Price": "₹ 1,650",
+            "Source": "bsus",
+            "Special Comment": "Old monk maker, listing soon"
+        },
+        "Mohindra Fastners Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE705H01011",
+            "Sector": "Fastners",
+            "Share Price": "₹ 230 - 240",
+            "Source": "bsus"
+        },
+        "Motilal Home Finance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE658R01011",
+            "Sector": "Home Finance",
+            "Share Price": "₹ 9.65",
+            "Source": "bsus",
+            "Special Comment": "Motilal Oswal group housing finance co"
+        },
+        "NSDL Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Sector": "Depository",
+            "Share Price": "Not Available",
+            "Source": "bsus",
+            "Special Comment": "DRHP Filed. IPO soon"
+        },
+        "National Stock Exch(NSE) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE721I01024",
+            "Sector": "Stock Exchange",
+            "Share Price": "₹ 3,250",
+            "Source": "bsus",
+            "Special Comment": "World's leading stock exchange. IPO soon"
+        },
+        "Nayara Energy (Essar Oil) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE011A01019",
+            "Sector": "Refinery",
+            "Share Price": "₹ 225",
+            "Source": "bsus",
+            "Special Comment": "Russian oil major owned oil firm"
+        },
+        "Nazara Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE418L01021",
+            "Sector": "Gaming. Rakesh Jhunjhunwala holds stake.",
+            "Share Price": "Now listed on BSE, NSE after IPO",
+            "Source": "bsus"
+        },
+        "One MobiKwik Systems Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0HLU01028",
+            "Sector": "digital wallet",
+            "Share Price": "₹ 375",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        },
+        "One97 Communications (Paytm) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE982J01020",
+            "Sector": "e-commerce",
+            "Share Price": "now listed on NSE, BSE",
+            "Source": "bsus"
+        },
+        "Otis Elevator Company (India) Limited Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE099A01014",
+            "Sector": "Lift Manufacturer",
+            "Share Price": "₹ 3,750",
+            "Source": "bsus",
+            "Special Comment": "Very High Dividend Yield"
+        },
+        "Oyo Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE130H01012",
+            "Sector": "Hotel chain",
+            "Share Price": "₹ 68",
+            "Source": "bsus",
+            "Special Comment": "World's 3rd largest hotel chain. IPO soon"
+        },
+        "Paymate Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE08J501021",
+            "Sector": "Payment Sols",
+            "Share Price": "₹ 340",
+            "Source": "bsus",
+            "Special Comment": "Leading B2B payments services. IPO soon"
+        },
+        "Polymatech Electronics Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0OLN01011",
+            "Sector": "Semiconductor",
+            "Share Price": "₹ 465",
+            "Source": "bsus",
+            "Special Comment": "LED semiconductor chips"
+        },
+        "Reliance Retail Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE742O01010",
+            "Sector": "Retail",
+            "Share Price": "Best rates",
+            "Source": "bsus",
+            "Special Comment": "RIL group organised retail giant"
+        },
+        "SBI Home Finance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE627A01012",
+            "Sector": "Home Loans",
+            "Share Price": "₹ 53",
+            "Source": "bsus",
+            "Special Comment": "Home Loans"
+        },
+        "SMC Global Securities Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE103C01036",
+            "Sector": "Brokerage",
+            "Share Price": "Now listed on BSE, NSE",
+            "Source": "bsus"
+        },
+        "Silverline Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE368A01021",
+            "Sector": "IT - Software",
+            "Share Price": "₹ 9.50",
+            "Source": "bsus"
+        },
+        "Skinbook Laboratories Unlisted Shares (New)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0Q2O01017",
+            "Sector": "Cosmetics",
+            "Share Price": "₹ 38",
+            "Source": "bsus",
+            "Special Comment": "Cosmetics"
+        },
+        "Sterlite Power Transm Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE110V01015",
+            "Sector": "Infrastructure",
+            "Share Price": "₹ 635",
+            "Source": "bsus",
+            "Special Comment": "Cheapest power infrastructure stock"
+        },
+        "Studds Accessories Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE00Q601028",
+            "Sector": "Helmet maker",
+            "Share Price": "₹ 865",
+            "Source": "bsus",
+            "Special Comment": "World’s largest helmet maker. IPO soon"
+        },
+        "Suryoday Small Finance Bank Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE428Q01011",
+            "Sector": "Small Finance Bank",
+            "Share Price": "Now listed on BSE, NSE after IPO",
+            "Source": "bsus"
+        },
+        "TRL Krosaki Refractories Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE012L01014",
+            "Sector": "Refractories",
+            "Share Price": "₹ 1275",
+            "Source": "bsus",
+            "Special Comment": "No 1 Refractory, strong fundamentals"
+        },
+        "Tamilnad Mercantile Bank (TMB) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE668A01016",
+            "Sector": "Private Bank",
+            "Share Price": "Now Listed on BSE, NSE",
+            "Source": "bsus"
+        },
+        "Taparia Tools Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE614R01014",
+            "Sector": "Tools",
+            "Share Price": "₹ 4000",
+            "Source": "bsus"
+        },
+        "Tata Capital Unlisted Shares  (New Arrival)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE976I01016",
+            "Sector": "NBFC",
+            "Share Price": "₹ 475",
+            "Source": "bsus",
+            "Special Comment": "Tata group leading financial firm"
+        },
+        "Tata Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE142M01017",
+            "Sector": "Technology",
+            "Share Price": "₹ 925",
+            "Source": "bsus",
+            "Special Comment": "Tata group engineering co. IPO soon"
+        },
+        "UTI Asset Management Company (UTI AMC) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE094J01016",
+            "Sector": "Asset management company",
+            "Share Price": "Now listed on NSE, BSE",
+            "Source": "bsus"
+        },
+        "Urban Tots Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0MQ801018",
+            "Sector": "Housewares, Toys",
+            "Share Price": "₹ 48",
+            "Source": "bsus",
+            "Special Comment": "Toys exporter"
+        },
+        "Utkarsh Microfinance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE396P01012",
+            "Sector": "Small Fin Bank",
+            "Share Price": "₹ 195",
+            "Source": "bsus",
+            "Special Comment": "Financial inclusion beneficiary + IPO soon"
+        },
+        "Waaree Energies Unlisted Shares(New Arrival)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE377N01017",
+            "Sector": "Solar modules leader",
+            "Share Price": "₹ 775",
+            "Source": "bsus",
+            "Special Comment": "Renewable energy Solar PV Module manufacturer"
+        },
+        "Xerox India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE034E01013",
+            "Sector": "Printing solutions",
+            "Share Price": "₹ 250",
+            "Source": "bsus"
+        },
+        "Yokogawa India Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE718A01019",
+            "Sector": "",
+            "Share Price": "₹ 900",
+            "Source": "bsus"
+        },
+        "boAt (Imagine Marketing) Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE03AV01027",
+            "Sector": "cons electronics",
+            "Share Price": "₹ 925",
+            "Source": "bsus",
+            "Special Comment": "IPO soon"
+        }
+    }
+}
