@@ -4,7 +4,7 @@ This project aims to scrape music information such as artists, albums, songs, an
 
 ## Steps to begin
 
-Ensure that you're in the correct directory path before running any spiders, this can be checked using `pwd` command: `.../Web-ScrapingAZLyrics`.
+Ensure that you're in the correct directory path, this can be checked using `pwd` command: `.../Web-ScrapingAZLyrics`.
 The `ls` command should return this:
 
 ```bash

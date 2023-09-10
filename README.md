@@ -32,7 +32,8 @@ source .scrape/bin/activate
 ## Projects
 
 * **WikiCompanies**: This project utilizes Scrapy aims to scrape all US companies and its firmographics data from the Wikipedia infobox.
-* **WWIPL**: This is a Selenium based project that aims to scrape unlisted companies in India from URL: `https://wwipl.com/`.
+* **WWIPL**: This is a Selenium based project that aims to scrape unlisted companies of India from URL: `https://wwipl.com/`.
+* **UnlistedDeal**: This is a Selenium based web scraping script that aims to scrape unlisted companies of India from URL: `https://www.unlisteddeal.com/unlisted-share/`.
 * **AZLyrics**: Using BeautifulSoap and Selenium, this project aims to scrape music information such as artists, albums, songs, and lyrics from URL: `https://azlyrics.com/`.
 
 

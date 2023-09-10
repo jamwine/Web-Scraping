@@ -6,7 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from chromedriver_autoinstaller import install as chromedriver_install
 import python_utils.generic_utils as gu
-
+import pendulum
+import time
 # Driver (manual install): https://googlechromelabs.github.io/chrome-for-testing/
 
 # Automatically download and install the appropriate ChromeDriver version
@@ -14,10 +15,10 @@ chromedriver_install()
 
 def scrape_data(url, output_path="."):
     """
-    Scrape tabular data from a webpage, save it as XLSX and CSV files, and return a DataFrame.
+    Scrape tabular data from a webpage, save it as JSON and CSV files, and return a DataFrame.
 
     This function uses Selenium and BeautifulSoup to scrape tabular data from a webpage, paginates through the content,
-    and saves the data as both XLSX and CSV files. It also returns the scraped data as a DataFrame.
+    and saves the data as both JSON and CSV files. It also returns the scraped data as a DataFrame.
 
     :param url: The URL of the webpage to scrape.
     :param output_folder: (Optional) The folder where the output files will be saved.
@@ -28,6 +29,9 @@ def scrape_data(url, output_path="."):
     driver = webdriver.Chrome()
 
     data = {}
+    source_name = "wwipl"
+    today = pendulum.today().date()
+    etl_date = today.to_date_string()
 
     try:
         driver.get(url)
@@ -40,6 +44,7 @@ def scrape_data(url, output_path="."):
             driver.execute_script("arguments[0].scrollIntoView(true);", element)
 
         while True:
+            time.sleep(5)
             # Wait for the "Next" button to become clickable
             next_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "a.paginate_button.next")))
 
@@ -66,7 +71,9 @@ def scrape_data(url, output_path="."):
                     data[script_name] = {"Category": category,
                                          "Sector": sector,
                                          "Price (in rupees)": price,
-                                         "Market Cap (in crores)": market_cap}
+                                         "Market Cap (in crores)": market_cap,
+                                         "Source": source_name,
+                                         "ETL Date": etl_date}
 
             # Check if there is a "Next" button on the page
             if "disabled" in next_button.get_attribute("class"):
@@ -80,12 +87,14 @@ def scrape_data(url, output_path="."):
     finally:
         driver.quit()
 
-    filename = "wwipl"
+
+    filename = f'{source_name}_{today.strftime("%Y%m%d")}'
+    gu.save_output_in_json(output_file_path = f'{output_path}/{filename}.json', data = data, data_description=f'{source_name}_UnlistedShares')
     
-    gu.save_output_in_json(output_file_path = f'{output_path}/{filename}.json', data = data, data_description=f'{filename}_UnlistedShares')
-    
-    df = pd.DataFrame(data).T.reset_index()
-    df.columns = ["Script Name", "Category", "Sector", "Price (in rupees)", "Market Cap (in crores)"]
+    df = pd.DataFrame(data).T
+    columns = list(df.columns)
+    df = df.reset_index()
+    df.columns = ["Company Name"] + columns
     df.to_csv(f'{output_path}/{filename}.csv', index=False)
     
     print(f"Data scraped!")
