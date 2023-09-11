@@ -1,0 +1,708 @@
+{
+    "usb_UnlistedShares": {
+        "AGS Transact Technologies Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE583L01014",
+            "Lot Size": "100",
+            "Price": "150",
+            "Sell Price": "200",
+            "Source": "usb"
+        },
+        "API Holdings Limited (PharmEasy)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0DJ201029",
+            "Lot Size": "100",
+            "Price": "8",
+            "Sell Price": "12",
+            "Source": "usb"
+        },
+        "AV Thomas Co Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Lot Size": "100",
+            "Price": "15000",
+            "Sell Price": "18000",
+            "Source": "usb"
+        },
+        "Amol Minechem Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE404C01012",
+            "Lot Size": "",
+            "Price": "550",
+            "Sell Price": "650",
+            "Source": "usb"
+        },
+        "Anand Projects Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE134R01013",
+            "Lot Size": "100",
+            "Price": "150",
+            "Sell Price": "250",
+            "Source": "usb"
+        },
+        "Anheuser Busch Inbev I Ltd Unlisted shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "BE0974293251",
+            "Lot Size": "100",
+            "Price": "250",
+            "Sell Price": "400",
+            "Source": "usb"
+        },
+        "Anugraha Valve Castings Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE629Z01015",
+            "Lot Size": "",
+            "Price": "230",
+            "Sell Price": "300",
+            "Source": "usb"
+        },
+        "Aricent Technologies Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE272I01010",
+            "Lot Size": "100",
+            "Price": "550",
+            "Sell Price": "650",
+            "Source": "usb"
+        },
+        "Assam Carbon Products Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE496C01018",
+            "Lot Size": "",
+            "Price": "170",
+            "Sell Price": "250",
+            "Source": "usb"
+        },
+        "B9 Beverages Bira Beer Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE833U01014",
+            "Lot Size": "",
+            "Price": "550",
+            "Sell Price": "625",
+            "Source": "usb"
+        },
+        "BLSX LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0MDG01016",
+            "Lot Size": "100",
+            "Price": "20",
+            "Sell Price": "30",
+            "Source": "usb"
+        },
+        "Bharat Hotels Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE466A01015",
+            "Lot Size": "100",
+            "Price": "150",
+            "Sell Price": "200",
+            "Source": "usb"
+        },
+        "Bharat Nidhi Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE286F01016",
+            "Lot Size": "100",
+            "Price": "9000",
+            "Sell Price": "11500",
+            "Source": "usb"
+        },
+        "C&S Electric Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE052F01012",
+            "Lot Size": "",
+            "Price": "490",
+            "Sell Price": "600",
+            "Source": "usb"
+        },
+        "COCHIN INTERNATIONAL AIRPORT LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE02KH01019",
+            "Lot Size": "100",
+            "Price": "169",
+            "Sell Price": "185",
+            "Source": "usb"
+        },
+        "Camac Commercial Company Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE227E01013",
+            "Lot Size": "100",
+            "Price": "30000",
+            "Sell Price": "40000",
+            "Source": "usb"
+        },
+        "Capgemini Technology Services India Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE177B01032",
+            "Lot Size": "",
+            "Price": "9800",
+            "Sell Price": "11000",
+            "Source": "usb"
+        },
+        "Capital Small Finance Bank Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE646H08020",
+            "Lot Size": "100",
+            "Price": "325",
+            "Sell Price": "400",
+            "Source": "usb"
+        },
+        "Care Health (Religare Health) Insurance Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE119J01011",
+            "Lot Size": "",
+            "Price": "155",
+            "Sell Price": "170",
+            "Source": "usb"
+        },
+        "Carrier Airconditioning and Refrigeration Ltd. Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE040I01011",
+            "Lot Size": "100",
+            "Price": "240",
+            "Sell Price": "300",
+            "Source": "usb"
+        },
+        "Chennai Super Kings Cricket Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE852S01026",
+            "Lot Size": "100",
+            "Price": "155",
+            "Sell Price": "170",
+            "Source": "usb"
+        },
+        "Dalmia Refractories Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE200F01017",
+            "Lot Size": "100",
+            "Price": "100",
+            "Sell Price": "170",
+            "Source": "usb"
+        },
+        "Digvijay Finlease Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE01US01017",
+            "Lot Size": "100",
+            "Price": "1500",
+            "Sell Price": "1900",
+            "Source": "usb"
+        },
+        "ESL Steel limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE481K01021",
+            "Lot Size": "",
+            "Price": "30",
+            "Sell Price": "40",
+            "Source": "usb"
+        },
+        "Elcid Investments Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE927X01018",
+            "Lot Size": "100",
+            "Price": "120000",
+            "Sell Price": "140000",
+            "Source": "usb"
+        },
+        "Elofic Industries Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE02YY01015",
+            "Lot Size": "",
+            "Price": "2200",
+            "Sell Price": "2600",
+            "Source": "usb"
+        },
+        "Empire Spices and Foods Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE041101010",
+            "Lot Size": "",
+            "Price": "300",
+            "Sell Price": "400",
+            "Source": "usb"
+        },
+        "Fincare Business Services Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE957R01025",
+            "Lot Size": "100",
+            "Price": "80",
+            "Sell Price": "92",
+            "Source": "usb"
+        },
+        "Fino Paytech Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE511I01011",
+            "Lot Size": "100",
+            "Price": "100",
+            "Sell Price": "150",
+            "Source": "usb"
+        },
+        "Frick India Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE499C01012",
+            "Lot Size": "100",
+            "Price": "6000",
+            "Sell Price": "6500",
+            "Source": "usb"
+        },
+        "G G Automotive Gears Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE493B01017",
+            "Lot Size": "100",
+            "Price": "25",
+            "Sell Price": "35",
+            "Source": "usb"
+        },
+        "HDB Financial Services Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE756I01012",
+            "Lot Size": "100",
+            "Price": "650",
+            "Sell Price": "700",
+            "Source": "usb"
+        },
+        "HDFC Securities Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE700G01014",
+            "Lot Size": "100",
+            "Price": "10500",
+            "Sell Price": "11500",
+            "Source": "usb"
+        },
+        "Hero Fincorp Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE957N01016",
+            "Lot Size": "100",
+            "Price": "1100",
+            "Sell Price": "1200",
+            "Source": "usb"
+        },
+        "Hexaware Technologies Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE093A01033",
+            "Lot Size": "100",
+            "Price": "575",
+            "Sell Price": "650",
+            "Source": "usb"
+        },
+        "Hicks Thermometers (India) Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE923S01017",
+            "Lot Size": "100",
+            "Price": "1400",
+            "Sell Price": "1600",
+            "Source": "usb"
+        },
+        "Hindustan Times Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE946D01010",
+            "Lot Size": "25",
+            "Price": "600",
+            "Sell Price": "750",
+            "Source": "usb"
+        },
+        "IMAGINE MARKETING LIMITED (BOAT)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE03AV01027",
+            "Lot Size": "100",
+            "Price": "850",
+            "Sell Price": "950",
+            "Source": "usb"
+        },
+        "India Carbon Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE743B01015",
+            "Lot Size": "100",
+            "Price": "900",
+            "Sell Price": "1100",
+            "Source": "usb"
+        },
+        "India Exposition Mart Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE01JH01013",
+            "Lot Size": "100",
+            "Price": "100",
+            "Sell Price": "150",
+            "Source": "usb"
+        },
+        "Indian Commodity Exchange Limited (ICEX)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE678L01012",
+            "Lot Size": "100",
+            "Price": "3",
+            "Sell Price": "6",
+            "Source": "usb"
+        },
+        "Indofil Industries Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE071I01016",
+            "Lot Size": "100",
+            "Price": "600",
+            "Sell Price": "700",
+            "Source": "usb"
+        },
+        "Inkel Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE308U01017",
+            "Lot Size": "",
+            "Price": "9",
+            "Sell Price": "14",
+            "Source": "usb"
+        },
+        "Inox Leasing & Finance ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE608E01014",
+            "Lot Size": "",
+            "Price": "2100",
+            "Sell Price": "2500",
+            "Source": "usb"
+        },
+        "KANNUR INTERNATIONAL AIRPORT LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE02Y401013",
+            "Lot Size": "100",
+            "Price": "100",
+            "Sell Price": "115",
+            "Source": "usb"
+        },
+        "Kurlon Enterprises Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE781F01032",
+            "Lot Size": "100",
+            "Price": "600",
+            "Sell Price": "700",
+            "Source": "usb"
+        },
+        "Kurlon Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE781F01032",
+            "Lot Size": "100",
+            "Price": "460",
+            "Sell Price": "550",
+            "Source": "usb"
+        },
+        "LAVA International Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE745X01014",
+            "Lot Size": "",
+            "Price": "80",
+            "Sell Price": "120",
+            "Source": "usb"
+        },
+        "Lakeshore Hospital & Research Centre Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE01TI01010",
+            "Lot Size": "100",
+            "Price": "55",
+            "Sell Price": "70",
+            "Source": "usb"
+        },
+        "MARKET SIMPLIFIED INDIA LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE931L01015",
+            "Lot Size": "100",
+            "Price": "52",
+            "Sell Price": "63",
+            "Source": "usb"
+        },
+        "MAXVALUE CREDITS AND INVESTMENTS LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE040401023",
+            "Lot Size": "",
+            "Price": "5",
+            "Sell Price": "7",
+            "Source": "usb"
+        },
+        "MINOSHA INDIA LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE291B01023",
+            "Lot Size": "100",
+            "Price": "0",
+            "Sell Price": "0",
+            "Source": "usb"
+        },
+        "Maharashtra Knowledge Corporation Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE03KR01016",
+            "Lot Size": "",
+            "Price": "250",
+            "Sell Price": "350",
+            "Source": "usb"
+        },
+        "Merind Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE215A01016",
+            "Lot Size": "100",
+            "Price": "200",
+            "Sell Price": "350",
+            "Source": "usb"
+        },
+        "Merino Industries Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE662B01017",
+            "Lot Size": "100",
+            "Price": "2700",
+            "Sell Price": "2800",
+            "Source": "usb"
+        },
+        "Metropolitan Stock Exchange Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE312K01010",
+            "Lot Size": "1000",
+            "Price": "0.70",
+            "Sell Price": "1.00",
+            "Source": "usb"
+        },
+        "Mohan Meakin Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE136D01018",
+            "Lot Size": "100",
+            "Price": "1500",
+            "Sell Price": "1700",
+            "Source": "usb"
+        },
+        "Mohindra Fasteners Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE705H01011",
+            "Lot Size": "",
+            "Price": "140",
+            "Sell Price": "225",
+            "Source": "usb"
+        },
+        "Motilal Oswal Home Finance Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE658R01011",
+            "Lot Size": "",
+            "Price": "7",
+            "Sell Price": "10",
+            "Source": "usb"
+        },
+        "NCL Buildtek Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE243S01010",
+            "Lot Size": "100",
+            "Price": "200",
+            "Sell Price": "250",
+            "Source": "usb"
+        },
+        "NCL Holdings (A&S) Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE06DT01010",
+            "Lot Size": "100",
+            "Price": "55",
+            "Sell Price": "70",
+            "Source": "usb"
+        },
+        "National Stock Exchange of India Limited (NSE)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Lot Size": "100",
+            "Price": "3100",
+            "Sell Price": "3300",
+            "Source": "usb"
+        },
+        "Nayara Energy Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE011A01019",
+            "Lot Size": "100",
+            "Price": "200",
+            "Sell Price": "250",
+            "Source": "usb"
+        },
+        "ORAVEL STAYS LIMITED (OYO)": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE561T01021",
+            "Lot Size": "100",
+            "Price": "55",
+            "Sell Price": "68",
+            "Source": "usb"
+        },
+        "ORBIS FINANCIAL CORPORATION LTD.": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE155K01013",
+            "Lot Size": "100",
+            "Price": "80",
+            "Sell Price": "100",
+            "Source": "usb"
+        },
+        "One Mobikwik Systems Limited unlisted share": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0HLU01028",
+            "Lot Size": "100",
+            "Price": "250",
+            "Sell Price": "350",
+            "Source": "usb"
+        },
+        "Otis Elevator Company (I) Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE099A01014",
+            "Lot Size": "100",
+            "Price": "3200",
+            "Sell Price": "4000",
+            "Source": "usb"
+        },
+        "PHARMED LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0EEI01017",
+            "Lot Size": "100",
+            "Price": "500",
+            "Sell Price": "700",
+            "Source": "usb"
+        },
+        "PNB Finance Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE057F01011",
+            "Lot Size": "100",
+            "Price": "6000",
+            "Sell Price": "7000",
+            "Source": "usb"
+        },
+        "Philips Domestic Appliances India Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE0FO801019",
+            "Lot Size": "100",
+            "Price": "500",
+            "Sell Price": "600",
+            "Source": "usb"
+        },
+        "Philips India Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE319A01016",
+            "Lot Size": "100",
+            "Price": "900",
+            "Sell Price": "1100",
+            "Source": "usb"
+        },
+        "Ramaraju Surgical Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE328E01027",
+            "Lot Size": "100",
+            "Price": "680",
+            "Sell Price": "740",
+            "Source": "usb"
+        },
+        "Reliance Retail Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE742O01010",
+            "Lot Size": "",
+            "Price": "0.00",
+            "Sell Price": "0.00",
+            "Source": "usb"
+        },
+        "Resins and Plastics Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE422F01017",
+            "Lot Size": "100",
+            "Price": "300",
+            "Sell Price": "375",
+            "Source": "usb"
+        },
+        "Ring Plus Aqua Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE093H01012",
+            "Lot Size": "100",
+            "Price": "350",
+            "Sell Price": "425",
+            "Source": "usb"
+        },
+        "SBI HOME FINANCE LIMITED": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE627A01012",
+            "Lot Size": "",
+            "Price": "60",
+            "Sell Price": "75",
+            "Source": "usb"
+        },
+        "Schneider Electric President Systems Ltd.": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE155D01018",
+            "Lot Size": "",
+            "Price": "150",
+            "Sell Price": "290",
+            "Source": "usb"
+        },
+        "Shriram Life Insurance Company Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE227H01016",
+            "Lot Size": "100",
+            "Price": "325",
+            "Sell Price": "390",
+            "Source": "usb"
+        },
+        "Signify Innovations India Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE045U01015",
+            "Lot Size": "100",
+            "Price": "1300",
+            "Sell Price": "1500",
+            "Source": "usb"
+        },
+        "Silverline Technologies Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE368A01021",
+            "Lot Size": "100",
+            "Price": "4",
+            "Sell Price": "7",
+            "Source": "usb"
+        },
+        "Spencer & Company Limited": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "IN9766E01018",
+            "Lot Size": "100",
+            "Price": "700",
+            "Sell Price": "900",
+            "Source": "usb"
+        },
+        "Sterlite Power Transmission Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE110V01015",
+            "Lot Size": "",
+            "Price": "600",
+            "Sell Price": "650",
+            "Source": "usb"
+        },
+        "Studds Accessories Limited Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE00Q601028",
+            "Lot Size": "100",
+            "Price": "800",
+            "Sell Price": "900",
+            "Source": "usb"
+        },
+        "T Stanes & Co Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE420F01011",
+            "Lot Size": "100",
+            "Price": "700",
+            "Sell Price": "800",
+            "Source": "usb"
+        },
+        "Tata Technologies Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE142M01017",
+            "Lot Size": "100",
+            "Price": "800",
+            "Sell Price": "900",
+            "Source": "usb"
+        },
+        "Top Five Company Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Lot Size": "",
+            "Price": "",
+            "Sell Price": "",
+            "Source": "usb"
+        },
+        "Utkarsh Micro Finance Ltd Unlisted Shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "INE396P07076",
+            "Lot Size": "",
+            "Price": "100",
+            "Sell Price": "190",
+            "Source": "usb"
+        },
+        "shares": {
+            "ETL Date": "2023-09-10",
+            "ISIN": "",
+            "Lot Size": "",
+            "Price": "",
+            "Sell Price": "",
+            "Source": "usb"
+        }
+    }
+}

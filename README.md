@@ -39,6 +39,8 @@ source .scrape/bin/activate
 
 * **Rurash Financials**: This is a Selenium based web scraping script that aims to scrape unlisted companies of India from URL: `https://rurashfin.com/unlisted-shares-list/`.
 
+* **UnlistedShareBrokers**: This is a Selenium based web scraping script that aims to scrape unlisted companies of India from URL: `https://www.unlistedsharebrokers.com/`.
+
 * **BuySellUnlistedShares**: A simple web scraping script using BeautifulSoap that aims to scrape unlisted companies of India from URL: `https://buysellunlistedshares.com/`.
 
 * **AZLyrics**: Using BeautifulSoap and Selenium, this project aims to scrape music information such as artists, albums, songs, and lyrics from URL: `https://azlyrics.com/`.

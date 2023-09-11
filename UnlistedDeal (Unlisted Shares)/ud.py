@@ -38,10 +38,6 @@ def scrape_data(url, output_path="."):
         # Define a WebDriverWait with a timeout of 10 seconds
         wait = WebDriverWait(driver, 10)
 
-        # JavaScript to scroll to an element
-        def scroll_to_element(element):
-            driver.execute_script("arguments[0].scrollIntoView(true);", element)
-
         while True:           
             # Get the current page source
             page_source = driver.page_source

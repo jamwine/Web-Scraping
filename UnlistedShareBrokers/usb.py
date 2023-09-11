@@ -28,7 +28,7 @@ def scrape_data(url, output_path="."):
     driver = webdriver.Chrome()
 
     data = {}
-    source_name = "rf"
+    source_name = "usb"
     today = pendulum.today().date()
     etl_date = today.to_date_string()
 
@@ -38,48 +38,38 @@ def scrape_data(url, output_path="."):
         # Define a WebDriverWait with a timeout of 10 seconds
         wait = WebDriverWait(driver, 10)
 
-        while True:           
-            # Get the current page source
-            page_source = driver.page_source
+        # Get the current page source
+        page_source = driver.page_source
 
-            # Parse the page source with BeautifulSoup
-            soup = BeautifulSoup(page_source, 'html.parser')
+        # Parse the page source with BeautifulSoup
+        # content = page_source.encode('utf-8').strip()
+        soup = BeautifulSoup(page_source, 'html.parser')
 
-            # Find all table rows excluding the header row
-            data_rows = soup.find_all('tr')[1:]
+        # Find all table rows excluding the header row
+        table = soup.find("table", {"class": "posts-data-table dataTable no-footer dtr-inline"})
+        tbody = table.find("tbody")
+        data_rows = tbody.find_all('tr')
 
-            # Iterate through each data row and extract the desired information
-            for row in data_rows:
-                cells = row.find_all('td')
-                if len(cells) == 4:  # Ensure that there are exactly 4 cells in each row
-                    
-                    company_name = cells[0].get_text(strip=True)
-                    industry = cells[1].get_text(strip=True)
-                    price = cells[2].get_text(strip=True)
-                    min_qty = cells[3].get_text(strip=True)
-
-                data[company_name] = {"Price": price,
-                                      "Lot Size": min_qty,
-                                      "Industry": industry,
-                                      "Source": source_name,
-                                      "ETL Date": etl_date
-                                      }
-
-            # Try to find the "Next" button by its attributes, if it's not found, break the loop
-            try:
-                next_button = driver.find_element("xpath", "//*[@class='paginate_button next']")  # Modify the XPath as needed
-            except:
-                break
+        # Iterate through each data row and extract the desired information
+        for row in data_rows:
+            cells = row.find_all('td')
             
-            # Check if the "Next" button is disabled, if so, break the loop
-            if 'disabled' in next_button.get_attribute('class'):
-                break
+            # Check if the row has at least 6 columns
+            if len(cells) >= 6:
+                # Extract the data from the columns
+                company_name = cells[1].find("a").get_text().strip()
+                buy_price = cells[2].get_text().strip()
+                sell_price = cells[3].get_text().strip()
+                lot_size = cells[4].get_text().strip()
+                isin = cells[5].get_text().strip()
 
-            # Click the "Next" button to go to the next page
-            next_button.click()
-            
-            # Wait for a short while to load the next page (you may need to adjust this)
-            time.sleep(5)
+            data[company_name] = {"Price": buy_price,
+                                    "Sell Price": sell_price,
+                                    "Lot Size": lot_size,
+                                    "ISIN": isin,
+                                    "Source": source_name,
+                                    "ETL Date": etl_date
+                                    }
 
     except Exception as e:
         print(f"Exception while scraping: {str(e)}")
@@ -101,5 +91,5 @@ def scrape_data(url, output_path="."):
 
 
 # Main Program
-url = "https://rurashfin.com/unlisted-shares-list/"
+url = "https://www.unlistedsharebrokers.com/"
 _ = scrape_data(url, output_path="data")
