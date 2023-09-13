@@ -5,7 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from chromedriver_autoinstaller import install as chromedriver_install
 import python_utils.generic_utils as gu
 import pendulum
-import time
 
 # Automatically download and install the appropriate ChromeDriver version
 chromedriver_install()

@@ -33,6 +33,8 @@ source .scrape/bin/activate
 
 * **WikiCompanies**: This project utilizes Scrapy aims to scrape all US companies and its firmographics data from the Wikipedia infobox.
 
+* **UnlistedZoneShares**: This is a Scrapy project that aims to scrape unlisted companies of India from URL: `https://unlistedzone.com/shares/`.
+
 * **WWIPL**: This is a Selenium based project that aims to scrape unlisted companies of India from URL: `https://wwipl.com/`.
 
 * **UnlistedDeal**: This is a Selenium based web scraping script that aims to scrape unlisted companies of India from URL: `https://www.unlisteddeal.com/unlisted-share/`.
@@ -63,3 +65,15 @@ scrapy crawl example
 scrapy crawl example -o name_of_file.csv
 scrapy crawl example -o name_of_file.json
 ```
+
+---
+
+### • Scrapy Directory
+
+Directory Diagram of Scrapy
+![directory_scrapy.png](https://raw.githubusercontent.com/jamwine/Web-Scraping/blob/main/imgs/directory_scrapy.png)
+
+### • Scraping Flow
+
+Process flow of the scraping process.
+![flowchart.png](https://raw.githubusercontent.com/jamwine/Web-Scraping/blob/main/imgs/flowchart.png)
