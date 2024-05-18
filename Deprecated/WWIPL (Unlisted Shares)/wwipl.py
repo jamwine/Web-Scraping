@@ -4,14 +4,30 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from chromedriver_autoinstaller import install as chromedriver_install
+from selenium.webdriver.chrome.service import Service
+# from chromedriver_autoinstaller import install as chromedriver_install
 import python_utils.generic_utils as gu
 import pendulum
 import time
+from webdriver_manager.chrome import ChromeDriverManager
 # Driver (manual install): https://googlechromelabs.github.io/chrome-for-testing/
 
 # Automatically download and install the appropriate ChromeDriver version
-chromedriver_install()
+# chromedriver_install()
+
+# Configure Chrome options
+options = webdriver.ChromeOptions()
+options.add_argument('--ignore-ssl-errors=yes')
+options.add_argument('--ignore-certificate-errors')
+options.add_argument("disable-infobars")
+options.add_argument("--disable-extensions")
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36")
+
+
+# Provide the path to the ChromeDriver executable
+driver_path = "F:/chrome-win64/chromedriver.exe"
+driver = webdriver.Chrome(service=Service(driver_path), options=options) 
+    
 
 def scrape_data(url, output_path="."):
     """

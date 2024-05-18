@@ -1,0 +1,347 @@
+{
+    "rf_UnlistedShares": {
+        "AFCON India Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Construction",
+            "Lot Size": "100",
+            "Price": "34",
+            "Source": "rf"
+        },
+        "API Holding Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Healthcare/Pharma",
+            "Lot Size": "5000",
+            "Price": "9.45",
+            "Source": "rf"
+        },
+        "Axles India Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Ancillary",
+            "Lot Size": "500",
+            "Price": "400",
+            "Source": "rf"
+        },
+        "B9 Beverage Private Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Brewery",
+            "Lot Size": "400",
+            "Price": "615",
+            "Source": "rf"
+        },
+        "CSK Cricket Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Sports",
+            "Lot Size": "1000",
+            "Price": "173",
+            "Source": "rf"
+        },
+        "Capgemini Technology Service India Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "IT Services",
+            "Lot Size": "15",
+            "Price": "12200",
+            "Source": "rf"
+        },
+        "Capital Small Finance Bank Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "500",
+            "Price": "425",
+            "Source": "rf"
+        },
+        "Care Health Insurance Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Insurance",
+            "Lot Size": "1000",
+            "Price": "182",
+            "Source": "rf"
+        },
+        "Carrier Airconditioning & Refrigeration Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Electronic Equipment",
+            "Lot Size": "500",
+            "Price": "395",
+            "Source": "rf"
+        },
+        "Cochin International Airport Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Airport",
+            "Lot Size": "1000",
+            "Price": "231",
+            "Source": "rf"
+        },
+        "Digvijay Finlease Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "30",
+            "Price": "1469",
+            "Source": "rf"
+        },
+        "ESL Steel ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Metal",
+            "Lot Size": "5000",
+            "Price": "36",
+            "Source": "rf"
+        },
+        "Fino Paytech Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "1500",
+            "Price": "133",
+            "Source": "rf"
+        },
+        "Frick India Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Manufacturing",
+            "Lot Size": "20",
+            "Price": "9900",
+            "Source": "rf"
+        },
+        "GKN Driveline Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Auto Ancillary",
+            "Lot Size": "150",
+            "Price": "1680",
+            "Source": "rf"
+        },
+        "Godavari Biorefineries Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Chemical",
+            "Lot Size": "1000",
+            "Price": "71",
+            "Source": "rf"
+        },
+        "HDB Financials Service Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "300",
+            "Price": "718",
+            "Source": "rf"
+        },
+        "HDFC Securities Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "20",
+            "Price": "10600",
+            "Source": "rf"
+        },
+        "Hero Fincorp Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "200",
+            "Price": "1325",
+            "Source": "rf"
+        },
+        "Hexaware Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "IT Services",
+            "Lot Size": "300",
+            "Price": "725",
+            "Source": "rf"
+        },
+        "Hicks Thermometers (I) Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Medical Equipment",
+            "Lot Size": "20",
+            "Price": "3800",
+            "Source": "rf"
+        },
+        "IXIGO Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Travel Company",
+            "Lot Size": "2000",
+            "Price": "125",
+            "Source": "rf"
+        },
+        "Indian Carbon Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Mining",
+            "Lot Size": "200",
+            "Price": "945",
+            "Source": "rf"
+        },
+        "Indofil Industries Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Chemical",
+            "Lot Size": "400",
+            "Price": "685",
+            "Source": "rf"
+        },
+        "Kannur International Airport Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Airport",
+            "Lot Size": "500",
+            "Price": "101",
+            "Source": "rf"
+        },
+        "Kurlon Enterprises Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Mattress",
+            "Lot Size": "200",
+            "Price": "650",
+            "Source": "rf"
+        },
+        "Lava Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Tech Company",
+            "Lot Size": "2000",
+            "Price": "85",
+            "Source": "rf"
+        },
+        "MKCL Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Ed-Tech",
+            "Lot Size": "500",
+            "Price": "450",
+            "Source": "rf"
+        },
+        "Merino Industries Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Laminates & IT Solution",
+            "Lot Size": "50",
+            "Price": "3080",
+            "Source": "rf"
+        },
+        "Metropolitan Stock Exchange of India Ltd Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Stock Exchange",
+            "Lot Size": "25000",
+            "Price": "0.98",
+            "Source": "rf"
+        },
+        "Mobikwik Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Payment Services",
+            "Lot Size": "300",
+            "Price": "750",
+            "Source": "rf"
+        },
+        "Mohan Meakin Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Brewery",
+            "Lot Size": "200",
+            "Price": "1750",
+            "Source": "rf"
+        },
+        "Motilal Oswal Home Finance Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "10000",
+            "Price": "13.4",
+            "Source": "rf"
+        },
+        "NCL Buildtek Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Housing Material",
+            "Lot Size": "1000",
+            "Price": "247",
+            "Source": "rf"
+        },
+        "National Stock Exchange Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Stock Exchange",
+            "Lot Size": "200",
+            "Price": "3850",
+            "Source": "rf"
+        },
+        "Nayara Energy Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Oil Refinery",
+            "Lot Size": "500",
+            "Price": "355",
+            "Source": "rf"
+        },
+        "Orbis Financial Corportaion Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Custodian Services",
+            "Lot Size": "1000",
+            "Price": "242",
+            "Source": "rf"
+        },
+        "PayMate Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Fintech Services",
+            "Lot Size": "500",
+            "Price": "510",
+            "Source": "rf"
+        },
+        "Philips India Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Electronics Equipment",
+            "Lot Size": "200",
+            "Price": "925",
+            "Source": "rf"
+        },
+        "Reliance Retail Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Retail",
+            "Lot Size": "200",
+            "Price": "1280",
+            "Source": "rf"
+        },
+        "Ring plus Aqua Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Auto Ancillary",
+            "Lot Size": "400",
+            "Price": "394",
+            "Source": "rf"
+        },
+        "Roots Multiclean Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Manufacturing",
+            "Lot Size": "250",
+            "Price": "1350",
+            "Source": "rf"
+        },
+        "SBI General Insurance Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Insurance",
+            "Lot Size": "100",
+            "Price": "580",
+            "Source": "rf"
+        },
+        "Signify India Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Electronic Equipment",
+            "Lot Size": "100",
+            "Price": "1560",
+            "Source": "rf"
+        },
+        "Sterlite Power Transmission Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Power & Transmission",
+            "Lot Size": "500",
+            "Price": "508",
+            "Source": "rf"
+        },
+        "Studds Accessories Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Safety Gear",
+            "Lot Size": "200",
+            "Price": "825",
+            "Source": "rf"
+        },
+        "TRL Krosaki Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Refractory",
+            "Lot Size": "200",
+            "Price": "1285",
+            "Source": "rf"
+        },
+        "Tata Capital Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Financial Services",
+            "Lot Size": "200",
+            "Price": "680",
+            "Source": "rf"
+        },
+        "Xerox India Limited Unlisted share": {
+            "ETL Date": "2024-05-18",
+            "Industry": "Tech Company",
+            "Lot Size": "500",
+            "Price": "130",
+            "Source": "rf"
+        }
+    }
+}

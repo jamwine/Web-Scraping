@@ -2,6 +2,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from chromedriver_autoinstaller import install as chromedriver_install
 import python_utils.generic_utils as gu
 import pendulum
@@ -12,6 +14,14 @@ chromedriver_install()
 
 # Driver (manual install): https://googlechromelabs.github.io/chrome-for-testing/
 
+def close_pop_up(driver):
+    try:
+        # Check if the pop-up is present, if it is, close it
+        pop_up_close_button = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH, "//button[@class='close']")))
+        pop_up_close_button.click()
+    except:
+        pass
+    
 def scrape_data(url, output_path="."):
     """
     Scrape tabular data from a webpage, save it as JSON and CSV files, and return a DataFrame.
@@ -65,6 +75,9 @@ def scrape_data(url, output_path="."):
                                       "ETL Date": etl_date
                                       }
 
+            # Close any pop-up advertisements
+            close_pop_up(driver)
+            
             # Try to find the "Next" button by its attributes, if it's not found, break the loop
             try:
                 next_button = driver.find_element("xpath", "//*[@class='paginate_button next']")  # Modify the XPath as needed
@@ -80,7 +93,7 @@ def scrape_data(url, output_path="."):
             
             # Wait for a short while to load the next page (you may need to adjust this)
             time.sleep(5)
-
+            
     except Exception as e:
         print(f"Exception while scraping: {str(e)}")
     finally:

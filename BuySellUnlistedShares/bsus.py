@@ -45,9 +45,9 @@ def scrape_data(url, output_path="."):
                     # Extract the specific data you need
                     company_name = cells[1].get_text(strip=True)
                     share_price = cells[2].get_text(strip=True)
-                    sector = cells[4].get_text(strip=True)
-                    isin = cells[5].get_text(strip=True)
-                    special_comment = cells[6].get_text(strip=True)
+                    sector = cells[3].get_text(strip=True)
+                    isin = cells[4].get_text(strip=True)
+                    special_comment = cells[5].get_text(strip=True)
 
                     data[company_name] = {"Share Price": share_price,
                                         "Sector": sector,
